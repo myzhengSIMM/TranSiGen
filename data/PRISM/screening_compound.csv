@@ -1,0 +1,1626 @@
+canonical_smiles,cp_id,PRISM_auc,name,moa,target
+CC(NC(=O)C1CSCN1C(=O)c1ccccc1)c1ccccc1,0,-1.0,RS-0481,immunostimulant,
+C/C=C1\C(OC2OC(CO)C(O)C(O)C2O)OC=C(C(=O)OC)C1CC(=O)OCCc1ccc(O)c(O)c1,1,-1.0,oleuropein,estrogen receptor agonist,GPER1
+CCC(C)C(N)C(=O)O,2,-1.0,isoleucine,,"ACADSB, BCAT1, BCAT2, IARS, IARS2"
+CC(N)Cc1cccc(O)c1,3,-1.0,gepefrine,adrenergic receptor agonist,
+CC(C)(C)NCC(O)COc1cc(Cl)ccc1Cl,4,-1.0,cloranolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3"
+CC(C)(C)NCC(O)c1cc(Br)no1,5,-1.0,broxaterol,adrenergic receptor agonist,ADRB2
+CC(C)=CCC/C(C)=C/CNCCNC1[C@H]2C[C@@H]3C[C@@H](C[C@H]1C3)C2,6,-1.0,SQ-109,bacterial cell wall synthesis inhibitor,FDFT1
+CC(C)CC(NC(=O)C1CCCN1)C(=O)NCC(N)=O,7,-1.0,prolylleucylglycinamide,melanocyte-stimulating hormone release inhibitor,
+CCCCCCCCCCCC(=O)OCC(O)CO,8,-1.0,glycerol-monolaurate,beta lactamase inhibitor,
+CC(C)(C)NCC(O)c1cc(Cl)c(N)c(C(F)(F)F)c1,9,-1.0,mabuterol,adrenergic receptor agonist,ADRB2
+NC(=O)c1cnc2[nH]ccc2c1N[C@H]1[C@H]2C[C@H]3C[C@@H]1C[C@](O)(C3)C2,10,-1.0,peficitinib,JAK inhibitor,"JAK1, JAK2, JAK3"
+CN(C)CCC(O)(c1ccccc1)c1ccccc1Cl,11,-1.0,clofedanol,histamine receptor antagonist,HRH1
+CN1C(CSCC(F)(F)F)Nc2cc(Cl)c(S(N)(=O)=O)cc2S1(=O)=O,12,-1.0,polythiazide,sodium/chloride cotransporter inhibitor,SLC12A3
+COCC(O)Cn1ccnc1[N+](=O)[O-],13,-1.0,misonidazole,,
+C[C@@H](c1nc(-c2ccc(C#N)cc2)cs1)C(O)(Cn1cncn1)c1cc(F)ccc1F,14,-1.0,isavuconazole,cytochrome P450 inhibitor,CYP3A4
+COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)(C)CN(C)CCC(c2ccccc2)c2ccccc2)C1c1cccc([N+](=O)[O-])c1,15,-1.0,lercanidipine,calcium channel blocker,"CACNA2D1, CACNG1"
+CN1CCN(C2Cc3ccccc3Sc3ccc(Cl)cc32)CC1,16,-1.0,clorotepine,"dopamine receptor antagonist, adrenergic receptor antagonist","ADRA1A, ADRA1B, ADRA1D, DRD2, HRH1, HTR2C, HTR6"
+CC1(S(=O)(=O)O)CC(=O)c2ccccc2C1=O,17,-1.0,menadione-bisulfite,vitamin K,"GGCX, VKORC1, VKORC1L1"
+CC(C)NCC(O)c1ccc([N+](=O)[O-])cc1,18,-1.0,nifenalol,adrenergic receptor antagonist,"ADRB1, ADRB2"
+Cc1cccc(OCC(O)CNC(C)(C)C)c1C,19,-1.0,xibenolol,adrenergic receptor antagonist,
+CNC(C)Cc1ccccc1OC,20,-1.0,methoxyphenamine,adrenergic receptor agonist,
+CC(=O)OC1[C@@H](N2CC[N+](C)(C)CC2)C[C@H]2[C@@H]3CC[C@H]4C[C@H](OC(C)=O)[C@@H](N5CC[N+](C)(C)CC5)C[C@]4(C)[C@H]3CC[C@]12C,21,-1.0,pipecuronium,neuromuscular blocker,"CHRM2, CHRM3, CHRNA2"
+CC1Oc2cc(cnc2N)-c2c(nn(C)c2C#N)CN(C)C(=O)c2ccc(F)cc21,22,-1.0,PF-06463922,ALK tyrosine kinase receptor inhibitor,"ALK, FES, ROS1"
+CC(=O)NC(Cc1ccc(O)cc1)C(=O)O,23,-1.0,N-acetyl-tyrosine,,
+CN(C)[C@@H]1C(=O)C(C(N)=O)C(=O)[C@@]2(O)C(=O)C3C(=O)c4c(O)ccc(Cl)c4[C@@](C)(O)[C@H]3C[C@@H]12,24,-1.0,chlortetracycline,protein synthesis inhibitor,
+CCCC(=O)c1cc(F)ccc1OCC(O)CNC(C)(C)C,25,-1.0,butofilolol,adrenergic receptor antagonist,
+C=C1CCN([C@H](C)C(O)(Cn2cncn2)c2ccc(F)cc2F)CC1,26,-1.0,efinaconazole,lanosterol demethylase inhibitor,CYP51A1
+N=C1NCCC(C2NC(=O)/C(=C\NC(N)=O)NC(=O)C(CNC(=O)CC(N)CCCN)NC(=O)C(CO)NC(=O)C(N)CNC2=O)N1,27,-1.0,capreomycin,protein synthesis inhibitor,
+CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)NC3C(=O)NC(C(=O)NC(C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)C(OC3CC(C)(N)C(O)C(C)O3)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(NCc3ccc(-c4ccc(Cl)cc4)cc3)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O,28,-1.0,oritavancin,bacterial cell wall synthesis inhibitor,
+CC(CC(c1ccccc1)c1ccccc1)NC(C)(C)C,29,-1.0,terodiline,cholinergic receptor antagonist,
+Oc1ccc(C(O)CNCCCCCCNCC(O)c2ccc(O)c(O)c2)cc1O,30,-1.0,hexoprenaline,adrenergic receptor agonist,ADRB2
+COc1ccc2c(c1)c(CC(=O)OCC(C(=O)O)c1ccccc1)c(C)n2C(=O)c1ccc(Cl)cc1,31,-1.0,tropesin,cyclooxygenase inhibitor,"PTGS1, PTGS2"
+CNC(C)CC1CCCCC1,32,-1.0,propylhexedrine,adrenergic receptor agonist,"SLC18A2, TAAR1"
+CC(=O)NC1N=C(c2ccccc2)c2ccccc2NC1=O,33,-1.0,A-33903,,
+Cc1ncc([N+](=O)[O-])n1CC(O)CN1CCOCC1,34,-1.0,morinidazole,other antibiotic,CYP51A1
+CCOC(=O)OC(C)OC(=O)[C@@H]1N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccccc3)[C@H]2SC1(C)C,35,-1.0,bacampicillin,bacterial cell wall synthesis inhibitor,
+CC(CN(C)C)CN1c2ccccc2Sc2ccc(C#N)cc21,36,-1.0,cyamemazine,serotonin receptor antagonist,"HTR1A, HTR2A, HTR2C, HTR7"
+CCC(O)(c1ccccc1)c1cccc(C(F)(F)F)c1,37,-1.0,flumecinol,,
+O=C(c1ccc(Cl)o1)N1CC2CNCC2C1,38,-1.0,AZD1446,acetylcholine receptor agonist,"CHRNA4, CHRNB2"
+CC(C)=CCCC(C)(O)[C@H]1CC[C@]2(C)[C@@H]1[C@H](O)C[C@@H]1[C@@]3(C)CC[C@H](O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)C(C)(C)[C@@H]3CC[C@]12C,39,-1.0,ginsenoside-rg3,"angiogenesis inhibitor, apoptosis stimulant",KCNH2
+CC(O)c1cc(C(=O)N[C@@H](C)Cn2ccc(-c3ccc(C#N)c(Cl)c3)n2)n[nH]1,40,-1.0,ODM-201,androgen receptor antagonist,AR
+CCC(C/C=C/c1ccccc1)(c1ccccc1)N(C)CC1CC1,41,-1.0,igmesine,sigma receptor agonist,SIGMAR1
+Cc1ccc(Cl)c(OCC(O)CNC(C)(C)C)c1,42,-1.0,bupranolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3"
+CCCCCCCC(=O)OCC(O)CO,43,-1.0,monoctanoin,,
+CC(C)NCC(O)COc1cccc2[nH]c3ccccc3c12,44,-1.0,carazolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3"
+COc1cc(CC2NCCc3cc(O)c(O)cc32)cc(OC)c1OC,45,-1.0,trimethoquinol,adrenergic receptor antagonist,"ADRB2, ADRB3"
+CCC(C)C(C(=O)OCC[N+](C)(CC)CC)c1ccccc1,46,-1.0,valethamate,acetylcholine receptor antagonist,"CHRM1, CHRM4, CHRM5"
+CC(Nc1ncnc2nc[nH]c12)c1cc2ccc(F)cc2nc1-c1ccccn1,47,-1.0,AMG319,PI3K inhibitor,PIK3CD
+CCCCC1OC(=O)c2ccccc21,48,-1.0,butylphthalide,potassium channel antagonist,KCNK2
+CCN[C@@H]1C[C@H](N)[C@@H](O[C@H]2OC(CN)=CC[C@H]2N)[C@H](O)[C@H]1OC1OC[C@](C)(O)[C@H](NC)[C@H]1O,49,-1.0,netilmicin,protein synthesis inhibitor,
+CC(C)CC1NC(=O)C(C(C)C)NC(=O)C2CCCN2C(=O)C(CC(=O)O)NC(=O)C(Cc2c[nH]c3ccccc23)NC1=O,50,-1.0,BQ-123,endothelin receptor antagonist,EDNRA
+Cc1ccccc1OCC(O)CNCCOc1ccc(C(N)=O)cc1,51,-1.0,tolamolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3"
+CC1Sc2c(C(=O)O)c(=O)c3cc(F)c(N4CCNCC4)cc3n21,52,-1.0,ulifloxacin,,
+COc1ccccc1N1CCN(CC(O)COc2cc(OC)c(OC)c(OC)c2)CC1,53,-1.0,enciprazine,GABA receptor modulator,GABRA1
+CC(C)(C)C(=O)OCOC(=O)C1N2C(=O)CC2S(=O)(=O)C1(C)C,54,-1.0,sulbactam-pivoxil,beta lactamase inhibitor,
+CC(O)C(CO)NC(=O)C1CSSCC(NC(=O)C(N)Cc2ccccc2)C(=O)NC(Cc2ccccc2)C(=O)NC(Cc2c[nH]c3ccccc23)C(=O)NC(CCCCN)C(=O)NC(C(C)O)C(=O)N1,55,-1.0,octreotide,somatostatin receptor agonist,"SSTR1, SSTR2, SSTR3, SSTR5"
+CC1CCC2(NC1)OC1CC3C4CC=C5CC(OC6OC(CO)C(OC7OC(C)C(O)C(O)C7O)C(O)C6OC6OC(C)C(O)C(O)C6O)CCC5(C)C4CCC3(C)C1C2C,56,-1.0,solamargine,apoptosis inhibitor,
+NC(=O)CN1CC(c2ccccc2)CC1=O,57,-1.0,phenylpiracetam,noradrenaline uptake inhibitor,
+CO[C@@H]1[C@@H](OC2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](O)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@@H](CC=O)C[C@@H](C)[C@@H](O[C@H]2CC[C@H](N(C)C)[C@@H](C)O2)/C=C/C=C/C[C@@H](C)OC(=O)C[C@H]1O,58,-1.0,spiramycin,bacterial 50S ribosomal subunit inhibitor,
+CNC(=S)C1(c2ccccn2)CCCS1,59,-1.0,picartamide,H+/K+-ATPase inhibitor,ATP4A
+CN1C(=O)C(N2CCCCC2)S/C1=C\C(=O)O,60,-1.0,ozolinone,diuretic,
+CCCCC(C)(O)C/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)OC,61,-1.0,misoprostol,prostanoid receptor agonist,"PTGER2, PTGER3, PTGER4, PTGIR"
+CC(O)CN1CCN2CCN3CCN(CC1)CC(=O)O[Gd](OC(=O)C3)OC(=O)C2,62,-1.0,gadoteridol,radiopaque medium,
+CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC2(C)C1(O)C(=O)CO,63,-1.0,beclomethasone,glucocorticoid receptor agonist,"NR3C1, SERPINA6"
+CSc1ccccc1OCC(O)CNC(C)C,64,-1.0,tiprenolol,adrenergic receptor antagonist,"ADRB1, ADRB2, ADRB3"
+CN(C)C(=O)CCSC(SCCC(=O)O)c1cccc(/C=C/c2ccc3ccc(Cl)cc3n2)c1,65,-1.0,MK-571,leukotriene receptor antagonist,"ABCC2, CYSLTR1"
+Cc1ccc(NC(=O)c2ccc(CN3CCC(N(C)C)C3)c(C(F)(F)F)c2)cc1Nc1ncc(-c2cncnc2)cn1,66,0.936608143,bafetinib,"Bcr-Abl kinase inhibitor, LYN tyrosine kinase inhibitor","ABL1, BCR, LYN"
+Nc1ccc(C(=O)OCC(O)CO)cc1,67,-1.0,lisadimate,topical sunscreen agent,
+COc1cc2nc(N3CCN(C(=O)C(C)OC)CC3)nc(N)c2cc1OC,68,-1.0,metazosin,adrenergic receptor antagonist,ADRA1A
+COc1cc(C)c2c(Oc3cccc(C(F)(F)F)c3)c(OC)cc(NC(C)CCCN)c2n1,69,-1.0,tafenoquine,antimalarial agent,
+CC(S)C(=O)NCC(=O)O,70,-1.0,tiopronin,"chelating agent, reducing agent",
+CC(OC(=O)NCC1(CC(=O)O)CCCCC1)OC(=O)C(C)C,71,-1.0,gabapentin-enacarbil,adrenergic receptor agonist,"CACNA1A, CACNA1B, CACNA1C, CACNA1D, CACNA1E, CACNA1F, CACNA1G, CACNA1H, CACNA1I, CACNA1S, CACNA2D1, CACNA2D2, CACNA2D3, CACNA2D4, CACNB1, CACNB2, CACNB3, CACNB4, CACNG1, CACNG2, CACNG3, CACNG4, CACNG5, CACNG6, CACNG7, CACNG8"
+CC(=O)NC(Cc1ccc2ccccc2c1)C(=O)NC(Cc1ccc(Cl)cc1)C(=O)NC(Cc1cccnc1)C(=O)NC(CO)C(=O)NC(Cc1ccc(NC(=O)C2CC(=O)NC(=O)N2)cc1)C(=O)NC(Cc1ccc(NC(N)=O)cc1)C(=O)NC(CC(C)C)C(=O)NC(CCCCNC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(N)=O,72,-1.0,degarelix,gonadotropin releasing factor hormone receptor antagonist,GNRHR
+CCCCCCCCCCCCCCCCCCOP(=O)(O)OC1CC[N+](C)(C)CC1,73,-1.0,perifosine,AKT inhibitor,AKT1
+CCN(CC)C(=O)N[C@H]1CC2c3cccc4[nH]cc(c34)CC2N(C)C1,74,-1.0,terguride,"dopamine receptor agonist, serotonin receptor antagonist","ADRA1A, ADRA2A, ADRA2B, ADRA2C, DRD2, DRD3, DRD4, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C"
+CC(C)(C)c1ccc(CN2CCN(C(c3ccccc3)c3ccc(Cl)cc3)CC2)cc1,75,-1.0,buclizine,histamine receptor antagonist,"CHRM1, HRH1"
+C[N+](C)(C)CCOP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2ccc(N)nc2=O)[C@H](O)[C@@H]1O,76,-1.0,citicoline,"membrane permeability enhancer, glutathione transferase stimulant","ACHE, SLC1A2"
+OCC(O)COc1ccc(Cl)cc1,77,-1.0,chlorphenesin,muscle relaxant,
+Cc1oc(=O)oc1CN1CCN(c2cc3c(cc2F)c(=O)c(C(=O)O)c2n3C(C)S2)CC1,78,-1.0,prulifloxacin,bacterial DNA gyrase inhibitor,
+O=C1N=C2SCCN2C(=O)C1Cc1ccc(Cl)cc1,79,-1.0,nuclomedone,immunosuppressant,
+C[N+]1(CC2CC2)[C@H]2C[C@H](OC(=O)[C@H](CO)c3ccccc3)C[C@@H]1[C@H]1O[C@@H]21,80,-1.0,cimetropium,acetylcholine receptor antagonist,CHRM1
+CCOC(=O)CN1CCN(C(=O)/C=C/c2cc(OC)c(OC)c(OC)c2)CC1,81,-1.0,cinepazet,vasodilator,
+CCC[C@@H]1CC(=O)N([C@@H](CC)C(N)=O)C1,82,-1.0,brivaracetam,voltage-gated sodium channel blocker,SV2A
+COc1ccccc1OC(=O)c1ccccc1OC(C)=O,83,-1.0,guacetisal,immunosuppressant,
+C[C@H](NCc1ccc(OCc2ccccc2F)cc1)C(N)=O,84,-1.0,priralfinamide,sodium channel blocker,CACNA1B
+O=C(O)[C@@H]1CCCN1,85,-1.0,L-proline,glutamate receptor agonist,"EPRS, L3HYPDH, P3H1, P3H2, P3H3, P4HA1, P4HA2, PARS2, PPIA, PPIB, PPIC, PPIF, PPIG, PPIH, PRODH, PROSC, PYCR1, PYCR2, PYCRL, SLC6A14, SLC6A7"
+Cc1nsc(NC(=O)c2ccccc2)c1C(=O)Nc1ccc(Cl)cc1,86,-1.0,denotivir,antiviral,
+CC(C)(C)C(=O)Oc1ccc(S(=O)(=O)Nc2ccccc2C(=O)NCC(=O)O)cc1,87,-1.0,sivelestat,elastase inhibitor,"CELA1, ELANE"
+CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3C[C@H](C)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,88,-1.0,fluorometholone-acetate,,NR3C1
+Cc1cc(-c2ccc3c(c2)CC[C@H]3N2CC3(CCN(C(=O)Cc4cn5cc(C)sc5n4)CC3)C2)ncn1,89,-1.0,PF-05190457,growth hormone secretagogue receptor inverse agonist,GHSR
+O=S(=O)(O)c1ccc2[nH]c(-c3ccccc3)nc2c1,90,-1.0,phenylbenzimidazole-sulfonic-acid,,
+CCCCN1CCC(CNC(=O)c2c3n(c4ccccc24)CCCO3)CC1,91,-1.0,piboserod,serotonin receptor antagonist,"HTR2B, HTR4"
+COc1cc2c(N(C)C3CCN(C(C)C)CC3)nc(C3CCCCC3)nc2cc1OCCCN1CCCC1,92,-1.0,UNC0737,histone lysine methyltransferase inhibitor,"EHMT1, EHMT2"
+CCCN1C[C@@H](NS(=O)(=O)N(CC)CC)C[C@@H]2Cc3c(O)cccc3C[C@H]21,93,-1.0,quinagolide,dopamine receptor agonist,DRD2
+CSc1ccc(C(=O)/C=C/c2cc(C)c(OC(C)(C)C(=O)O)c(C)c2)cc1,94,-1.0,elafibranor,PPAR receptor agonist,"PPARA, PPARD"
+C[C@@H](c1nc(-c2ccc(C#N)cc2)cs1)[C@](O)(Cn1cncn1)c1ccc(F)cc1F,95,-1.0,ravuconazole,sterol demethylase inhibitor,
+COc1cc2c(Nc3ccc(Cl)c(Cl)c3F)ncnc2cc1OC[C@@H]1C[C@@H]2CN(C)C[C@@H]2C1,96,0.676758553,XL-647,"EGFR inhibitor, VEGFR inhibitor","EGFR, EPHB4, ERBB2, FLT4, KDR"
+Cc1ccc(-c2ncccn2)c(C(=O)N2C[C@H](COc3ccc(F)cn3)CC[C@H]2C)c1,97,-1.0,MK-6096,orexin receptor antagonist,"HCRTR1, HCRTR2"
+CCNCCCNCCCCNCCCNCC,98,-1.0,"1,12-Besm",polyamine biosynthesis inhibitor,
+CCCC[C@]1(CC)CS(=O)(=O)c2cc(CNC(CC(=O)O)CC(=O)O)c(OC)cc2[C@@H](c2ccccc2)N1,99,-1.0,GSK2330672,bile acid transporter inhibitor,SLC10A2
+CC(C)C[C@H](NC(=O)[C@@H]1O[C@H]1C(=O)O)C(=O)NCCCCN=C(N)N,100,-1.0,E-64,"cysteine protease inhibitor, calpain inhibitor",CTSS
+CCCC[C@H](NC(C)=O)C(=O)N[C@H]1CC(=O)NCCCC[C@@H](C(=O)O)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](Cc2cnc[nH]2)NC1=O,101,-1.0,bremelanotide,melanocortin receptor agonist,"MC1R, MC2R, MC3R, MC4R, MC5R"
+CC(C)(C)S(=O)(=O)N[C@H]1CC[C@H](C(=O)Nc2ccc(C(F)(F)F)cn2)CC1,102,-1.0,velneperit,neuropeptide receptor antagonist,NPY5R
+C[C@H](Cc1ccc2c(c1)OC(C(=O)O)(C(=O)O)O2)NC[C@H](O)c1cccc(Cl)c1,103,-1.0,CL316243,adrenergic receptor agonist,"ADRB3, UCP1, UCP2, UCP3"
+CSCC[C@H](N)C(=O)O,104,-1.0,L-methionine,voltage-gated calcium channel ligand,
+CC1(C)SCCN(S(=O)(=O)c2ccc(OCC#CCO)cc2)[C@H]1C(=O)NO,105,-1.0,apratastat,"matrix metalloprotease inhibitor, tumor necrosis factor production inhibitor","ADAM17, MMP1, MMP13, MMP9"
+FC(F)(F)c1ccc(N2CCNCC2)nc1Cl,106,-1.0,Org-12962,serotonin receptor agonist,"HTR2A, HTR2B, HTR2C"
+C#C[C@]1(OC(=O)CCCCCC)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21C,107,-1.0,norethisterone-enanthate,contraceptive agent,
+Cc1cc(NC(=O)NCCN2CCC(O)(Cc3ccccc3)CC2)c2ccccc2n1,108,-1.0,palosuran,urotensin receptor antagonist,UTS2R
+CC(=O)O[C@H]1CC[C@@]2(C)C(=CC(=O)[C@H]3[C@@H]4CCC(=O)[C@@]4(C)CC[C@@H]32)C1,109,-1.0,7-keto-DHEA,steroid,
+CN[C@@H]1CCc2[nH]c3ccc(C(N)=O)cc3c2C1,110,-1.0,frovatriptan,serotonin receptor agonist,"HTR1A, HTR1B, HTR1D"
+Cc1cccc(NC(=O)N[C@@H]2N=C(c3ccccc3)c3ccccc3N(CC(=O)c3ccccc3C)C2=O)c1,111,-1.0,YM022,CCK receptor antagonist,CCKBR
+COC(=O)N[C@H](C(=O)N1CCC[C@H]1c1ncc(-c2ccc3c(c2)O[C@@H](c2ccccc2)n2c-3cc3cc(-c4cnc([C@@H]5CCCN5C(=O)[C@@H](NC(=O)OC)C(C)C)[nH]4)ccc32)[nH]1)C(C)C,112,-1.0,elbasvir,HCV inhibitor,
+c1cnc(SCc2cccnc2)nc1,113,-1.0,tasuldine,mucolytic agent,
+CCOC(=O)Nc1ccc2c(c1)N(C(=O)CCN(CC)CC)c1ccccc1S2,114,-1.0,ethacizin,anticonvulsant,
+O=C(OCC(COC(=O)c1cccnc1)(COC(=O)c1cccnc1)COC(=O)c1cccnc1)c1cccnc1,115,-1.0,niceritrol,NAD precursor,
+CC(C)(C)c1ccc(CN(Cc2cccc(OCC(=O)O)c2)S(=O)(=O)c2cccnc2)cc1,116,-1.0,evatanepag,prostaglandin inhibitor,"PTGER2, PTGER4"
+O=S(=O)(O)CCCS(=O)(=O)O,117,-1.0,eprodisate,"antiamyloidogenic agent, amyloid protein inhibitor",SAA1
+CN1CCN(c2cccc3[nH]c(=O)oc23)CC1,118,0.9166386329999999,pardoprunox,"serotonin receptor agonist, dopamine receptor agonist","DRD2, DRD3, DRD4, HTR1A, HTR7"
+Cc1ncc(-c2csc(NC(=N)N)n2)[nH]1,119,-1.0,zaltidine,histamine receptor antagonist,HRH2
+O=C(O)[C@@H](c1ccc(OCc2ccc3ccccc3n2)cc1)C1CCCC1,120,-1.0,veliflapon,leukotriene synthesis inhibitor,ALOX5AP
+COc1cc2c(NC3CCN(CC4CCCCC4)CC3)nc(N3CCCN(C(C)C)CC3)nc2cc1OCCCN1CCCCC1,121,0.86782677,UNC0631,histone lysine methyltransferase inhibitor,EHMT2
+COC(=O)[C@H]1[C@@H](C)[C@@H](OC)C=CO[C@@]2(C)Oc3c(C)c(O)c4c(O)c(cc(O)c4c3C2=O)NC(=O)/C(C)=C\C=C/[C@@H](C)[C@@H](O)[C@@H](C)[C@H](O)[C@@H]1C,122,-1.0,rifamycin-sv,RNA synthesis inhibitor,
+C[C@@H]1NC(C)(C)CO[C@@]1(O)c1cccc(Cl)c1,123,-1.0,radafaxine,dopamine-norepinephrine reuptake inhibitor,SLC6A3
+COc1ccc(C(=O)N2CCN(c3ccc4c(c3)CCC(=O)N4)CC2)cc1OC,124,-1.0,vesnarinone,phosphodiesterase inhibitor,"KCNH2, PDE3A"
+CC(C)(C)NCc1cc(Nc2ccnc3cc(Cl)ccc23)c2c(c1O)CCCC2,125,-1.0,naphthoquine-phosphate,antimalarial agent,
+CC[C@H](CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)CC[C@]4(C)[C@H]3CC[C@@]21C)C(C)C,126,-1.0,daucosterol,apoptosis stimulant,
+Cc1nn(C)c2c1C(c1cccc(Cl)c1)=NCCN2,127,-1.0,zometapine,,
+CCOc1ccc(/C=C2/NCCc3cc(OCC)c(OCC)cc32)cc1OCC,128,-1.0,drotaverine,phosphodiesterase inhibitor,"CACNA1C, PDE4A"
+C/C(=C\C(=O)OCCCCCCCCC(=O)O)C[C@@H]1OC[C@H](C[C@@H]2O[C@H]2[C@@H](C)[C@H](C)O)[C@@H](O)[C@H]1O,129,-1.0,mupirocin,isoleucyl-tRNA synthetase inhibitor,
+CC(C)C[C@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O,130,-1.0,fmoc-l-leucine,PPAR receptor agonist,
+C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](OS(=O)(=O)O)CC[C@@]43C)[C@@H]1CCC2=O,131,-1.0,dehydroepiandrosterone-sulfate,"androgen receptor agonist, estrogen receptor agonist","AR, ESR1, ESR2"
+CCOc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc(C)cn5)ccc43)cc2)cn1,132,-1.0,GSK2190915,lipoxygenase inhibitor,ALOX5AP
+Cc1occc(=O)c1O[V](=O)Oc1c(C)occc1=O,133,1.193460164,bis(maltolato)oxovanadium(IV),tyrosine phosphatase inhibitor,PTPN1
+O=c1nc[nH]c2c([C@@H]3N[C@H](CO)[C@@H](O)[C@H]3O)c[nH]c12,134,1.172184244,forodesine,purinergic receptor antagonist,PNP
+COC(=O)c1cc(OC)c2c(c1-c1c(CO)cc(OC)c3c1OCO3)OCO2,135,-1.0,bicyclol,NFkB pathway inhibitor,"HSPA1A, HSPB1"
+CC(C)(C)C(=O)CN1C(=O)[C@H](NC(=O)Nc2cccc(C(=O)O)c2)CN(C2CCCCC2)c2ccccc21,136,-1.0,nastorazepide,CCK receptor antagonist,CCKBR
+C[C@]1(COc2ccc(N3CCC(Oc4ccc(OC(F)(F)F)cc4)CC3)cc2)Cn2cc([N+](=O)[O-])nc2O1,137,-1.0,delamanid,bacterial cell wall synthesis inhibitor,
+CCCCCCCCCCOc1cc2c(O)c(C(=O)OCC)cnc2cc1OCC,138,-1.0,decoquinate,antiprotozoal agent,
+CCOCCOC(=O)/C=C/c1ccc(OC)cc1,139,-1.0,cinoxate,,
+COC(=O)[C@@H](N)Cc1ccc(O)c(O)c1,140,-1.0,melevodopa,"dopamine precursor, dopamine receptor agonist",DDC
+COc1cc2c(c(OC)c1OC)-c1c(cc3c(c1OC)OCO3)C[C@H](C)[C@@](C)(O)C2,141,-1.0,schisandrol-b,lipid peroxidase inhibitor,
+O=C(/C=C/c1ccc(O)c2c1[C@@H](C(=O)O[C@H](Cc1ccc(O)c(O)c1)C(=O)O)[C@H](c1ccc(O)c(O)c1)O2)O[C@H](Cc1ccc(O)c(O)c1)C(=O)O,142,1.2409596090000001,salvianolic-acid-B,"metalloproteinase inhibitor, EGFR inhibitor",MMP9
+O=C(O)COc1nn(Cc2ccccc2)c2ccccc12,143,-1.0,bendazac,cyclooxygenase inhibitor,"PTGS1, PTGS2"
+CN1C(=O)N(c2cc(Cl)cc(Cl)c2)C(=O)[C@]12CN(Cc1cc(C(=O)O)cs1)C[C@H]2c1ccc(C#N)cc1,144,-1.0,BMS-587101,integrin antagonist,"ITGAL, ITGB2"
+COc1cc(C(=O)c2c(C)oc3c(O)c(OC)ccc23)cc(OC)c1OC,145,0.6454791910000001,BNC105,tubulin polymerization inhibitor,
+C[C@H](Nc1ncnc2[nH]cnc12)c1cc2ccc(F)cc2nc1-c1ccccn1,146,-1.0,AMG-319,PI3K inhibitor,PIK3CD
+CC(C)N(CCCCOCC(=O)NS(C)(=O)=O)c1cnc(-c2ccccc2)c(-c2ccccc2)n1,147,-1.0,selexipag,"platelet aggregation inhibitor, IP1 prostacyclin receptor agonist",PTGIR
+C=C(NNC(=N)N)c1cc(NC(=O)CCCCCCCCC(=O)Nc2cc(C(=C)NNC(=N)N)cc(C(=C)NNC(=N)N)c2)cc(C(=C)NNC(=N)N)c1,148,-1.0,semapimod,"cytokine production inhibitor, p38 MAPK inhibitor",MAPK14
+CCCCc1nc(C)c(CC(=S)N(C)C)c(=O)n1Cc1ccc(-c2ccccc2-c2nnn[nH]2)cc1,149,-1.0,fimasartan,angiotensin receptor antagonist,AGTR1
+O=C(CCn1cnc2c(O)ncnc21)Nc1ccc(C(=O)O)cc1,150,-1.0,leteprinim,nerve growth factor agonist,
+CC(=O)c1cc2c(o1)C(=O)c1ccccc1C2=O,151,0.760705537,napabucasin,STAT inhibitor,STAT3
+Cc1cc(C(=O)Nc2nc3cccc(Cl)c3n2[C@@H]2CCCCN(C(=O)/C=C/CN(C)C)C2)ccn1,152,-1.0,EGF816,EGFR inhibitor,EGFR
+Cc1cccc(O)c1,153,-1.0,metacresol,,INS
+NNC(=O)CN1C(=O)CN=C(c2ccccc2)c2cc(Br)ccc21,154,1.064258294,gidazepam,GABA benzodiazepine site receptor agonist,
+Cc1c(CN(C)C(=O)/C=C/C2=CNC3=NC(=O)CCC3=C2)oc2ccccc12,155,-1.0,AFN-1252,FABI inhibitor,
+C[C@@H](O[C@H]1OCCN(Cc2nn(P(=O)(O)O)c(=O)[nH]2)[C@H]1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,156,-1.0,fosaprepitant-dimeglumine,tachykinin antagonist,TACR1
+CCC(=O)O[C@]1(C(=O)COC(C)=O)CC[C@H]2[C@@H]3C[C@H](C)C4=CC(=O)C=C[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,157,-1.0,methylprednisolone-aceponate,"anti-inflammatory agent, glucocorticoid receptor agonist",NR3C1
+COc1ccc(-c2oc3c(CC=C(C)C)c(O)cc(O)c3c(=O)c2O)cc1,158,-1.0,icaritin,PPAR receptor antagonist,PDE5A
+O=C(O)Cn1c2c(c3cc(F)ccc31)CN(C(=O)c1cccc3ccccc13)CC2,159,-1.0,setipiprant,prostaglandin inhibitor,PTGDR2
+CCOC(=O)COc1ccc2c(c1)C[C@@H](NC[C@H](O)c1cccc(Cl)c1)CC2,160,-1.0,amibegron,adrenergic receptor agonist,ADRB3
+NS(=O)(=O)NCc1csc2ccccc12,161,-1.0,JNJ-26990990,anticonvulsant,
+O=C(Nc1ccc(Cl)cc1)Nc1ccc(Cl)c(Cl)c1,162,-1.0,triclocarban,other antibiotic,
+O=C(O)/C=C\c1c[nH]cn1,163,-1.0,cis-urocanic acid,serotonin receptor agonist,HTR2A
+O=C(/C=C/c1cccc(F)c1)NC1CC1,164,-1.0,cinflumide,muscle relaxant,
+CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)CSSC[C@@H](C(=O)N2CCC[C@H]2C(=O)N[C@@H](CC(C)C)C(=O)NCC(N)=O)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(N)=O)NC1=O,165,-1.0,oxytocin,oxytocin receptor agonist,"AVPR1A, AVPR1B, AVPR2, OXTR"
+CC(C)NC(=N)NC(=N)Nc1ccc(Cl)c(Cl)c1,166,-1.0,chlorproguanil,dihydrofolate reductase inhibitor,DHFR
+CCN(CC)c1ccc(-n2nc3cc(C)c(N)cc3n2)cc1,167,-1.0,ezutromid,utrophin enhancer,UTRN
+C[C@]12CC[C@H](O)C[C@H]1CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](c3ccc(=O)oc3)C[C@H]3O[C@@]312,168,-1.0,resibufogenin,Na/K-ATPase inhibitor,
+CC(C)(C)C(=O)OCC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,169,-1.0,desoxycorticosterone-pivalate,corticosteroid agonist,NR3C2
+Cc1cc(Nc2ncnc3ccc(NC4=NC(C)(C)CO4)cc23)ccc1Oc1ccn2ncnc2c1,170,0.8815405635,tucatinib,EGFR inhibitor,ERBB2
+CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H]1CCC(=O)N1,171,-1.0,leuprolide,gonadotropin releasing factor hormone receptor agonist,GNRHR
+O=C(O)c1ccc(SSc2ccc(C(=O)O)cn2)nc1,172,0.996707366,carboxypyridine-disulfide,,
+O=C(O)Cc1ccc(CCNS(=O)(=O)c2ccc(Cl)cc2)cc1,173,-1.0,daltroban,thromboxane receptor antagonist,TBXA2R
+COCCOc1cnc2ccn([C@H](C)c3nnc4c(F)cc(-c5cnn(C)c5)cn34)c(=O)c2c1,174,-1.0,AMG-337,MET inhibitor,MET
+O=C(Cn1c(=O)sc2ccc(Cl)cc21)N1CCN(CCO)CC1,175,-1.0,tiaramide,anti-inflammatory agent,
+CC/C=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)OCOC(=O)C(C)(C)C)=C(COC(N)=O)CS[C@H]12)c1csc(N)n1,176,-1.0,cefcapene-pivoxil,bacterial cell wall synthesis inhibitor,
+Cc1cc(CCCOc2c(C)cc(-c3noc(C(F)(F)F)n3)cc2C)on1,177,-1.0,pleconaril,,
+Cc1cnc(NC(=O)c2cc(Oc3cnc(C(=O)N(C)C)nc3)c3cc(C)oc3c2)cn1,178,-1.0,PF-04937319,glucokinase activator,GCK
+CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(C)CS[C@H]12)c1csc(N)n1,179,-1.0,cefetamet,bacterial cell wall synthesis inhibitor,
+C[C@@H]1[C@H]2C3=CC[C@@H]4[C@@]5(C)C[C@@H](O)[C@H](O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]2(C(=O)O)CC[C@H]1C,180,-1.0,corosolic-acid,"PKC inhibitor, protein tyrosine kinase inhibitor","HSD11B1, PTPN1"
+CC1(C)CCC2=C(O1)c1ccccc1C(=O)C2=O,181,0.753248296,beta-lapachone,topoisomerase inhibitor,TOP1
+Nc1ccc(F)cc1NC(=O)c1ccc(CNC(=O)/C=C/c2cccnc2)cc1,182,0.992253732,chidamide,HDAC inhibitor,"HDAC10, HDAC3"
+COc1cc(C(=S)N2CCOCC2)cc(OC)c1OC,183,-1.0,sulmetozine,gastrin inhibitor,GAST
+Cc1nccn1CCC(C(N)=O)(c1ccccc1)c1ccccc1,184,-1.0,imidafenacin,acetylcholine receptor antagonist,"CHRM1, CHRM3"
+O=C(Nc1ccccc1F)N[C@H]1N=C(c2ccccc2)c2ccccc2NC1=O,185,-1.0,RSV604,RSV replication inhibitor,
+CN[C@@H]1Cc2cccc3nc(O)n(c23)C1,186,-1.0,sumanirole,dopamine receptor agonist,DRD2
+CCC(=O)O[C@H]1[C@H](C)O[C@@H](O[C@@H]2[C@@H](C)O[C@@H](O[C@@H]3[C@@H](OC)[C@H](OC(=O)CC)CC(=O)O[C@H](C)C/C=C/C=C/[C@H](OC(C)=O)[C@H](C)C[C@@H]3CC=O)[C@H](O)[C@H]2N(C)C)C[C@@]1(C)OC(C)=O,187,-1.0,miocamycin,other antibiotic,
+CC[C@@H]1[C@@H]2C[C@H](O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@H]3[C@H](C)CCC(=O)O)[C@@H]2[C@@H]1O,188,-1.0,INT-747,FXR agonist,
+COCc1nnc(N2CC(Oc3ccc(F)cc3Cl)C2)n1-c1ccc(OC)nc1,189,-1.0,PF-3274167,oxytocin receptor antagonist,"AVPR1A, OXTR"
+Fc1ccc(CN2CCC(Nc3ccc(C(F)(F)F)nn3)CC2)cc1F,190,-1.0,JNJ-37822681,dopamine receptor antagonist,DRD2
+CC[C@H]1OC(=O)[C@@](C)(F)C(=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@H]2N(CCCCn3cc(-c4cccc(N)c4)nn3)C(=O)O[C@]12C,191,-1.0,solithromycin,protein synthesis inhibitor,
+CCCC(CCC)C(=O)NCC(N)=O,192,-1.0,valrocemide,,
+C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@]2(O)C(=O)CO,193,-1.0,cortodoxone,androgen receptor antagonist,AR
+C=C[C@@H]1C2=CCOC(=O)C2=CO[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,194,-1.0,gentiopicrin,glutamate receptor downregulator,GRIN2B
+Cc1ccccc1N1CCN(CCc2nnc3n2CCCC3)CC1,195,-1.0,dapiprazole,adrenergic receptor antagonist,"ADRA1A, ADRA1B, ADRA1D"
+O=c1[nH]c2ccccc2n1CCN1CCN(c2cccc(C(F)(F)F)c2)CC1,196,-1.0,flibanserin,serotonin receptor agonist,"DRD4, HTR1A, HTR2A"
+c1ccc(C2(c3ccccc3)CC2=C2NCCN2)cc1,197,1.275253235,cibenzoline,sodium channel blocker,
+Cc1cccc(NC(=O)N[C@@H]2N=C(c3ccccc3)c3ccccc3N(C)C2=O)c1,198,-1.0,L-365260,CCK receptor antagonist,"CCKAR, CCKBR, KCNQ1"
+O=C(O)C1(c2ccc(-c3ccc(Cl)c(Cl)c3)c(F)c2)CC1,199,-1.0,CHF5074,gamma secretase modulator,PSEN1
+Cc1[nH]c2ccccc2c1C[C@@H](NC(=O)[C@@H](N)Cc1cnc[nH]1)C(=O)N[C@@H](C)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N[C@H](Cc1ccccc1)C(=O)N[C@@H](CCCCN)C(N)=O,200,-1.0,examorelin,growth hormone releasing factor agonist,"GHRHR, GHSR"
+COc1ccc(/C=C/CCCCOc2ccc(C(=O)c3cccc(C(=O)O)c3)cc2CCC(=O)O)cc1,201,-1.0,LY223982,leukotriene receptor antagonist,LTB4R
+COc1ccsc1CNCC[C@@]1(c2ccccn2)CCOC2(CCCC2)C1,202,-1.0,TRV130,opioid receptor agonist,OPRM1
+CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,203,-1.0,polidocanol,local anesthetic,
+O=C(O)Cc1cccc2c(=O)cc(-c3ccccc3)oc12,204,-1.0,mitoflaxone,antitumor agent,VWF
+Cc1c(Cc2ccc3ccccc3n2)c2cc(F)ccc2n1CC(=O)O,205,-1.0,OC000459,CRTH receptor antagonist,PTGDR2
+NC[C@@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3N)[C@@H]2O)[C@H](N)[C@@H](O)[C@@H]1O,206,-1.0,paromomycin,bacterial 30S ribosomal subunit inhibitor,
+O=C(Nc1cnn2ccc(N3CCC[C@@H]3c3cc(F)ccc3F)nc12)N1CC[C@H](O)C1,207,-1.0,LOXO-101,tropomyosin receptor kinase inhibitor,"NTRK1, NTRK2, NTRK3"
+Cc1ccc2nc(N)nc(O)c2c1Sc1ccncc1,208,-1.0,nolatrexed,thymidylate synthase inhibitor,TYMS
+CC(C)(Sc1ccncc1-c1ccc(C#N)c2ccccc12)C(=O)O,209,-1.0,verinurad,urate transporter inhibitor,SLC22A12
+CCOc1cc(OCC)c(C(=O)CCC(=O)O)cc1OCC,210,-1.0,trepibutone,cholinergic receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4"
+CC1=C(CC(=O)O)c2cc(F)ccc2/C1=C\c1ccc(S(C)(=O)=O)cc1,211,-1.0,exisulind,phosphodiesterase inhibitor,PDE5A
+N#Cc1ccc(N(Cc2ccc(Br)cc2)n2cnnc2)cc1,212,-1.0,YM-511,aromatase inhibitor,CYP19A1
+CC/C(=C(/c1ccc(OCCN(C)C)cc1)c1cccc(O)c1)c1ccccc1,213,-1.0,droloxifene,selective estrogen receptor modulator (SERM),ESR1
+CCCC1(CCC)CCC2(CCN(CCCN(CC)CC)C2)CC1,214,0.908751438,atiprimod,"JAK inhibitor, STAT inhibitor","JAK2, STAT3"
+O=C1CCC2CCC(=O)N12,215,-1.0,rolziracetam,,
+CN1CCN(c2ccc(C(=O)Nc3n[nH]c4ccc(Cc5cc(F)cc(F)c5)cc34)c(NC3CCOCC3)c2)CC1,216,-1.0,entrectinib,"ALK tyrosine kinase receptor inhibitor, proto-oncogene tyrosine protein kinase inhibitor","ALK, NTRK1, NTRK2, NTRK3, ROS1"
+COc1ccc(CN(C(=O)[C@@H](N)Cc2c(C)cc(C(N)=O)cc2C)[C@@H](C)c2ncc(-c3ccccc3)[nH]2)cc1C(=O)O,217,-1.0,eluxadoline,opioid receptor modulator,"OPRD1, OPRK1, OPRM1"
+O=C1c2cccnc2OC[C@@H]2CCCN12,218,-1.0,org-26576,glutamate receptor modulator,
+Cc1ccc(=O)n(-c2ccc(O)cc2)c1,219,-1.0,F351,TGF beta receptor inhibitor,TGFB1
+C=CCN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](OCCOCCOCCOCCOCCOCCOCCOC)CC[C@@]3(O)[C@H]1C5,220,-1.0,naloxegol,opioid receptor antagonist,OPRM1
+COc1cccc([C@@H](C)NCCCc2ccccc2Cl)c1,221,-1.0,tecalcet,calcium-sensing receptor agonist,CASR
+CC(=O)N(C)c1cc(-c2ccnc3c(C(=O)c4cccs4)cnn23)ccc1F,222,-1.0,lorediplon,GABA receptor modulator,GABRA1
+CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](C)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@@H]1CCC(=O)N1,223,-1.0,alarelin,gonadotropin releasing factor hormone receptor antagonist,GNRH1
+C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=C/C(=N/O)CC[C@@H]4[C@H]3CC[C@@]21CC,224,-1.0,norelgestromin,,PGR
+COc1ccc(N(C)c2nc(C)nc3ccccc23)cc1,225,0.508452514,verubulin,tubulin polymerization inhibitor,TUBB
+CC(C)N[C@H]1CCn2c(O)nc3cccc(c32)[C@@H]1O,226,-1.0,zilpaterol,adrenergic receptor agonist,ADRB2
+FC(F)(F)c1ccc(Nc2ncnc3cc(-c4ncccc4C(F)(F)F)ccc23)cc1,227,-1.0,MK-2295,TRPV antagonist,TRPV1
+CC(C)n1nccc1-c1ncccc1COc1cccc(O)c1C=O,228,-1.0,hemoglobin-modulators-1,hemoglobin modulator,
+Cc1oncc1C(=O)N1CCCCC1,229,-1.0,nerbacadol,cyclooxygenase inhibitor,
+N#Cc1c[nH]c2c(C(=O)N3CCN(CCc4ccc(F)cc4)CC3)cccc12,230,-1.0,pruvanserin,serotonin receptor antagonist,"HTR2A, HTR2C"
+CC(C)(CO)CCCCCCC(C)(C)CO,231,-1.0,gemcadiol,antilipemic,
+CCC/N=C1\S/C(=C\c2ccc(OC[C@H](O)CO)c(Cl)c2)C(=O)N1c1ccccc1C,232,-1.0,ponesimod,sphingosine 1 phosphate receptor agonist,S1PR1
+O=C(N[C@H]1CN2CCC1CC2)c1cnc2ccsc2c1O,233,-1.0,pumosetrag,serotonin receptor agonist,"HTR3A, HTR4"
+OCCOc1ccc(/C(=C(/CCCl)c2ccccc2)c2ccccc2)cc1,234,-1.0,ospemifene,selective estrogen receptor modulator (SERM),"ESR1, ESR2"
+COC(=O)C1=C(C)N(C)C(C)=C(C(=O)OC)C1c1ccc(C(F)(F)F)cc1,235,-1.0,bay-w-9798,antioxidant,
+CS(=O)(=O)c1ccc(-c2cn3ccccc3n2)cc1,236,-1.0,zolimidine,mucus protecting agent,
+Cc1cn2nc([C@@H]3CCCCN3C(=O)c3cc(Cl)ccc3NS(C)(=O)=O)cc2nc1N1CC[C@H](N)C1,237,-1.0,presatovir,RSV fusion inhibitor,
+CC(C)Oc1ccc(-c2nc(-c3cccc4c3CC[C@@H]4NCCO)no2)cc1C#N,238,-1.0,ozanimod,sphingosine 1 phosphate receptor agonist,S1PR1
+CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@H](n3cnnn3)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C,239,-1.0,zotarolimus,mTOR inhibitor,FKBP1A
+CCN(Cc1ccc(Cl)nc1)/C(=C/[N+](=O)[O-])NC,240,-1.0,nitenpyram,,
+CCCCCCCCCCCCCCCC(=O)OCCC1CCN(CCCN2c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,241,-1.0,pipotiazine-palmitate,"dopamine receptor antagonist, serotonin receptor antagonist","DRD1, DRD2, HTR1A, HTR2A"
+Cc1nc(-c2cccnc2)sc1C(=O)Nc1ccccc1-c1cn2c(CN3CCOCC3)csc2n1,242,-1.0,SRT2104,SIRT activator,SIRT1
+COc1ccc2c(c1)C=C1Cn3c-2c(C2CCCCC2)c2ccc(cc23)C(=O)NS(=O)(=O)N(C)CCOCCN(C)C1=O,243,-1.0,TMC647055,RNA polymerase inhibitor,
+CC[C@@H](C)C[C@@H](C)CCCCCCCCC(=O)N[C@H]1C[C@@H](O)[C@@H](NCCN)NC(=O)[C@@H]2[C@@H](O)CCN2C(=O)[C@H]([C@H](O)CCN)NC(=O)[C@H]([C@H](O)[C@@H](O)c2ccc(O)cc2)NC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@H]([C@@H](C)O)NC1=O,244,-1.0,caspofungin-acetate,"fungal 1,3-beta-D-glucan synthase inhibitor",
+CCn1cc(C(=O)O)c(=O)c2ccc(-c3ccncc3)cc21,245,-1.0,rosoxacin,topoisomerase inhibitor,
+C=CC(=O)N1CCC(Oc2cc3c(Nc4ccc(Cl)c(Cl)c4F)ncnc3cc2OC)CC1,246,0.6623235435,poziotinib,EGFR inhibitor,"EGFR, ERBB2, ERBB4"
+N[C@@H](Cc1ccc(B(O)O)cc1)C(=O)O,247,-1.0,boronophenylalanine,,
+CC(=O)SC[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccccc1)C(=O)O,248,-1.0,alacepril,angiotensin converting enzyme inhibitor,ACE
+CCCCc1nc(-c2ccc(OCCCN(CC)CC)cc2)cn1-c1ccc(Oc2ccc(Cl)cc2)cc1,249,-1.0,azeliragon,RAGE receptor antagonist,AGER
+CN(C)/C=N/c1c(I)cc(I)c(CCC(=O)O)c1I,250,-1.0,iopodic-acid,,
+CC(C)Oc1ccc(-c2nn([C@@H](C)c3oc4ccc(F)cc4c(=O)c3-c3cccc(F)c3)c3ncnc(N)c23)cc1F,251,-1.0,TGR-1202,PI3K inhibitor,
+C#Cc1cncc([C@@H]2CCCN2C)c1,252,-1.0,altinicline,nicotinic receptor agonist,"CHRNA4, CHRNB2"
+N=C(Nc1ccccc1)c1cccs1,253,-1.0,LTA,,
+CN1CCN(c2ncc(-c3cc(Cl)cc(Cl)c3Cl)c(N)n2)CC1,254,-1.0,sipatrigine,voltage-gated sodium channel blocker,"CACNA1D, SCN10A, SCN1A, SCN3A, SCN4A, SCN5A, SCN9A"
+CCN(CC)CCCN(c1ccccc1)C1Cc2ccccc2C1,255,-1.0,aprindine,voltage-gated sodium channel blocker,"CALM1, SCN5A"
+CC(=O)Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]12,256,-1.0,estradiol-acetate,estrogen receptor agonist,ESR1
+O=C1NC(c2ccccc2)(c2ccccc2)C(=O)N1COP(=O)(O)O,257,-1.0,fosphenytoin,sodium channel blocker,SCN5A
+FC(F)(F)c1ccc(CNc2ccc(Cc3c[nH]c4ncc(Cl)cc34)cn2)cn1,258,-1.0,pexidartinib,tyrosine kinase inhibitor,"CSF1R, FLT3, KIT"
+CC(=O)O[C@@H]1CC[C@@]2(C)[C@@H](CC[C@]3(C)[C@@H]2C(=O)C=C2[C@@H]4[C@@H](C)[C@H](C)CC[C@]4(C)CC[C@]23C)[C@@]1(C)C(=O)O,259,-1.0,AKBA,lipoxygenase inhibitor,ALOX5
+NC(=O)c1cccc2cn(-c3ccc([C@@H]4CCCNC4)cc3)nc12,260,0.866067868,niraparib,PARP inhibitor,PARP1
+CCCCn1ccc(N2CCC(c3ccccc3)CC2)c(Cl)c1=O,261,-1.0,JNJ-40411813,glutamate receptor positive allosteric modulator,GRM2
+Nc1ccn([C@H]2CO[C@@H](CO)S2)c(=O)n1,262,-1.0,apricitabine,nucleoside reverse transcriptase inhibitor,
+COc1cccc(-c2c(C)n(Cc3c(F)cccc3C(F)(F)F)c(=O)n(C[C@H](NCCCC(=O)O)c3ccccc3)c2=O)c1F,263,-1.0,elagolix,gonadotropin releasing factor hormone receptor antagonist,GNRHR
+CN1CCC(=C2c3ccccc3CCn3c(C=O)cnc32)CC1,264,-1.0,alcaftadine,histamine receptor antagonist,HRH1
+CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(OC)cc2)NC(=O)CCCSC[C@@H](C(=O)N2CCC[C@H]2C(=O)N[C@@H](CC(C)C)C(=O)NCC(N)=O)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCC(N)=O)NC1=O,265,-1.0,carbetocin,oxytocin receptor agonist,OXTR
+C=C1CC[C@H](O)C/C1=C/C=C1\CCC[C@@]2(C)[C@H]1CC[C@@H]2[C@H](C)/C=C/[C@H](C)C(C)C,266,-1.0,ergocalciferol,vitamin analog,VDR
+CC1(C)CC[C@]2(NC(=O)C(C)(F)F)CC[C@]3(C)[C@H](C(=O)C=C4[C@@]3(C)CC[C@H]3C(C)(C)C(=O)C(C#N)=C[C@]43C)[C@@H]2C1,267,-1.0,RTA-408,nitric oxide production inhibitor,NFE2L2
+C=C1/C(=C\C=C2/CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)/C=C/[C@@H](O)C2CC2)C[C@@H](O)C[C@@H]1O,268,-1.0,calcipotriol,vitamin D receptor agonist,VDR
+COc1ccc(Cl)cc1[C@]1(F)C(=O)Nc2cc(C(F)(F)F)ccc21,269,-1.0,flindokalner,potassium channel agonist,"KCNMA1, KCNN4, KCNQ2, KCNQ4, KCNQ5"
+O=C(O)CNC(=O)c1nc(Cl)c2ccccc2c1O,270,-1.0,FG-2216,hypoxia inducible factor prolyl hydroxylase inhibitor,"EGLN1, EGLN2, HIF1A"
+O=c1[nH]ccc2cc(OC3CCNCC3)ccc12,271,-1.0,SAR407899,rho associated kinase inhibitor,ROCK1
+COc1cc(N2CCC(N3CCN(C)CC3)CC2)ccc1Nc1ncc(Cl)c(Nc2ccccc2P(C)(C)=O)n1,272,0.827771723,brigatinib,"ALK tyrosine kinase receptor inhibitor, EGFR inhibitor","ALK, EGFR"
+COc1cn(-c2ccc(-n3cccn3)cc2F)nc(-c2ccnn2-c2ccccc2)c1=O,273,-1.0,TAK-063,phosphodiesterase inhibitor,PDE10A
+C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CCC2=O,274,-1.0,NPC-01,steroid,
+Cc1ccccc1CN1C(=O)C2=C(CCN(Cc3ccccc3)C2)N2CCN=C12,275,1.0780251405,ONC201,"AKT inhibitor, MAP kinase inhibitor",TNFSF10
+CCCC(=O)O[C@]1(C(=O)CCl)[C@@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)C(=O)C[C@@]21C,276,-1.0,clobetasone-butyrate,corticosteroid agonist,NR3C1
+COc1cc(/C=C2\CCC/C(=C\c3ccc(O)c(OC)c3)C2=O)ccc1O,277,0.9953173679999999,cyclovalone,breast cancer resistance protein inhibitor,ABCG2
+CCN(CC)CCOC(=O)C1(c2ccccc2)CCCC1,278,-1.0,caramiphen,cholinergic receptor antagonist,"CHRM1, CHRM2"
+O=C(O)CCCN1C(=O)c2cccc3cccc(c23)C1=O,279,-1.0,isodibut,aldehyde reductase inhibitor,
+Cl[Ti](Cl)(C1C=CC=C1)C1C=CC=C1,280,-1.0,titanocene-dichloride,apoptosis stimulant,
+C=CC(=O)Nc1cccc(Oc2nc(Nc3ccc(N4CCN(C)CC4)cc3)nc3ccsc23)c1,281,-1.0,olmutinib,"EGFR inhibitor, Bruton's tyrosine kinase (BTK) inhibitor","BTK, EGFR"
+c1ccc(CCNc2nc(-c3ccccc3)cs2)cc1,282,-1.0,fanetizole,neutrophil superoxide production,
+OC[C@H]1NCC[C@@H](O)[C@@H]1O,283,-1.0,fagomine,glucosidase inhibitor,GLB1
+CC/C(=C(/c1ccc(/C=C/C(=O)O)cc1)c1ccc2[nH]ncc2c1)c1ccc(F)cc1Cl,284,-1.0,GDC-0810,selective estrogen receptor destabilizer,ESR1
+Cc1[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c(C)c1C(=O)NCCN1CCCC1,285,-1.0,toceranib,protein tyrosine kinase inhibitor,"FLT1, FLT3, KDR, PDGFRA, PDGFRB"
+CCc1nc2c(C)nc(C)cc2n1-c1ccc(CCNC(=O)NS(=O)(=O)c2ccc(C)cc2)cc1,286,-1.0,grapiprant,prostaglandin inhibitor,PTGER4
+C/C=C1\[C@H]2C=C(C)C[C@]1(N)c1ccc(=O)[nH]c1C2,287,-1.0,huperzine-a,acetylcholinesterase inhibitor,ACHE
+Nc1cc(C(F)(F)F)c(-c2nc(N3CCOCC3)nc(N3CCOCC3)n2)cn1,288,0.734287241,PI3K-IN-2,PI3K inhibitor,
+CCc1cc(/C(C)=N/OCc2ccc(C3CCCCC3)c(C(F)(F)F)c2)ccc1CN1CC(C(=O)O)C1,289,-1.0,siponimod,sphingosine phosphate receptor modulator,S1PR1
+CCOP(=O)(Cc1ccc(C(=O)Nc2ccc(Br)cc2C#N)cc1)OCC,290,-1.0,ibrolipim,lipoprotein lipase activator,LPL
+CCC(=O)NC[C@@H]1C[C@H]1c1cccc2c1CCO2,291,-1.0,tasimelteon,melatonin receptor agonist,"MTNR1A, MTNR1B"
+O=C(NC1CCNCC1)[C@@H]1CC[C@@H]2CN1C(=O)N2OS(=O)(=O)O,292,-1.0,relebactam,beta lactamase inhibitor,
+CC(C)(CCCCCC(O)CCCCCC(C)(C)C(=O)O)C(=O)O,293,-1.0,ETC-1002,AMPK inhibitor,ACLY
+N=C(N)NCCC[C@H](NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2N1C(=O)[C@H]1Cc2ccccc2CN1C(=O)[C@H](CO)NC(=O)[C@H](Cc1cccs1)NC(=O)CNC(=O)[C@@H]1C[C@@H](O)CN1C(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](N)CCCNC(=N)N)C(=O)O,294,-1.0,icatibant-acetate,bradykinin receptor antagonist,"ANPEP, BDKRB2"
+CC[C@]12C=CCN3CC[C@@]4(c5cc([C@@]6(C(=O)OC)C[C@@H]7C[C@@H](C(C)(F)F)CN(CCc8c6[nH]c6ccccc86)C7)c(OC)cc5N(C)[C@H]4[C@@](O)(C(=O)OC)[C@@H]1OC(C)=O)[C@@H]32,295,0.750631565,vinflunine,microtubule inhibitor,
+Cc1ccc(-c2ccc(C)cn2)nc1,296,-1.0,abametapir,metalloproteinase inhibitor,MMP9
+CCN(CC)CCN1C(=O)C(=Cc2ccc(OC)cc2)Nc2ccccc21,297,-1.0,caroverine,"glutamate receptor antagonist, calcium channel blocker",
+Cc1c(Cl)c(C)[n+]([O-])c(Cl)c1-c1noc(-c2cc(O)c(O)c([N+](=O)[O-])c2)n1,298,-1.0,opicapone,catechol O methyltransferase inhibitor,COMT
+COc1cc(/C=C/C(=O)O)ccc1O,299,-1.0,ferulic-acid,antioxidant,"CA1, CA12, CA14, CA2, CA4, CA6, CA9"
+CCc1oc2ccccc2c1C(=O)c1ccc(OCC(=O)O)cc1,300,-1.0,KT-433,uricosuric agent,
+CC(C)C[C@H](CN)CC(=O)O,301,-1.0,pregabalin,voltage-gated calcium channel ligand,"CACNA1A, CACNA1B, CACNA1C, CACNA1D, CACNA1E, CACNA1F, CACNA1G, CACNA1H, CACNA1I, CACNA1S, CACNA2D1, CACNA2D2, CACNA2D3, CACNA2D4, CACNB1, CACNB2, CACNB3, CACNB4, CACNG1, CACNG2, CACNG3, CACNG4, CACNG5, CACNG6, CACNG7, CACNG8"
+O=C1C=CC[C@@H]2[C@H]3CCCN4CCC[C@@H](CN12)[C@@H]34,302,-1.0,sophocarpine,,
+O=C[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO[C@H]1O[C@H](CO[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@H](O)[C@H]1O,303,-1.0,dextran,,
+N#CCC1(n2cc(-c3ncnc4[nH]ccc34)cn2)CN(C2CCN(C(=O)c3ccnc(C(F)(F)F)c3F)CC2)C1,304,-1.0,itacitinib,JAK inhibitor,JAK1
+NC(=O)c1nnn(Cc2cc(Cl)c(C(=O)c3ccc(Cl)cc3)c(Cl)c2)c1N,305,1.316018885,carboxyamidotriazole,calcium channel blocker,CXCL8
+O=C(Nc1nc(-c2cc(Cl)cs2)c(N2CCN(C3CCCCC3)CC2)s1)c1cnc(N2CCC(C(=O)O)CC2)c(Cl)c1,306,-1.0,avatrombopag,thrombopoietin receptor agonist,MPL
+CC(C)(CO)[C@@H](O)C(=O)NCCC(=O)NCCSSCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)CO,307,-1.0,pantethine,coenzyme A precursor,
+C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)C=C[C@@]43C)[C@@H]1CCC(=O)O2,308,-1.0,testolactone,aromatase inhibitor,CYP19A1
+Cc1ccc2c(N3CCN(CCc4cccc(N5CCNC5=O)c4)CC3)cccc2n1,309,-1.0,GSK163090,serotonin receptor antagonist,"HTR1A, HTR1B, HTR1D"
+CCc1ccc(C2=CC(C)(C)Sc3ccc(C#Cc4ccc(C(=O)O)cc4)cc32)cc1,310,-1.0,AGN-194310,retinoid receptor antagonist,"RXRA, RXRB, RXRG"
+O=C(Nc1cnccc1Cl)N1CCN(Cc2ccc3c(c2)OC(F)(F)O3)CC1,311,-1.0,JNJ-42165279,FAAH inhibitor,FAAH
+CNC(=O)c1c(C)oc2cc(Oc3ncnc4cc(OC)c(OC)cc34)ccc12,312,-1.0,fruquintinib,VEGFR inhibitor,KDR
+NC(=O)OC[C@@H]1[C@H](NC(=O)/C(=N\OCC(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O,313,-1.0,carumonam,bacterial cell wall synthesis inhibitor,
+CCc1nc(C(N)=O)c(Nc2ccc(N3CCC(N4CCN(C)CC4)CC3)c(OC)c2)nc1NC1CCOCC1,314,0.924425497,gilteritinib,FLT3 inhibitor,FLT3
+COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(=O)[C@H]23)OCO4)cc(OC)c1OP(=O)(O)O,315,1.278008124,etoposide-phosphate,topoisomerase inhibitor,TOP2A
+COc1cccc(C(=O)CCN[C@@H](C)[C@H](O)c2ccccc2)c1,316,-1.0,oxyfedrine,adrenergic receptor agonist,
+N=C(N)NCCC[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H]1CSSC[C@H](N)C(=O)N[C@@H](Cc2ccc(O)cc2)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(N)=O)C(=O)N1)C(=O)NCC(N)=O,317,-1.0,vasopressin,vasopressin receptor agonist,"AVPR1A, AVPR1B, AVPR2, OXTR"
+COc1ccc2nc3cc(Cl)ccc3c(Nc3cc(CN4CCCC4)c(O)c(CN4CCCC4)c3)c2n1,318,-1.0,pyronaridine,antimalarial agent,
+NCCCC[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H]1CSSC[C@H](NC(=O)CNC(=O)CNC(=O)CN)C(=O)N[C@@H](Cc2ccc(O)cc2)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(N)=O)C(=O)N1)C(=O)NCC(N)=O,319,-1.0,terlipressin,vasopressin receptor agonist,"AVPR1A, AVPR1B, AVPR2"
+[2H]N[C@@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)NCC(=O)NCC(=O)NCC(=O)N[C@@H](CC(N)=O)C(=O)NCC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](CC(C)C)C(=O)O)[C@@H](C)CC,320,-1.0,bivalirudin,thrombin inhibitor,F2
+CCCCOc1nc(N)c2c(n1)N(Cc1cccc(CN3CCCC3)c1)CC(=O)N2,321,-1.0,GS-9620,toll-like receptor agonist,TLR7
+CCCCCCOC(=O)CCC(=O)CN,322,0.958244344,hexaminolevulinate,,
+Oc1ccc(C2=Cc3ccc(O)cc3OC2)cc1,323,1.289389593,idronoxil,XIAP inhibitor,"ENOX2, SPHK1"
+CN[C@@H]1[C@@H](O)[C@@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3O[C@H](CN)[C@@H](O)[C@H](O)[C@H]3O)[C@@H](N)C[C@H]2NC(=O)[C@@H](O)CN)OC[C@]1(C)O,324,-1.0,isepamicin,protein synthesis inhibitor,
+CC(C)N(CCc1c[nH]c2ccccc12)C(C)C,325,-1.0,DIPT,"dopamine reuptake inhibitor, serotonin reuptake inhibitor","HTR1A, HTR2A, HTR2C"
+C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1[C@@H](O)[C@@H](O)[C@@H]2O,326,-1.0,estetrol,selective estrogen receptor modulator (SERM),ESR1
+Cc1ncc(CO)c(C=O)c1O,327,-1.0,pyridoxal,,PDXK
+CC(=O)N[C@H](Cc1ccc2ccccc2c1)C(=O)N[C@H](Cc1ccc(Cl)cc1)C(=O)N[C@H](Cc1cccnc1)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@H](CCCNC(N)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)N[C@H](C)C(N)=O,328,-1.0,cetrorelix,gonadotropin releasing factor hormone receptor antagonist,"GNRHR, LHCGR"
+COc1ccc(C(C)(C)C)cc1CN[C@H]1C2CCN(CC2)[C@H]1C(c1ccccc1)c1ccccc1,329,-1.0,maropitant,neurokinin receptor antagonist,TACR1
+OB1OCc2cc(F)ccc21,330,-1.0,tavaborole,leucyl-tRNA synthetase inhibitor,
+O=C1CN(/N=C/c2ccc([N+](=O)[O-])o2)C(=O)N1,331,-1.0,nitrofurantoin,DNA inhibitor,
+C[C@H]1NCc2cc(-c3ccc4c(=O)c(C(=O)O)cn(C5CC5)c4c3OC(F)F)ccc21,332,-1.0,garenoxacin,topoisomerase inhibitor,TOP2A
+CO[C@@]1(NC(=O)CSC[C@@H](N)C(=O)O)C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CS[C@@H]21,333,-1.0,cefminox,bacterial cell wall synthesis inhibitor,
+C=C1CC[C@H](O)C/C1=C/C=C1\CCC[C@@]2(C)[C@H]1CC[C@@H]2[C@H](C)CCCC(C)(C)O,334,-1.0,calcifediol,vitamin D receptor agonist,VDR
+COc1cc(C[C@@H](CO[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H](CO[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)Cc2ccc(O)c(OC)c2)ccc1O,335,-1.0,secoisolariciresinol-diglucoside,antioxidant,
+COc1cc2c(NC3CCN(C)CC3)nc(N3CCCN(C)CC3)nc2cc1OCCCN(C)C,336,-1.0,UNC0224,histone lysine methyltransferase inhibitor,"EHMT1, EHMT2"
+Cc1ccc(Oc2ccccc2-c2csc(N=C3NCCCN3)n2)c(C)c1,337,-1.0,abafungin,sterol methyltransferase inhibitor,
+O=C(CN1CCN(Cc2ccc3c(c2)OCO3)CC1)N1c2ccccc2Sc2ccccc21,338,-1.0,fenoverine,acetylcholine receptor antagonist,
+Cc1ncc(OC[C@@]2(c3cccc(F)c3)C[C@H]2C(=O)Nc2ccc(F)cn2)c(C)n1,339,-1.0,lemborexant,orexin receptor antagonist,"HCRTR1, HCRTR2"
+COC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H](N)CC(=O)O,340,-1.0,aspartame,,"TAS1R2, TRPV1"
+NS(=O)(=O)NCCNc1nonc1/C(=N/O)Nc1ccc(F)c(Br)c1,341,-1.0,INCB-024360,"indoleamine 2,3-dioxygenase inhibitor",IDO1
+CN(C)c1cccc(-c2c3c(=O)n(-c4ccccc4Cl)[nH]c3cc(=O)n2C)c1,342,-1.0,GKT137831,NADPH oxidase inhibitor,"NOX1, NOX4"
+Cc1ncccc1OC[C@@H]1CCCN1,343,-1.0,pozanicline,acetylcholine receptor antagonist,"CHRNA4, CHRNB2"
+CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c([N+](=O)[O-])cccc3nc2-1,344,0.28717944300000003,rubitecan,topoisomerase inhibitor,TOP1
+O=C1c2ccccc2CN2C(=O)c3ccccc3CN12,345,-1.0,diftalone,cyclooxygenase inhibitor,
+CC(=O)N1CCC(NC(=O)c2ccc(F)cc2)CC1,346,-1.0,FK-962,somatostatin receptor agonist,
+Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1,347,-1.0,resveratrol,"cytochrome P450 inhibitor, SIRT activator","CSNK2A1, NQO2, PTGS1, PTGS2"
+CC1(C)C(/C=C/C=C/C=C/C=C2/N(CCCCS(=O)(=O)O)c3ccc4ccccc4c3C2(C)C)=[N+](CCCCS(=O)(=O)O)c2ccc3ccccc3c21,348,-1.0,indocyanine-green,contrast agent,SLCO1B1
+CCCCCCCCCC(=O)OC1(c2ccc(Cl)cc2)CCN(CCCC(=O)c2ccc(F)cc2)CC1,349,-1.0,haloperidol-decanoate,psychoactive drug,"DRD2, DRD3, DRD4, HTR2A"
+CCOC(=O)[C@H](Cc1ccccc1)NC(=O)c1cc(Cl)c(OCCN2CCN(C)CC2)c(Cl)c1O,350,-1.0,JTE-607,cytokine production inhibitor,"IL10, IL1B, IL6, TNF"
+CNC(=O)c1ccc2c(c1)CCO[C@H]2CCN1CCN(c2ccc(C(N)=O)cc2)CC1,351,-1.0,PNU-142633,serotonin receptor agonist,HTR1D
+O=C(/C=C/c1c(C(=O)O)[nH]c2cc(Cl)cc(Cl)c12)Nc1ccccc1,352,-1.0,gavestinel,glutamate receptor antagonist,GLRB
+NNc1nncc2ccccc12,353,-1.0,hydralazine,vasodilator,"AOC3, P4HA1"
+O=C(O)c1cc2ccccc2c(Cc2c(O)c(C(=O)O)cc3ccccc23)c1O,354,-1.0,pyrantel,nicotinic receptor agonist,
+Cc1ccc(NC2=NCCN2)c(Cl)c1,355,-1.0,tolonidine,adrenergic receptor antagonist,ADRA2A
+Cc1oc(-c2ccccc2)nc1CCC(=O)c1ccc(Cc2sc(O)nc2O)cc1,356,-1.0,darglitazone,PPAR receptor antagonist,PPARG
+CO[C@@H](C)Cn1c(=O)n(C)c2cnc3ccc(-c4cncc(C(C)(C)O)c4)cc3c21,357,0.72239792,LY3023414,"PI3K inhibitor, mTOR inhibitor",MTOR
+CCNCCS(=O)(=O)NC[C@@]1(c2ccccc2)SC(NC(=O)C(C)(C)C)=NN1C(=O)C(C)(C)C,358,0.8338627075,litronesib,kinesin-like spindle protein inhibitor,KIF11
+C[n+]1ccccc1/C=N/O,359,-1.0,pralidoxime,acetylcholinesterase inhibitor,"ACHE, BCHE"
+O=C(O)C=C1NN(Cc2nc3cc(C(F)(F)F)ccc3s2)C(=O)c2ccccc21,360,-1.0,zopolrestat,,
+COc1cc(OC)cc(N(CCNC(C)C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,361,-1.0,erdafitinib,FGFR inhibitor,"FGFR1, FGFR2, FGFR3, FGFR4"
+NC(=O)[C@@H]1CC[C@@H]2CN1C(=O)N2OS(=O)(=O)O,362,-1.0,avibactam,beta lactamase inhibitor,
+c1cc2c(c(N3CCNCC3)c1)OCCO2,363,-1.0,eltoprazine,serotonin receptor agonist,"HTR1A, HTR1B"
+Brc1ccc(NC2C3CC4CC(C3)CC2C4)cc1,364,-1.0,bromantan,"dopamine reuptake inhibitor, serotonin reuptake inhibitor",
+CCCCCCCC(=O)N[C@H](CN1CCCC1)[C@H](O)c1ccc2c(c1)OCCO2,365,-1.0,eliglustat,Glycosyl transferase inhibitor,UGCG
+CC(=O)NC[C@H]1CN(c2ccc(N3CCSCC3)c(F)c2)C(=O)O1,366,-1.0,sutezolid,protein synthesis inhibitor,
+CCN(CC)CCOC(=O)c1ccc(N)cc1Cl,367,-1.0,chloroprocaine,sodium channel blocker,"ATP1A1, CHRNA10, GRIN3A, HTR3A, SCN10A, SLC6A3"
+C=Cc1cc(O)cc2nc(-c3ccc(O)c(F)c3)oc12,368,-1.0,prinaberel,estrogen receptor agonist,"ESR2, NCOA1"
+COC(=O)/C=C/C(=O)OCCN1C(=O)CCC1=O,369,-1.0,diroximel-fumarate,anti-inflammatory agent,
+N#CCC(=O)c1ccccc1,370,-1.0,CL-225385,,
+NS(=O)(=O)Oc1ccc2c3c(c(=O)oc2c1)CCCCC3,371,-1.0,irosustat,steroid sulfatase inhibitor,"CA2, STS"
+Cn1c(=O)cnn(CCCCN2CCN(c3ncccn3)CC2)c1=O,372,-1.0,F-11440,serotonin receptor agonist,HTR1A
+O=C(O)COc1cccc(CN(Cc2ccc(-n3cccn3)cc2)S(=O)(=O)c2cccnc2)c1,373,-1.0,taprenepag,prostaglandin receptor agonist,PTGER2
+CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)Nc2ccc(O)cc2)C(C)(C)CCC1,374,1.145965152,fenretinide,"apoptosis stimulant, retinoid receptor agonist",RARA
+Cn1nnc(-c2ccc(-c3ccc(N4C[C@H](COP(=O)(O)O)OC4=O)cc3F)cn2)n1,375,0.8649755490000001,tedizolid-phosphate,protein synthesis inhibitor,
+CN(C(=O)/C=C/c1ccoc1)[C@@H]1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)[C@H]1O5,376,-1.0,nalfurafine,opioid receptor agonist,"OPRK1, OPRM1"
+Cc1cnc(C(=O)N[C@H]2CCCCC/C=C\[C@@H]3C[C@@]3(C(=O)NS(=O)(=O)C3CC3)NC(=O)[C@@H]3C[C@@H](Oc4nc5ccccc5c5ccccc45)CN3C2=O)cn1,377,-1.0,paritaprevir,HCV inhibitor,
+CC(C)CC(N)=O,378,-1.0,isovaleramide,alcohol dehydrogenase inhibitor,
+CC(C)OC(=O)N[C@H]1Cc2c(n(Cc3ccccn3)c3ccc(C#N)cc23)C1,379,-1.0,LY2452473,androgen receptor modulator,AR
+C[C@@H]1C/C=C/C=C/C=C/C=C/[C@H](O[C@@H]2O[C@H](C)[C@@H](O)[C@H](N)[C@@H]2O)C[C@@H]2O[C@](O)(C[C@@H](O)C[C@H]3O[C@@H]3/C=C/C(=O)O1)C[C@H](O)[C@H]2C(=O)O,380,-1.0,natamycin,fungal ergosterol inhibitor,
+CCOc1c(N2CCOCC2)cnn(C)c1=O,381,-1.0,emorfazone,"antiinflammatory agent, cyclooxygenase inhibitor",
+CCOC(=O)[C@@H](N)Cc1ccc(O)c(O)c1,382,-1.0,etilevodopa,dopamine receptor agonist,DRD3
+CCCOC(C(=O)OC1CCN(C)CC1)(c1ccccc1)c1ccccc1,383,-1.0,propiverine,acetylcholine receptor antagonist,CHRM1
+C1Cc2[nH]nc(-c3nnn[nH]3)c2C1,384,-1.0,MK-0354,niacin receptor agonist,"HCAR2, HCAR3"
+OC[C@H]1O[C@@H](n2cnc3c2N=CNC[C@H]3O)C[C@@H]1O,385,1.338636203,pentostatin,"adenosine deaminase inhibitor, ribonucleotide reductase inhibitor",ADA
+O=C(CN1CCNCC1)NC1CCCCC1,386,-1.0,esaprazole,,
+O=C(c1ccccn1)c1cnn2c(-c3ccncc3)ccnc12,387,-1.0,ocinaplon,GABA receptor modulator,"GABRA1, GABRA2, GABRA3, GABRA5"
+CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C,388,-1.0,hydroxyprogesterone-acetate,progesterone receptor agonist,PGR
+CC(C)(CCCCCCCCCCC(C)(C)CC(=O)O)CC(=O)O,389,-1.0,medica-16,ATP citrase lyase inhibitor,FFAR1
+CCOC(=O)N[C@@H]1CC[C@@H]2[C@@H](C1)C[C@H]1C(=O)O[C@H](C)[C@H]1[C@H]2/C=C/c1ccc(-c2cccc(F)c2)cn1,390,-1.0,vorapaxar,thrombin receptor antagonist,F2R
+CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@H](O)C[C@]12C,391,-1.0,stetaderm,,
+O=C(NO)c1ccc(O)c(O)c1,392,-1.0,didox,ribonucleotide reductase inhibitor,RRM1
+CN1C(=O)N(C[C@H](C(=O)NO)[C@@H](CC2CCCC2)C(=O)N2CCCCC2)C(=O)C1(C)C,393,-1.0,cipemastat,metalloproteinase inhibitor,"ADAM17, MMP1, MMP13, MMP2, MMP3, MMP8, MMP9"
+O=C1CNC(=O)CN1,394,-1.0,piperazinedione,DNA synthesis inhibitor,
+O=C(Cc1ccc(-c2ccccc2)cc1)Nc1ccccn1,395,-1.0,difenpiramide,"cyclooxygenase inhibitor, prostaglandin inhibitor",
+Cc1ncc(CO)c(CN)c1O,396,-1.0,pyridoxamine,AGE inhibitor,
+Cc1cc(C)c(NC(=O)CN(CC(=O)O)CC(=O)O)c(C)c1Br,397,-1.0,mebrofenin,,
+CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(CSc3nc(=O)c(O)nn3C)CS[C@H]12)c1csc(N)n1,398,-1.0,ceftriaxone,bacterial cell wall synthesis inhibitor,
+CC(C)C[C@H](NC(=O)CNC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NCC(N)=O,399,-1.0,gonadorelin,gonadotropin releasing factor hormone receptor agonist,"GNRHR, GNRHR2"
+O=C(O)Cn1c2ccccc2c(=O)c2ccccc21,400,-1.0,cridanimod,progesterone receptor agonist,PGR
+CC(/C=C1\SC(=S)N(CC(=O)O)C1=O)=C\c1ccccc1,401,-1.0,epalrestat,aldose reductase inhibitor,AKR1B1
+Cn1nc(-c2cccc(F)c2)n(C)c1=S,402,-1.0,suritozole,GABA receptor inverse agonist,GABBR1
+O=C(c1cc2ccccc2o1)N1CCN(Cc2ccccc2)CC1,403,-1.0,befuraline,,
+CCCC(=O)O[C@]1(C(=O)CO)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,404,-1.0,hydrocortisone-butyrate,glucocorticoid receptor agonist,NR3C1
+CC(C)=CCC/C(C)=C/CC/C(C)=C/C=C/C(C)=C/C(=O)O,405,-1.0,peretinoin,retinoid receptor agonist,RXRA
+O=C(O)c1ccccc1-c1ccc(C(F)(F)F)cc1,406,-1.0,xenalipin,,
+C[C@H]1Oc2cc(cnc2N)-c2c(nn(C)c2C#N)CN(C)C(=O)c2ccc(F)cc21,407,0.9683125309999999,lorlatinib,ALK tyrosine kinase receptor inhibitor,ALK
+C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3CC[C@]4(C)[C@H]5C[C@@H](O)[C@]6(C)[C@@H](C7=CC(=O)OC7)CC[C@]6(O)[C@@H]5CC[C@@H]4C3)O[C@@H]2C)C[C@H](O)[C@@H]1O[C@H]1C[C@H](O)[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](C)O1,408,-1.0,deslanoside,Na/K-ATPase inhibitor,"ATP1A1, ATP1A2, ATP1A3, ATP1A4, ATP1B1, ATP1B2, ATP1B3, FXYD2"
+CC1=C(C(=O)OC(C)C)C(c2cccc([N+](=O)[O-])c2)C(C(=O)OC2CN(C(c3ccccc3)c3ccccc3)C2)=C(N)N1,409,-1.0,azelnidipine,calcium channel blocker,CACNA1C
+CC(O)COC[C@H]1O[C@@H]2O[C@@H]3[C@@H](COCC(C)O)O[C@H](O[C@@H]4[C@@H](COCC(C)O)O[C@H](O[C@@H]5[C@@H](COCC(C)O)O[C@H](O[C@@H]6[C@@H](COCC(C)O)O[C@H](O[C@@H]7[C@@H](COCC(C)O)O[C@H](O[C@@H]8[C@@H](COCC(C)O)O[C@H](O[C@H]1[C@H](O)[C@H]2O)[C@H](O)[C@H]8O)[C@H](O)[C@H]7O)[C@H](O)[C@H]6O)[C@H](O)[C@H]5O)[C@H](O)[C@H]4O)[C@H](O)[C@H]3O,410,-1.0,hydroxypropyl-beta-cyclodextrin,,
+CC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@H]3[C@@H](O)C[C@@]21C,411,1.162194776,prednisolone-acetate,glucocorticoid receptor agonist,NR3C1
+C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@]3(F)[C@H](O)C[C@]2(C)[C@]1(O)C(=O)CO,412,0.907337527,betamethasone,glucocorticoid receptor agonist,NR3C1
+COCCOC(=O)C1=C(C)NC(C)=C(C(=O)OC/C=C/c2ccccc2)C1c1cccc([N+](=O)[O-])c1,413,-1.0,cilnidipine,calcium channel blocker,CACNA1B
+O=C(O)CC(O)(CC(=O)O[Bi]1OC(=O)CC(O)(CC(=O)O)C(=O)O1)C(=O)O,414,-1.0,bismuth-subcitrate-potassium,,
+CC12CCC(C(=O)N(CCCCN3CCN(c4ccccn4)CC3)C1=O)C2(C)C,415,-1.0,piricapiron,"dopamine receptor antagonist, serotonin receptor antagonist",HTR2A
+CCc1ccc(C(=O)C(C)CN2CCCCC2)cc1,416,-1.0,eperisone,acetylcholine receptor antagonist,CYP2J2
+C[C@]12CC[C@H]3[C@@H](CC[C@@]45O[C@@H]4C(=O)C(C#N)C[C@]35C)[C@@H]1CC[C@@H]2O,417,-1.0,trilostane,3beta-hydroxy-delta5-steroid dehydrogenase inhibitor,"ESR1, ESR2, HSD3B1, HSD3B2"
+CC(SC(=O)c1cccs1)C(=O)NCC(=O)O,418,-1.0,stepronin,mucolytic agent,
+O=C(O)CSCC(=O)NC1CCSC1=O,419,-1.0,erdosteine,mucolytic agent,
+CC1(O)CCOC(=O)C1,420,-1.0,"mevalonic-d,-l-acid-lactone",,
+CCOC(=O)C12CC1/C(=N\O)c1ccccc1O2,421,-1.0,CPCCOEt,glutamate receptor antagonist,GRM1
+CCN1C[C@]2(OC(=O)c3ccccc3NC(C)=O)CC[C@@H](OC)[C@]34C1[C@@H](C[C@H]23)[C@@]1(O)C[C@H](OC)[C@H]2C[C@H]4[C@]1(O)[C@H]2OC,422,0.879672789,lappaconite,sodium channel blocker,
+CC[C@@]1(C2O[C@@H](C3O[C@@](O)(CO)[C@H](C)C[C@@H]3C)C[C@@H]2C)CC[C@H]([C@]2(C)CC[C@]3(C[C@H](O)[C@@H](C)[C@@H]([C@@H](C)[C@@H](OC)[C@H](C)C(=O)O)O3)O2)O1,423,0.779602649,monensin,bacterial permeability inducer,
+CCCC(CCC)C(=O)OC1C[C@@H]2CC[C@H](C1)[N+]2(C)C,424,-1.0,anisotropine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3"
+CC(=O)O[C@H]1C[C@@]2(C)[C@@H](C[C@@H](O)C3[C@@]4(C)CC[C@@H](O)[C@@H](C)[C@@H]4CC[C@@]32C)/C1=C(/CCC=C(C)C)C(=O)O,425,-1.0,fusidic-acid,bacterial 30S ribosomal subunit inhibitor,
+CC(C)(C)NCC(O)c1ccc(O)cc1Cl,426,-1.0,meluadrine,,
+C=C1c2c(Cl)ccc(O)c2C(=O)C2C(=O)[C@]3(O)C(=O)C(C(N)=O)C(=O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@H]12,427,-1.0,meclocycline-sulfosalicylate,bacterial 50S ribosomal subunit inhibitor,
+CC(C)(C)C1CCC(CC2C(=O)C(=O)c3ccccc3C2=O)CC1,428,-1.0,buparvaquone,antiprotozoal agent,
+OCC1OC2OC3C(CO)OC(OC4C(CO)OC(OC5C(CO)OC(OC6C(CO)OC(OC7C(CO)OC(OC8C(CO)OC(OC1C(O)C2O)C(O)C8O)C(O)C7O)C(O)C6O)C(O)C5O)C(O)C4O)C(O)C3O,429,-1.0,CDBA,,
+C#C[C@]1(O)CCC2C3CCC4=CC(=O)CCC4C3C(=C)CC21CC,430,-1.0,etonogestrel,progesterone receptor agonist,"ESR1, PGR"
+O=C1/C(=C/c2ccccc2)C(NC2CCCCC2)c2ccccc21,431,0.8863599679999999,CID-5458317,MAP kinase phosphatase inhibitor,MAPK3
+CC(=O)N(CC(O)CO)c1c(I)c(C(=O)NCCO)c(I)c(C(=O)NCC(O)CO)c1I,432,-1.0,ioxilan,radiopaque medium,
+Nc1ncnc2c1nc(Br)n2[C@@H]1O[C@@H]2COP(=O)(O)O[C@H]2[C@H]1O,433,-1.0,8-bromo-cAMP,PKA activator,
+CC(C)(C)NC(=O)N[C@H](C(=O)N1C[C@H]2[C@@H]([C@H]1C(=O)NC(CC1CCC1)C(=O)C(N)=O)C2(C)C)C(C)(C)C,434,-1.0,boceprevir,HCV inhibitor,"CMA1, CTSA, CTSF, CTSK, CTSL, CTSS"
+Nc1ncnc2c1ncn2C1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O,435,-1.0,adenosine-phosphate,adenosine receptor agonist,"ACSL1, ACSS1, ACSS2, ADCY1, ADK, CREB1, FBP1, HINT1, PDE4B, PDE4D, PIM1, PRKAA1, PRKAB1, PRKAB2, PYGL, TRPM4"
+C[C@@H]1O[C@@H]1P(=O)(O)O,436,-1.0,fosfomycin,bacterial cell wall synthesis inhibitor,
+CN1C2=CC(=O)/C(=N\NC(N)=O)C=C2CC1S(=O)(=O)O,437,-1.0,carbazochrome,,
+CC(CCC(=O)O)[C@H]1CCC2C3C(=O)C[C@@H]4CC(=O)CC[C@]4(C)C3CC(=O)[C@@]21C,438,1.2041252390000001,dehydrocholate-acid,,
+C#CC(C)(O)CC,439,-1.0,meparfylon,,
+NC(CC(F)C(=O)O)C(=O)O,440,-1.0,BAY-85-8050,,
+C[C@@H]1O[C@@H](O[C@@H]2C=C3CCC4C(CC[C@]5(C)[C@@H](c6ccc(=O)oc6)CC[C@]45O)[C@@]3(C)CC2)C(O)C(O)[C@H]1O,441,0.335193036,proscillaridin-a,,
+CO/N=C(/C(=O)NC1C(=O)N2C(C(=O)O)=C(C[N+]3(C)CCCC3)CSC12)c1csc(N)n1,442,-1.0,cefepime,bacterial cell wall synthesis inhibitor,
+CC(=O)c1c(O)c(C)c(O)c2c1OC1=CC(=O)C(C(C)=O)C(=O)[C@@]12C,443,1.23341821,usniacin-(+),MAP kinase activator,PTPN1
+O=C(O)C1CC(O)CN1,444,-1.0,L-Hydroxyproline,,
+NCCCC(N)C(=O)O,445,1.28864867,ornithine,NFkB pathway modulator,"ARG1, ARG2, GATM, GPRC6A, OAT, OAZ1, OAZ2, OAZ3, OTC, SLC25A15, SLC25A2, SLC7A1, SLC7A2, SLC7A3, SLC7A4"
+O[C@@H]1[C@@H](CCl)O[C@@H](n2cnc3c(NC4CC5CCC4C5)ncnc32)[C@@H]1O,446,-1.0,5'-Chloro-5'-deoxy-ENBA-(+/-),adenosine receptor agonist,ADORA1
+CC1=C(CC(=O)O)c2cc(F)ccc2/C1=C\c1ccc(S(C)=O)cc1,447,-1.0,sulindac,cyclooxygenase inhibitor,"AKR1B1, MAPK3, PPARD, PTGDR2, PTGS1, PTGS2"
+CCOC(=O)C1CSC(Cc2ccc(OCc3ccc([N+](=O)[O-])cc3)cc2)N1,448,-1.0,SN-6,sodium/calcium exchange inhibitor,
+Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@@H](n3cnc4c(N)ncnc43)C(O)C2O)C(O)C1O,449,-1.0,diadenosine-tetraphosphate,adenosine kinase inhibitor,"P2RY13, P2RY2"
+N[C@@H](CSSC[C@H](N)C(=O)O)C(=O)O,450,-1.0,L-Cystine,,"CTNS, SLC3A1, SLC7A11, SLC7A9"
+CO[C@H]1CC(O[C@@H]2/C(C)=C/C[C@@H]3C[C@@H](C[C@]4(C=C[C@H](C)[C@@H](C5CCCCC5)O4)O3)OC(=O)[C@@H]3C=C(C)[C@@H](O)[C@H]4OC/C(=C\C=C\[C@@H]2C)[C@@]34O)O[C@@H](C)C1O[C@H]1C[C@H](OC)[C@@H](O)[C@H](C)O1,451,-1.0,doramectin,,
+C#C[C@]1(O)CCC2C3CCc4cc(OC5CCCC5)ccc4C3CC[C@@]21C,452,-1.0,quinestrol,estrogen receptor agonist,ESR1
+CC(=O)C1C(=O)C=C(C)OC1=O,453,-1.0,dehydroacetic-acid,,
+CCC(=O)OCC(=O)C1(OC(=O)CC)[C@H](C)C[C@H]2C3[C@H]([C@@H](O)C[C@@]21C)[C@@]1(C)C=CC(=O)C=C1C[C@H]3Cl,454,-1.0,alclometasone-dipropionate,glucocorticoid receptor agonist,"CYP3A4, NR3C1, SERPINA6"
+CC(=O)OC(C)C[N+](C)(C)C,455,-1.0,methacholine,acetylcholine receptor agonist,"CHRM2, CHRM3, CHRM4"
+CC(C)[C@@H]1C2CCC(C2)[C@H]1N,456,-1.0,AGN-192403,imidazoline receptor ligand,NISCH
+COc1ccc(CCNCC(O)COc2cccc(C)c2)cc1OC,457,-1.0,bevantolol,adrenergic receptor antagonist,"ADRA1A, ADRB1, ADRB2"
+O=C(O)CC(O)C(=O)O,458,-1.0,malic-acid,,"CS, ME2, PKD2L1"
+C/C1=C2/N=C(/C=C3\N=C(/C(C)=C4/[C@@H](CCC(N)=O)[C@](C)(CC(N)=O)[C@](C)([C@@H]5N=C1[C@](C)(CCC(=O)NC[C@@H](C)OP(=O)(O)O[C@@H]1[C@@H](CO)O[C@H](n6cnc7cc(C)c(C)cc76)[C@@H]1O)[C@H]5CC(N)=O)N4[Co+]C#N)[C@@](C)(CC(N)=O)[C@@H]3CCC(N)=O)C(C)(C)[C@@H]2CCC(N)=O,459,-1.0,cyanocobalamin,"methylmalonyl CoA mutase stimulant, vitamin B","MMAA, MMACHC, MTHFR, MTR, MTRR, MUT"
+CCCCCC(C)N,460,-1.0,tuaminoheptane,,
+FC(F)(F)C(Cl)Br,461,-1.0,halothane,glutamate receptor antagonist,"ATP2C1, ATP5D, GABRA1, GABRA2, GABRA3, GABRA4, GABRA5, GABRA6, GABRB1, GABRB2, GABRB3, GABRD, GABRE, GABRG1, GABRG2, GABRG3, GABRP, GABRQ, GLRA1, GLRB, GNG2, GRIN2A, GRIN3A, GRIN3B, KCNJ3, KCNJ6, KCNK10, KCNK12, KCNK13, KCNK15, KCNK18, KCNK2, KCNK3, KCNK9, KCNMA1, KCNN4, MT-ND1, NPSR1, RHO"
+CC(=O)O[C@H]1CC[C@@]2(C)C(=CCC3C4CCC(=O)[C@@]4(C)CCC32)C1,462,-1.0,prasterone-acetate,,
+NC(Cc1ccc(O)cc1)C(=O)O,463,-1.0,plovamer-acetate,,"TAT, TH, YARS, YARS2"
+CO/N=C(/C(=O)NC1C(=O)N2C(C(=O)O)=C(CSc3nnnn3C)CSC12)c1csc(N)n1,464,-1.0,cefmenoxime,bacterial cell wall synthesis inhibitor,
+CC1CCCC(C)N1,465,-1.0,"2,6-dimethylpiperidine",,
+C=CC(C)(O)CC[C@@H]1[C@@]2(C)CCCC(C)(C)C2CC[C@@]1(C)O,466,-1.0,sclareol,,
+CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c(/C=N/N5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)/C(C)=C\C=C\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,467,0.9162370440000001,rifampin,RNA polymerase inhibitor,"NR1I2, SLCO1A2, SLCO1B1, SLCO1B3"
+CO[C@H]1C[C@H](O[C@@H]2[C@@H](C)C(=O)O[C@H](C)[C@H](C)[C@H](OC(C)=O)[C@@H](C)C(=O)[C@@]3(CO3)C[C@H](C)[C@H](OC3O[C@H](C)C[C@H](N(C)C)[C@H]3OC(C)=O)[C@H]2C)O[C@@H](C)[C@@H]1OC(C)=O,468,-1.0,troleandomycin,protein synthesis inhibitor,
+CC[C@@H](C(=O)[C@@H](C)[C@@H](O)[C@H](C)[C@@H]1O[C@@H]([C@@H](CC)C(=O)O)[C@H](C)C[C@@H]1C)[C@H]1O[C@]2(C=C[C@@H](O)[C@]3(CC[C@@](C)(C4CC[C@](O)(CC)[C@H](C)O4)O3)O2)[C@H](C)C[C@@H]1C,469,0.842027679,narasin,antiprotozoal agent,
+N[C@@H](CS(=O)O)C(=O)O,470,-1.0,L-Cysteinesulfinic-acid,glutamate receptor agonist,"GRM1, GRM5, GSR, HMGCS2, PAPOLA, PRDX2"
+CC(CO)NC(=O)C1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,471,-1.0,ergonovine,"adrenergic receptor agonist, serotonin receptor agonist","ADRA1A, HTR1E"
+CCCCC(CC)C/N=C(\N)N/C(N)=N/CCCCCC/N=C(\N)N/C(N)=N/CC(CC)CCCC,472,0.858014488,alexidine,phosphatidylglycerophosphatase inhibitor,PTPMT1
+CC(C)(C)NCC(O)CSc1nc(-c2ccc(C(N)=O)s2)cs1,473,-1.0,arotinolol,adrenergic receptor antagonist,ADRB3
+CC[C@@H](C(=O)O)C1CC[C@H](C)C([C@@H](C)[C@H](O)[C@H](C)C(=O)[C@H](CC)C2O[C@]3(C=C[C@@H](O)[C@]4(CC[C@@](C)(C5CC[C@](O)(CC)[C@H](C)O5)O4)O3)[C@H](C)C[C@@H]2C)O1,474,0.862178159,salinomycin,,
+CC(N)(C(=O)O)c1ccc(-c2nnn[nH]2)cc1,475,0.911693231,MTPG,glutamate receptor antagonist,"GRM2, GRM3"
+CC(C)NCC(O)c1ccccc1Cl,476,-1.0,clorprenaline,adrenergic receptor agonist,"ADRB1, ADRB2"
+CC1(C)C2CC[C@]3(C)[C@H](C(=O)C=C4[C@@H]5C[C@@](C)(C(=O)O)CC[C@]5(C)CC[C@]43C)[C@@]2(C)CC[C@@H]1OC(=O)CCC(=O)O,477,-1.0,carbenoxolone,11-beta hydroxysteroid dehydrogenase inhibitor,"GJA1, GJA10, GJA3, GJA4, GJA5, GJA8, GJA9, GJB1, GJB2, GJB3, GJB4, GJB5, GJB6, GJB7, GJC1, GJC2, GJC3, GJD2, GJD3, GJD4, GJE1, HSD11B1, PANX1, PANX2, PANX3"
+Cc1noc(COc2ccccc2OCC(O)CNC(C)(C)C)n1,478,-1.0,proxodolol,adrenergic receptor antagonist,
+CCCCCCCCCCCCCCCCCCOC[C@H](COP(=O)(O)OCC[N+](C)(C)C)OC,479,-1.0,edelfosine,phospholipase inhibitor,
+CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](COC1OC(CO)C(OC2OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(O)C4O)C3NC(C)=O)C(OC3(C(=O)O)CC(O)C(NC(C)=O)C(C(O)C(O)CO)O3)C2O)C(O)C1O)NC(=O)CCCCCCCCCCCCCCCCC,480,-1.0,ganglioside-gm1,,
+CCCCCCCCCCCCCCCCCC(=O)OCC(O)CO,481,-1.0,monostearin,,
+FC(F)OC(Cl)C(F)(F)F,482,-1.0,isoflurane,inhaled anaesthetic,"ATP2C1, ATP5D, CALM1, GABRA1, GABRA2, GABRA3, GABRA4, GABRA5, GABRA6, GABRB1, GABRB2, GABRB3, GABRD, GABRE, GABRG1, GABRG2, GABRG3, GABRP, GABRQ, GLRA1, GLRB, GRIA1, KCNA1, KCNK10, KCNK18, KCNK2, KCNK3, KCNK9"
+Nc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O,483,-1.0,adenosine-triphosphate,adenosine receptor agonist,"ABCA1, ABCB1, ABCB11, ABCC2, ABCC8, ABCC9, ABCG1, ABL1, ABL2, ACSL1, ACSS1, ACSS2, ACVR1, ACVR1B, ACVRL1, ADCY1, ADRBK1, ADRBK2, AFG3L2, AKT1, ALK, AMHR2, APAF1, ARAF, ASNA1, ASNS, ASS1, CDK15, GPR17, ITPR1, NAE1, NT5C2, P2RY1, P2RY11, P2RY13, P2RY2, P2RY4, PRKAA1, RYR1, RYR2, RYR3, SLC25A4, TNK2, TRPM4, TRPM7"
+CCOC(=O)CSCCC1NC(C(=O)O)CS1,484,-1.0,letosteine,mucolytic agent,
+COc1cccc(CCc2ccccc2OCC(CN(C)C)OC(=O)CCC(=O)O)c1,485,-1.0,sarpogrelate,serotonin receptor antagonist,"HTR2A, HTR2B, HTR2C"
+Cc1onc(O)c1CC(N)C(=O)O,486,-1.0,AMPA-(RS),glutamate receptor agonist,GRIN1
+CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H](N)COP(=O)(O)OCC[N+](C)(C)C,487,-1.0,sphingosylphosphorylcholine,gene expression stimulant,GPR12
+COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](c6cccs6)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(=O)[C@H]23)OCO4)cc(OC)c1O,488,0.660596367,teniposide,topoisomerase inhibitor,"TOP2A, TOP2B"
+CCC(CO)(C(=O)OC1CC2CCC(C1)[N+]2(C)C)c1ccccc1,489,-1.0,troventol,,
+COC(=O)[C@]12OC[C@@]34[C@H]1[C@@H](OC(=O)/C=C(\C)C(C)C)C(=O)O[C@@H]3C[C@H]1C(C)C(=O)C(=O)C[C@]1(C)[C@H]4[C@@H](O)[C@@H]2O,490,0.582711702,bruceantin,protein synthesis inhibitor,
+CC(C)CCCCC(=O)NC(CCN)C(=O)NC(C(=O)NC(CCN)C(=O)NC1CCNC(=O)C(C(C)O)NC(=O)C(CCN)NC(=O)C(CCN)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)C(CCN)NC1=O)C(C)O,491,1.338710656,colistin-b-sulfate,bacterial permeability inducer,
+O=[N+]([O-])c1ccccc1S(=O)(=O)NC[C@H]1CC[C@H](CNCC2CCc3ccccc3C2)CC1,492,-1.0,NTNCB,neuropeptide receptor antagonist,NPY5R
+NCC(O)CC(=O)O,493,-1.0,aminohydroxybutyric-acid,,
+CO/N=C1\CN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC1CN,494,-1.0,gemifloxacin,bacterial DNA gyrase inhibitor,
+CC(C)Cc1ccc(C(C)C(=O)NO)cc1,495,-1.0,ibuproxam,"cyclooxygenase inhibitor, prostaglandin inhibitor",ALOX5
+CC(=O)OC1CC2CCC1(C)C2(C)C,496,-1.0,bornyl-acetate,,
+CC(C)(C)[C@]1(O)C[C@@H]2OC(=O)C[C@@]23C(=O)O[C@@H]2OC(=O)[C@H](O)C231,497,-1.0,bilobalide,GABA receptor modulator,"GLRA1, GLRA2, GLRB, HTR3A, HTR3B"
+CC(=O)[C@@]12OC(C)(c3ccccc3)O[C@@H]1C[C@H]1[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]12C,498,-1.0,algestone-acetophenide,,
+C=C1CC2C3C=C(C)C4=CC(=O)CC[C@]4(C)C3CC[C@]2(C)[C@@]1(OC(C)=O)C(C)=O,499,0.8893970999999999,melengestrol-acetate,progesterone receptor agonist,
+C=CC(C)(O)CCC=C(C)C,500,1.135739749,linalool,anticonvulsant,
+O=C(O)CC(S)C(=O)O,501,-1.0,mercaptosuccinic-acid,,
+C[C@]12CCC3[C@@H](CC[C@@H]4C[C@H](O)CC[C@]34C)[C@@H]1CCC2=O,502,-1.0,3-alpha-Hydroxy-5-beta-androstan-17-one,,
+CC(N/C(=N/C#N)Nc1ccncc1)C(C)(C)C,503,-1.0,pinacidil,"ATP channel activator, potassium channel activator","ABCC8, ABCC9"
+CC1=C(C(=O)OC2CCCCC2)C(c2ccc([N+](=O)[O-])cc2)C2=C(CC(C)(C)CC2=O)N1,504,0.992531405,FLI-06,notch signaling inhibitor,
+CC(=O)O[C@@H]1CC[C@@]2(C)C(CC[C@]3(C)C2C(=O)C=C2[C@@H]4[C@@H](C)[C@H](C)CC[C@]4(C)CC[C@]23C)[C@@]1(C)C(=O)O,505,-1.0,acetyl-11-keto-beta-boswellic-acid,lipoxygenase inhibitor,"HSD11B1, HSD11B2"
+CC(=O)OCC1=C2C(=O)O[Zn]OC(=O)C(N)CCCC(=O)N[C@@H]3C(=O)N2C3SC1,506,-1.0,cephalosporin-c-zn,bacterial cell wall synthesis inhibitor,
+C[C@H]1CC2C3CC[C@](O)(C(=O)COC(=O)CCC(=O)O)[C@@]3(C)C[C@H](O)C2[C@@]2(C)C=CC(=O)C=C12,507,-1.0,methylprednisolone-sodium-succinate,glucocorticoid receptor agonist,
+O=C(/C=C/c1ccccc1)NC(NC(=S)Nc1cccc2cccnc12)C(Cl)(Cl)Cl,508,-1.0,salubrinal,eukaryotic translation initiation factor inhibitor,EIF2S1
+CCNC(=O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1/C=C/C(O)CCc1ccccc1,509,-1.0,bimatoprost,prostanoid receptor agonist,"AKR1C3, PTGER1, PTGER3, PTGFR"
+O=C(/C=C/c1ccccc1)NC(NC(=S)Nc1ccc(Cl)cc1)C(Cl)(Cl)Cl,510,-1.0,sal003,eukaryotic translation initiation factor inhibitor,EIF2A
+O=C(O)c1ccc(NC2OC(CO)C(O)C(O)C2O)cc1,511,-1.0,K-MAP,,
+O=C1CCC(c2ccccc2)(C2CCN(Cc3ccc(I)cc3)CC2)C(=O)N1,512,1.209133564,iododexetimide,acetylcholine receptor antagonist,
+CC(C)(C)NCC(O)COc1cccc2c1CCCC2=O,513,-1.0,levobunolol-(+/-),adrenergic receptor antagonist,
+CNC1CCCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2OC)C1,514,-1.0,balofloxacin,bacterial DNA gyrase inhibitor,
+CC1(C)C2CCC1(CS(=O)(=O)O)C(=O)/C2=C\c1ccc(/C=C2\C(=O)C3(CS(=O)(=O)O)CCC2C3(C)C)cc1,515,0.717373385,ecamsule-triethanolamine,,
+O=C1Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O,516,0.7758749559999999,oxazepam,GABA benzodiazepine site receptor agonist,"GABRA1, GABRA2, GABRA3, GABRA4, GABRA5, GABRA6, GABRB1, GABRB2, GABRB3, GABRD, GABRE, GABRG1, GABRG2, GABRG3, GABRP, GABRQ, GABRR1, GABRR2, GABRR3"
+CC(C)[C@H](N)C(=O)OCC(CO)OCn1cnc2c(=O)[nH]c(N)nc21,517,-1.0,valganciclovir,DNA synthesis inhibitor,
+NCC1CC(=O)N(Cc2ccccc2)C1,518,-1.0,nebracetam,acetylcholine receptor agonist,CHRM1
+CCCCCCCCCCC(CO)CCCCCCCC,519,-1.0,2-octyldodecan-1-ol,,
+COc1ccccc1OCC(O)CNC(C)C,520,-1.0,moprolol,adrenergic receptor antagonist,
+C[N+]1(C)C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,521,-1.0,methylatropine-nitrate,acetylcholine receptor antagonist,CHRM1
+CC1COC2(CCN(c3nc(=O)c4cc(C(F)(F)F)cc([N+](=O)[O-])c4s3)CC2)O1,522,-1.0,BTZ043-racemate,DPRE1 inhibitor,
+OCC1OC(O)C(F)C(O)C1O,523,-1.0,2-fluoro-2-deoxy-D-galactose,,LCT
+CC(C)(C)CC(=O)OCC(=O)[C@@]1(O)CCC2C3CCC4=CC(=O)C=C[C@]4(C)C3[C@@H](O)C[C@@]21C,524,0.9926508159999999,prednisolone-tebutate,anti-inflammatory agent,
+CCC[N+]12C3C[C@H](C4C(O)[C@]5(C[C@@H]41)c1ccccc1N(C)[C@@H]35)[C@H](CC)[C@H]2O,525,-1.0,neo-gilurytmal,,
+N#CC(c1ccnc(OCc2ccc(CN3CCOCC3)cc2)n1)c1nc2ccccc2s1,526,-1.0,PGL5001,JNK inhibitor,"MAPK10, MAPK8, MAPK9"
+CCCC[N+]1(C)[C@H]2C[C@H](OC(=O)[C@@H](CO)c3ccccc3)C[C@@H]1[C@H]1O[C@@H]21,527,0.902378494,butylscopolamine-bromide,cholinergic receptor antagonist,
+N#C/C(=C1/SCC(c2ccccc2Cl)S1)n1ccnc1,528,1.079979788,lanoconazole,sterol demethylase inhibitor,
+C[C@]12CCC3C(CC[C@]4(O)C[C@@H](O)CC[C@]34C=O)[C@@]1(O)CCC2C1=CC(=O)OC1,529,-1.0,k-strophanthidin,ATPase inhibitor,ATP1A1
+CCCC(O)C(CC)CO,530,-1.0,"2-ethyl-1,3-hexanediol",,
+Cc1ccc(/C=C2\C(=O)C3(C)CCC2C3(C)C)cc1,531,-1.0,3-(4-methylbenzylidene)camphor,endocrine disruptor,
+O=C1/C(=C/c2ccccc2)C[C@@]2(O)C3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)[C@H]1O5,532,0.8230638440000001,BNTX,opioid receptor antagonist,"OPRD1, OPRK1, OPRM1"
+CCCCCCCCCCCCCCOS(=O)(=O)O,533,-1.0,sodium-tetradecyl-sulfate,,"PROC, PROS1"
+OCC(S)CS,534,-1.0,dimercaprol,chelating agent,
+CN1C(=O)CC(C)(c2ccccc2)C1=O,535,-1.0,methsuximide,T-type calcium channel binder,"CACNA1G, CACNA1H, CACNA1I"
+O=C(NOCC(O)CO)c1cc(Br)c(F)c(F)c1Nc1ccc(I)cc1F,536,0.7600391329999999,PD-318088,MEK inhibitor,MAP2K1
+O=C1CCC[C@@H]2[C@@H]3CCC[N+]4([O-])CCC[C@H](CN12)[C@@H]34,537,1.542153816,oxymatrine,,
+Fc1cc(F)c2c(c1)[C@H]1C=CC[C@H]1C(c1cccnc1)N2,538,0.9705445220000001,golgicide-a,ARF inhibitor,GBF1
+CN1CCc2cc3c(cc2C1O)OCO3,539,-1.0,hydrastinine,haemostatic agent,
+CN1CCCN=C1COC(=O)C(O)(c1ccccc1)C1CCCCC1,540,0.739901158,oxyphencyclimine,cholinergic receptor antagonist,"CHRM1, CHRM2, CHRM3"
+CO[C@H]1CC(O[C@@H]2/C(C)=C/C[C@@H]3C[C@@H](C[C@]4(CC[C@H](C)[C@@H](C5CCCCC5)O4)O3)OC(=O)[C@@H]3C=C(C)/C(=N/O)[C@H]4OC/C(=C\C=C\[C@@H]2C)[C@@]34O)O[C@@H](C)C1O,541,1.118284625,selamectin,nematocide,
+C[C@@H](NCCc1ccc(O)cc1)[C@@H](O)c1ccc(O)cc1,542,1.3889792440000002,ritodrine,adrenergic receptor agonist,ADRB2
+CC(C)(CO)[C@@H](O)C(=O)NCCCO,543,-1.0,dexpanthenol,,
+O=C(Nc1ccccc1)C12CC1/C(=N\O)c1ccccc1O2,544,-1.0,PHCCC,glutamate receptor agonist,"GRM1, GRM4"
+CCCN(C/C=C/I)C1CCc2cccc(O)c2C1,545,0.937646249,8-hydroxy-PIPAT,dopamine receptor ligand,"DRD2, DRD3"
+O=C(O)C1O[Sb]2(O)(O[Sb]34(O)OC(C(=O)O)C(O3)C(C(O)CO)O4)OC(C(O)CO)C1O2,546,1.2338530840000002,sodium-stibogluconate,tyrosine phosphatase inhibitor,"PTPN6, TOP1"
+CC(=O)Oc1c(C)c(C)c2c(c1C)CCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O2,547,-1.0,alpha-tochopheryl-acetate,antioxidant,
+CN/C(=N\c1ccc(C2=NNC(=O)CC2C)cc1)NC#N,548,-1.0,siguazodan,phosphodiesterase inhibitor,PDE3A
+O=c1[nH]c(=O)n([C@H]2CC(O)[C@@H](CO)O2)cc1/C=C/Br,549,-1.0,brivudine,DNA directed DNA polymerase inhibitor,
+CC12C=CCC1C1CCC3CC(=O)CCC3(C)C1CC2,550,-1.0,androstenone,steroid,
+NC(=O)c1cn(C2OC(CO)[C@H](O)[C@@H]2O)c2ncnc(N)c12,551,0.01330602,sangivamycin,DNA inhibitor,
+CN1CC2CCCC(C1)C2OC(=O)C(O)(c1ccccc1)C1CCCC1,552,-1.0,levo-phencynonate,acetylcholine receptor antagonist,CHRM1
+CC(=O)OCC(=O)[C@@]1(OC(C)=O)[C@@H](C)CC2C3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,553,-1.0,diflorasone-diacetate,glucocorticoid receptor agonist,NR3C1
+CC1(O)C(O)C(CO)OC1n1ccc(N)nc1=O,554,-1.0,NM107,RNA polymerase inhibitor,
+CC(=O)NC(C(=O)O)C(C)(C)S[N+][O-],555,-1.0,SNAP,nitric oxide donor,PTPN1
+CN[C@H]1C[C@@H](N)[C@H](O)[C@@H](O[C@@H]2O[C@H](CO)[C@@H]3OC4(O[C@@H]3[C@@H]2O)O[C@H](C(N)CO)[C@H](O)[C@H](O)[C@H]4O)[C@@H]1O,556,-1.0,hygromycin-b,polypeptide synthesis inhibitor,
+O=C1CN2CCN3CCN([C@H](CO)C(O)CO)CCN(CC2)CC(=O)O[Gd](O1)OC(=O)C3,557,-1.0,gadobutrol,radiopaque medium,
+CN[C@@H]1C(OC2[C@H](O[C@@H]3[C@@H](NC(=N)N)[C@H](O)[C@@H](NC(=N)N)[C@H](O)[C@H]3O)OC(C)[C@]2(O)CO)OC(CO)C(O)C1O,558,-1.0,dihydrostreptomycin,bacterial 30S ribosomal subunit inhibitor,
+O=C1OC(CN2CCOCC2)CN1/N=C/c1ccc([N+](=O)[O-])o1,559,-1.0,furaltadone,bacterial DNA inhibitor,
+O=C(CS(=O)Cc1ccco1)NC/C=C\COc1cc(CN2CCCCC2)ccn1,560,0.966729477,lafutidine,histamine receptor antagonist,HRH2
+O=[N+]([O-])c1nccn1CC(O)CN1CCCCC1,561,-1.0,pimonidazole,,
+COC(=O)C1=C(C)NC(C)=C(C(=O)OC/C=C/c2ccccc2)C1c1cccc([N+](=O)[O-])c1,562,1.31844554,pranidipine,calcium channel blocker,CACNA1C
+COc1ccc2c(O[C@H]3CC4C(=O)N(C)CCCC/C=C\[C@@H]5C[C@@]5(C(=O)NS(=O)(=O)C5CC5)NC(=O)[C@@H]4C3)cc(-c3nc(C(C)C)cs3)nc2c1C,563,-1.0,simeprevir,HCV inhibitor,"CYP1A2, CYP3A4"
+CCC(N)C(O)c1ccc(O)c(O)c1,564,-1.0,ethylnorepinephrine,bronchodilator,
+CSC1SCC2C(=O)N(C)C(C(C)C)C(=O)OCC(NC(=O)c3cnc4ccccc4n3)C(=O)NC(C)C(=O)N(C)C1C(=O)N(C)C(C(C)C)C(=O)OCC(NC(=O)c1cnc3ccccc3n1)C(=O)NC(C)C(=O)N2C,565,0.282413176,echinomycin,DNA intercalating agent,
+C/C=C/CC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,566,1.175964726,cyclosporin-a,calcineurin inhibitor,PPP3CA
+C/C(=C(/CCO)SSCC1CCCO1)N(C=O)Cc1cnc(C)nc1N,567,-1.0,fursultiamine,vitamin B,
+CSCC1CN(/N=C/c2ccc([N+](=O)[O-])o2)C(=O)O1,568,-1.0,inimur,other antifungal,
+CCOC(CN1CCN(CC(C)C(=O)c2ccccc2)CC1)c1ccccc1,569,-1.0,eprazinone,mucolytic agent,
+CO[C@@H]1C(O)[C@H](O[C@H]2CC[C@]3(C=O)[C@H]4CC[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)[C@@H]4CC[C@@H]3C2)OC(C)[C@@H]1O,570,-1.0,peruvoside,cardiac glycoside,
+C=C1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)[C@H]1O5,571,-1.0,nalmefene,opioid receptor antagonist,"OPRD1, OPRK1, OPRM1"
+OC[C@@]1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O,572,-1.0,tagatose,phosphorylase inhibitor,PYGL
+CN1CCN(C(=O)C2C(C(=O)O)[C@@H]3CC[C@H]2O3)CC1,573,-1.0,LB-100,protein phosphatase inhibitor,
+CO[C@H]1CCC(O[C@H]2CC([C@]3(C)CC[C@]4(C[C@H](O)[C@@H](C)[C@@H]([C@@H](C)/C=C(\C)C(=O)[C@H](C)C[C@H](C)C(=O)O)O4)O3)O[C@]3(O[C@@H](C4O[C@@](O)(CO)[C@H](C)C[C@@H]4C)C[C@@H]3C)[C@@H]2C)O[C@@H]1C,574,0.663895176,nanchangmycin,other antibiotic,
+NC(Cc1c[nH]c2ccc(O)cc12)C(=O)O,575,-1.0,5-hydroxytryptophan,neurotransmitter,"SLC36A1, SLC36A2"
+C[C@H](NC[C@H](O)CP(=O)(O)CC1CCCCC1)c1ccc(Cl)c(Cl)c1,576,-1.0,CGP-54626,GABA receptor antagonist,"GABBR1, GABBR2, KCTD12, KCTD16, KCTD8"
+O=C(O)CCC(CP(=O)(O)O)C(=O)O,577,-1.0,PMPA,glutamate receptor antagonist,FOLH1
+C[C@]12CCC3c4ccc(OC(=O)c5ccccc5)cc4CCC3C1CC[C@@H]2O,578,1.298046677,estradiol-benzoate,contraceptive agent,ESR1
+CC1=C2[C@@H](CCC(N)=O)[C@](C)(CC(N)=O)[C@]3(C)[C@H]4[C@H](CC(N)=O)[C@@](C)(CCC(=O)NC[C@@H](C)OP(=O)(O)O[C@@H]5[C@@H](CO)O[C@H](n6cnc7cc(C)c(C)cc76)[C@@H]5O)C5=[N+]4[Co]4(C#N)(N23)[N+]2=C(C=C3[C@@H](CCC(N)=O)[C@](C)(CC(N)=O)C1=[N+]34)C(C)(C)[C@H](CCC(N)=O)C2=C5C,579,-1.0,vitamin-b12,,
+CCCCCCCCCCCCCCCC(=O)OC1C(SC)OC(C(NC(=O)C2CC(CCC)CN2C)C(C)Cl)C(O)C1O,580,-1.0,clindamycin-palmitate,bacterial 50S ribosomal subunit inhibitor,
+C#CCN1C(C)=C(C(=O)OC)C(c2cccc([N+](=O)[O-])c2)C(C(=O)OCC)=C1C,581,-1.0,MRS1845,calcium channel blocker,
+CC(O)CN(CCN(CC(C)O)CC(C)O)CC(C)O,582,-1.0,editol,,
+COc1ccc(CC(=O)NC(N/C(=N/C#N)Nc2cccc3ncccc23)C(C)(C)C)cc1OC,583,-1.0,A740003,purinergic receptor antagonist,P2RX7
+CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](O)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C,584,0.7113696509999999,sirolimus,mTOR inhibitor,"FGF2, FKBP1A, MTOR"
+CCC1/C=C/C=C/C[C@H](C)[C@@H](O)[C@](C)(O)C(=O)[C@@H](C)[C@H](O)[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@H](C)/C=C/C(=O)OC2[C@@H](C)C(CC1)OC1(CC[C@@H](C)C(C[C@H](C)O)O1)[C@@H]2C,585,-1.0,oligomycin-a,"ATP synthase inhibitor, ATPase inhibitor",ATP5A1
+CC(=O)NC1C(O)OC(COS(=O)(=O)O)C(OC2OC(C(=O)O)C(OC3OC(CO)C(OC4OC(C(=O)O)C(O)C(O)C4OS(=O)(=O)O)C(OS(=O)(=O)O)C3NS(=O)(=O)O)C(O)C2OS(=O)(=O)O)C1O,586,-1.0,ardeparin,thrombin inhibitor,"SERPINC1, SERPIND1"
+C[C@H]1CC2C3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)COP(=O)(O)O,587,-1.0,dexamethasone-sodium-phosphate,glucocorticoid receptor agonist,NR3C1
+C=CC[N@@+]12CC[C@]34c5ccccc5N5/C=C6\C7N(/C=C(\C53)[C@@H](C[C@@H]41)/C(=C/CO)C2)c1ccccc1[C@@]71CC[N@@+]2(CC=C)C/C(=C\CO)[C@@H]6C[C@@H]12,588,-1.0,alcuronium,muscle relaxant,"CHRM1, CHRM2, CHRM3, CHRM4, CHRNA7"
+O=C(O)/C=C1\CCCc2ccccc2C1O,589,-1.0,NCS-382,GABA receptor antagonist,"GABBR1, GABBR2, SLC52A2"
+O=C1O[C@H]([C@@H](O)CO)C(O)C1=O,590,-1.0,ascorbic-acid,antioxidant,"ALKBH2, ALKBH3, BBOX1, DBH, EGLN1, EGLN2, EGLN3, KDM5D, LCT, OGFOD1, OGFOD2, P3H1, P3H2, P3H3, P4HA1, P4HTM, PAM, PHYH, PLOD1, PLOD2, PLOD3, SLC23A1, SLC23A2, TMLHE"
+CC1CCCC(C)N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1,591,1.3160879079999999,clopamide,sodium/chloride cotransporter inhibitor,
+CCN(CC)CCCCC(NC(=O)c1ccc([N+](=O)[O-])cc1)c1ccccc1,592,-1.0,nibentan,potassium channel blocker,
+C[C@H]1OC(O)[C@H](O)[C@H](O)[C@H]1O,593,-1.0,L-(+)-Rhamnose-Monohydrate,,
+C=C1CCC2[C@@](C)(CC[C@@H](O)[C@@]2(C)CO)[C@@H]1C/C=C1/C(=O)OC[C@H]1O,594,-1.0,andrographolide,tumor necrosis factor production inhibitor,NFKB1
+CCOC(=O)CC(=O)N1CCSC1COc1ccccc1OC,595,-1.0,moguisteine,ATP-sensitive potassium channel inhibitor,
+CCOc1ccc(NC(=O)CC(C)O)cc1,596,-1.0,bucetin,analgesic agent,
+C[N+](C)(C)CC(O)CC(=O)O,597,-1.0,carnitine-(D/L),,
+C/C(=C\C(N)C(=O)O)CP(=O)(O)O,598,-1.0,CGP-37849,glutamate receptor antagonist,"GRIN2A, GRIN2B, GRIN2C, GRIN2D"
+O=C(CS(=O)C(c1ccccc1)c1ccccc1)NO,599,-1.0,adrafinil,adrenergic receptor agonist,
+CCC(C)[C@H]1O[C@]2(C=C[C@@H]1C)C[C@@H]1C[C@@H](C/C=C(\C)[C@@H](OC3C[C@H](OC)C(O[C@H]4C[C@H](OC)[C@@H](NC(C)=O)[C@H](C)O4)[C@H](C)O3)[C@@H](C)/C=C/C=C3\CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2,600,1.494766281,eprinomectin,benzodiazepine receptor agonist,
+CCN(CC)CCNC(C(=O)OCCC(C)C)c1ccccc1,601,1.133147014,camylofine-chlorhydrate,,
+COc1ccc(CC2NCCc3cc(OC)c(OC)cc32)cc1OC,602,-1.0,tetrahydropapaverine,,
+O=C(O)C1=CC(O)C(O)[C@H](O)C1,603,-1.0,shikimic-acid,,
+CC(=O)NC1[C@@H](O)OC(CO)[C@@H](O)[C@H]1O,604,0.9066571240000001,N-acetylmannosamine,,CHIT1
+O=c1ncnc2n([C@@H]3O[C@H](CO)[C@H](O)C3O)[nH]cc1-2,605,-1.0,allopurinol-riboside,anti-leishmanial agent,
+O=C(O)C(O)Cc1ccc(O)c(O)c1,606,-1.0,sodium-danshensu,,
+CC[C@H]1OC(=O)[C@H](C)C(=O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@H]2N(CCCCn3cnc(-c4cccnc4)c3)C(=O)O[C@]12C,607,-1.0,telithromycin,"bacterial 30S ribosomal subunit inhibitor, bacterial 50S ribosomal subunit inhibitor","CYP1A2, CYP2D6, CYP3A4, CYP3A5, CYP3A7"
+COC(=O)CCSCc1ccc(-c2onc(C)c2NC(=O)OC(C)c2ccccc2Cl)cc1,608,-1.0,ki16198,lipoprotein antagonist,LPA
+C[C@@H]1C(=O)O[C@H]2CC34[C@H]5C[C@@H](C(C)(C)C)[C@]36[C@@H](OC(=O)[C@@H]6O)O[C@@]4(C(=O)O5)[C@]21O,609,1.118945969,ginkgolide-a,GABA receptor antagonist,"GLRA1, GLRB"
+CN1C(CCl)Nc2cc(Cl)c(S(N)(=O)=O)cc2S1(=O)=O,610,-1.0,methyclothiazide,chloride reabsorption inhibitor,"CA1, CA2, CA4, SLC12A1, SLC12A3"
+CCC(CC)C(c1ccc(Nc2nc3ccccc3s2)cc1)n1cncn1,611,-1.0,talarozole,cytochrome P450 inhibitor,CYP26A1
+CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCCCCCC,612,1.171758419,colfosceril-palmitate,pulmonary surfactant,
+C[C@@]12CCC3[C@]4(C)CCC[C@@](C)(C(=O)O)[C@H]4CC[C@]3(CC1=O)C2,613,-1.0,isosteviol,,
+CCCCCC(O)CCCC(=O)O,614,-1.0,M-14157,ATP-sensitive potassium channel antagonist,KCNQ1
+OCC(O)[C@H]1O[C@@H]2O[C@H](C(Cl)(Cl)Cl)O[C@@H]2[C@H]1O,615,-1.0,chloralose,,
+CC(=O)Oc1c(C)cc(OCC(O)CNC(C)C)c(C)c1C,616,-1.0,metipranolol,adrenergic receptor antagonist,"ADRB1, ADRB2"
+Cc1nc2n(c(=O)c1CCN1CCC(c3noc4cc(F)ccc34)CC1)CCCC2O,617,1.2905364590000001,paliperidone,"dopamine receptor antagonist, serotonin receptor antagonist","ADRA1A, ADRA1B, ADRA2A, ADRA2B, ADRA2C, CYP2D6, CYP3A4, CYP3A5, DRD1, DRD2, DRD3, DRD4, HRH1, HTR1A, HTR1D, HTR2A, HTR2C"
+C=CCn1c(=O)n([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c2nc(N)[nH]c(=O)c21,618,-1.0,RWJ-21757,toll-like receptor agonist,TLR7
+O=C(O)/C=C/c1ccc(-c2ccc(O)c(C34CC5CC(CC(C5)C3)C4)c2)cc1,619,-1.0,adarotene,retinoid receptor agonist,"RARB, RARG"
+Oc1cc(O)cc(O)c1,620,-1.0,phloroglucin,,
+CCC(CC)[C@H](NC(C)=O)[C@@H]1[C@H](O)[C@@H](C(=O)O)C[C@H]1NC(=N)N,621,-1.0,peramivir,neuraminidase inhibitor,
+Nc1c2ccccc2nc2ccccc12,622,0.838546232,9-aminoacridine,,
+NC(N)=Nc1nc(CSCC/C(N)=N\S(N)(=O)=O)cs1,623,1.113053108,famotidine,histamine receptor antagonist,HRH2
+N[C@H](Cc1ccccc1)C(=O)O,624,-1.0,D-Phenylalanine,enkephalinase inhibitor,"CCBL1, CRH, HCAR3"
+N[C@@H](Cc1ccc(O)cc1)C(=O)NCC(=O)NCC(=O)O,625,-1.0,IMREG-1,,
+O=C(O)c1ccccn1,626,1.227484385,picolinic-acid,chelating agent,
+CC(C)=CCOc1ccc(/C=C/C(=O)c2ccc(OCC=C(C)C)cc2OCC(=O)O)cc1,627,-1.0,sofalcone,mucus protecting agent,CBR1
+CC(=O)OC[C@H]1O[C@H](O[C@]2(COC(C)=O)O[C@H](COC(C)=O)[C@@H](OC(C)=O)[C@@H]2OC(C)=O)[C@H](OC(C)=O)[C@@H](OC(C)=O)[C@@H]1OC(C)=O,628,-1.0,sucrose-octaacetate,,
+O=c1[nH]c(=O)c2[nH]c(=O)[nH]c2[nH]1,629,-1.0,uric-acid,,PYGL
+CC(C)(C)NS(=O)(=O)c1cncc(-c2cc(F)c3nc(N)nn3c2)c1,630,-1.0,CZC24832,PI3K inhibitor,PIK3CG
+O=C1c2c(O)cc(O)cc2O[C@H](c2cc(O)c(O)c(O)c2)[C@H]1O,631,0.9860938229999999,dihydromyricetin,,
+Oc1ccc(Cl)c2c1CCC2,632,1.027263303,chlorindanol,,
+NC(=S)N/N=C/c1ncccc1N,633,0.800524557,triapine,ribonucleotide reductase inhibitor,"RRM1, RRM2"
+CCS(=O)(=O)c1cccc(-c2cc(C(=O)NC3CCN(C)CC3)c(C)c3[nH]c4ncc(C)cc4c23)c1,634,0.703289218,TAK-901,Aurora kinase inhibitor,AURKB
+C[N+](C)(C)CC#CCN1CCCC1=O,635,-1.0,oxotremorine-m,acetylcholine receptor agonist,"CHRM1, CHRM2, CHRM3, CHRM4"
+CC(C)(C)c1ccc(/C=C/C(=O)Nc2ccc3c(c2)OCCO3)cc1,636,-1.0,AMG-9810,TRPV antagonist,TRPV1
+Cc1[nH]c2ccccc2c1CCNCc1ccc(/C=C/C(=O)NO)cc1,637,0.7284022309999999,panobinostat,HDAC inhibitor,"HDAC1, HDAC2, HDAC3, HDAC4, HDAC6, HDAC7, HDAC8, HDAC9"
+CCOC(=O)c1ccc(O)cc1,638,-1.0,ethyl-paraben,,
+CCOc1cc(NC(C)=O)ccc1C(=O)OC,639,-1.0,ethopabate,antiprotozoal agent,
+Nc1ccc(S(N)(=O)=O)cc1,640,0.951850325,sulfanilamide,carbonic anhydrase inhibitor,"CYP2C19, CYP2C9, CYP2D6, CYP2E1, CYP3A4"
+CC(=O)O[C@@H]1C[C@H]2C(C)(C)C(=O)C=C[C@]2(C)[C@H]2CC[C@@]3(C)[C@H](c4ccoc4)OC(=O)[C@H]4O[C@]43[C@]12C,641,-1.0,gedunin,HSP inhibitor,HSP90AA1
+CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(COC(N)=O)CS[C@H]12)c1ccco1,642,-1.0,cefuroxime,bacterial cell wall synthesis inhibitor,
+O=C(O)c1cc2cccc([N+](=O)[O-])c2[nH]1,643,-1.0,CRT0044876,,
+CCCN1CCC[C@H](c2cccc(O)c2)C1,644,-1.0,preclamol,dopamine receptor agonist,DRD2
+Cc1[nH]c(/C=C2\C(=O)Nc3ccc(S(=O)(=O)N(C)c4cccc(Cl)c4)cc32)c(C)c1C(=O)N1CCN(C)CC1,645,-1.0,SU-11274,"hepatocyte growth factor receptor inhibitor, tyrosine kinase inhibitor",MET
+C=C1CC[C@H](O)C/C1=C/C=C1\CCC[C@@]2(C)[C@H]1CC[C@@H]2[C@H](C)CC[C@@H](O)C(C)(C)O,646,-1.0,secalciferol,vitamin D receptor agonist,VDR
+O=C(NCCS(=O)(=O)c1ccc(C(F)(F)F)cn1)c1ccc(Cl)cc1,647,-1.0,GSK3787,PPAR receptor antagonist,PPARD
+O=C1Cc2c([nH]c3ccc(Br)cc23)-c2ncccc2N1,648,1.473914056,1-azakenpaullone,glycogen synthase kinase inhibitor,"CCNB1, CDK1, CDK5, GSK3B"
+Cc1cc(CN2CCN(c3c(Br)cnc4[nH]c(-c5ccc(N6CCN(C)CC6)cc5)nc34)CC2)no1,649,0.7537972390000001,CCT137690,Aurora kinase inhibitor,"AURKA, AURKB, AURKC"
+Cc1c(C(=O)N2CCOc3ccc(-c4ccc(N)nc4)cc3C2)ccc(S(C)(=O)=O)c1F,650,0.759880601,XL388,mTOR inhibitor,MTOR
+C/C(=C\c1csc(C)n1)[C@@H]1C[C@@H]2O[C@]2(C)CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)N1,651,0.594420951,ixabepilone,microtubule stabilizing agent,"TUBA1A, TUBA1B, TUBA1C, TUBA3C, TUBA3D, TUBA3E, TUBA4A, TUBB, TUBB1, TUBB2A, TUBB2B, TUBB3, TUBB4A, TUBB4B, TUBB6, TUBB8"
+COc1c(O)cc2c(c1O)[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1OC2=O,652,-1.0,bergenin,interleukin inhibitor,"IL1B, TNF"
+N#Cc1ccncn1,653,1.433484781,4-pyrimidinecarbonitrile,,
+CCCCCCCCN=c1ccn(CCCCCCCCCCn2ccc(=NCCCCCCCC)cc2)cc1,654,0.826168682,octenidine,membrane integrity inhibitor,
+C[C@H](NC(=O)Cc1cc(F)cc(F)c1)C(=O)N[C@@H]1C(=O)N(C)c2ccccc2-c2ccccc21,655,0.902447351,YO-01027,gamma secretase inhibitor,
+C/C(=C\C(=O)Nc1ccccc1C(=O)O)c1ccc2ccccc2c1,656,0.8960940940000001,BIBR-1532,telomerase inhibitor,TERT
+Cc1cc(O)cc2c1O[C@](C)(CCC[C@H](C)CCC[C@H](C)CCCC(C)C)CC2,657,-1.0,D-delta-Tocopherol,,
+O=C1c2cccc(O)c2C(=O)c2c(O)cc(CO)cc21,658,-1.0,aloe-emodin,anticancer agent,CASP8
+O=C1Nc2cc(Br)ccc2/C1=C1/Nc2ccccc2/C1=N/O,659,1.479179576,GSK-3-inhibitor-IX,"glycogen synthase kinase inhibitor, lipoxygenase inhibitor","GSK3A, GSK3B"
+CCCCCCCCCCCCCC[C@@H](O)[C@@H](O)[C@@H](N)CO,660,-1.0,phytosphingosine,,
+C[C@H](NC(=O)/C(C#N)=C/c1cccc(Br)n1)c1ccccc1,661,0.74147057,WP1066,STAT inhibitor,STAT3
+FCOC(C(F)(F)F)C(F)(F)F,662,0.9127721540000001,sevoflurane,membrane integrity inhibitor,"ATP2C1, ATP5D, GABRA1, GABRA2, GABRA3, GABRA4, GABRA5, GABRA6, GABRB1, GABRB2, GABRB3, GABRD, GABRE, GABRG1, GABRG2, GABRG3, GABRP, GABRQ, GLRA1, GLRB, GRIA1, KCNA1, KCNK10, KCNK18, KCNK2, KCNK3, KCNK9, MT-ND1"
+Cc1c(OCC(F)(F)F)ccnc1C[S@@](=O)c1nc2ccccc2[nH]1,663,-1.0,dexlansoprazole,ATPase inhibitor,"ATP4A, ATP4B"
+CCCCCCCCC(=O)NCc1ccc(O)c(OC)c1,664,-1.0,nonivamide,TRPV agonist,TRPV1
+CCOC(=S)SSC(=S)OCC,665,-1.0,dixanthogen,,
+CC[C@@H]([C@H](C)O)n1ncn(-c2ccc(N3CCN(c4ccc(OC[C@@H]5CO[C@@](Cn6cncn6)(c6ccc(F)cc6F)C5)cc4)CC3)cc2)c1=O,666,1.14892062,posaconazole,sterol demethylase inhibitor,CYP3A4
+Cc1cc(/C=C/C#N)cc(C)c1Nc1ccnc(Nc2ccc(C#N)cc2)n1,667,-1.0,rilpivirine,non-nucleoside reverse transcriptase inhibitor,"NR1I2, SCN10A"
+CC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,668,-1.0,fludrocortisone-acetate,,"AR, NR3C1, NR3C2"
+CCCCCCCC/C=C\CCCCCCCC(N)=O,669,-1.0,oleamide,cannabinoid receptor agonist,"HTR7, PLA2G2A"
+COc1ccc(/C=C\c2cc(OC)c(OC)c(OC)c2)cc1OP(=O)(O)O,670,0.8955730049999999,fosbretabulin,"tubulin polymerization inhibitor, VE-cadherin antagonist",CDH5
+CN[C@@H]1[C@H](OC2[C@H](O[C@@H]3[C@@H](NC(=N)N)[C@H](O)[C@@H](NC(=N)N)[C@H](O)[C@H]3O)O[C@@H](C)[C@]2(O)C=O)O[C@@H](CO)[C@H](O)[C@H]1O,671,-1.0,streptomycin,bacterial 30S ribosomal subunit inhibitor,
+COc1ccc2nc(NC(=O)Nc3ccccc3)sc2c1,672,0.772921596,frentizole,immunosuppressant,
+O=C(Nc1cc(Cl)cc(Cl)c1O)c1c(O)c(Cl)cc(Cl)c1Cl,673,-1.0,oxyclozanide,,
+C/C(=C(/CCOP(=O)(O)O)SC(=O)c1ccccc1)N(C=O)Cc1cnc(C)nc1N,674,1.459516181,benfotiamine,antioxidant,AGER
+CCC(=O)c1ccc(O)cc1,675,-1.0,paroxypropione,gonadotropin inhibitor,
+CCOc1ccccc1N/N=C1/C(=O)N(c2nc(-c3ccccc3)cs2)N=C1C,676,0.885897791,BAM7,BAX activator,BAX
+COc1cc(/C=C/C(=O)CC(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O,677,0.9411663709999999,curcumin,"cyclooxygenase inhibitor, histone acetyltransferase inhibitor, lipoxygenase inhibitor, NFkB pathway inhibitor","APP, CA1, CA12, CA14, CA2, CA4, CA6, CA9, CYP3A4, DNMT3B, EP300, MMP13, MMP9, NOS2, PTGS1, PTGS2, XDH"
+COc1ncc(-c2ccc3nccc(-c4ccnnc4)c3c2)cc1NS(=O)(=O)c1ccc(F)cc1F,678,0.429308416,GSK2126458,"mTOR inhibitor, PI3K inhibitor","MTOR, PIK3CA, PIK3CB, PIK3CD, PIK3CG"
+CCC[C@@H]1C[C@@H](C(=O)N[C@H]([C@@H](C)O)[C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@@H]2O)N(C)C1,679,-1.0,lincomycin,bacterial 30S ribosomal subunit inhibitor,
+CC(C)(C)OC(=O)N[C@H]1CCCCC/C=C\[C@@H]2C[C@@]2(C(=O)NS(=O)(=O)C2CC2)NC(=O)[C@@H]2C[C@@H](OC(=O)N3Cc4cccc(F)c4C3)CN2C1=O,680,-1.0,danoprevir,HCV inhibitor,
+CC(C)(O)[C@H]1CC[C@@](C)([C@H]2[C@@H](O)C[C@@]3(C)[C@@H]4C[C@H](O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)[C@H]5C(C)(C)[C@@H](O[C@@H]6OC[C@@H](O)[C@H](O)[C@H]6O)CC[C@@]56C[C@@]46CC[C@]23C)O1,681,-1.0,astragaloside-a,antiinflammatory agent,
+Oc1ccc(-c2nc3cc(O)cc(Br)c3o2)cc1,682,-1.0,WAY-200070,estrogen receptor agonist,"ERBB2, ERBB3, ERBB4, ESR2"
+CNC(=O)Oc1ccccc1OC(C)C,683,-1.0,propoxur,,
+C=C1/C(=C\C=C2/CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)CCCC(O)(C(F)(F)F)C(F)(F)F)C[C@@H](O)C[C@@H]1O,684,-1.0,falecalcitriol,vitamin D receptor agonist,VDR
+CCN1CCCC1=O,685,-1.0,1-ethyl-2-pyrrolidone,transdermal absorption-enhancing compound,
+CC(C)=CCC[C@]1(C)C=Cc2c(O)c3c(c(CC=C(C)C)c2O1)O[C@]12C(=C[C@@H]4C[C@H]1C(C)(C)O[C@@]2(C/C=C(/C)C(=O)O)C4=O)C3=O,686,0.871305408,gambogic-acid,caspase activator,BCL2
+O=C(CCCl)NCCc1ccccc1,687,1.002904475,fenaclon,,
+CCOc1cc2ncc(C#N)c(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C)C,688,0.850028869,pelitinib,EGFR inhibitor,EGFR
+CCOc1ccc(S(=O)(=O)O)c2cccnc12,689,-1.0,actinoquinol,,
+COC(=O)/C=C/c1cccc(N(Cc2ccc(-c3ccc(N(C)C)cc3)cc2)C(=O)C2CCCCC2)c1,690,-1.0,fexaramine,FXR agonist,NR1H4
+Cc1ccc(-n2sc(=O)n(Cc3ccc(F)cc3)c2=O)cc1,691,0.949049875,CCG-50014,G protein signaling inhibitor,"RGS4, RGS8"
+CC(C)C(=O)c1ccc(O)c(O)c1,692,-1.0,U-0521,catechol O methyltransferase inhibitor,COMT
+CC1(C)OC(=O)C(OCC2CC2)=C1c1ccc(S(C)(=O)=O)cc1,693,-1.0,firocoxib,cyclooxygenase inhibitor,PTGS2
+NCc1c[nH]c(=S)n1[C@H]1CCc2c(F)cc(F)cc2C1,694,-1.0,nepicastat,dopamine beta hydroxylase inhibitor,DBH
+NS(=O)(=O)c1ccc(C(=O)O)cc1,695,-1.0,carzenide,,"CA1, CA12, CA14, CA2, CA6, CA9"
+CCCCCCCCO,696,-1.0,1-octanol,,"GJA1, GJA10, GJA3, GJA4, GJA5, GJA8, GJA9, GJB1, GJB2, GJB3, GJB4, GJB5, GJB6, GJB7, GJC1, GJC2, GJC3, GJD2, GJD3, GJD4, GJE1"
+CCc1cccc(CC)c1NC(=O)N1Cc2[nH]nc(NC(=O)c3ccc(N4CCN(C)CC4)cc3)c2C1,697,0.752513002,PHA-680632,Aurora kinase inhibitor,"AURKA, AURKB, AURKC"
+O=C(Nc1c(-c2cccs2)nc2ccccn12)c1ccc(Cl)cc1,698,-1.0,DS2-(806622),,
+Cl/C(=C\n1cncn1)c1ccc(Cl)cc1Cl,699,-1.0,loreclezole,benzodiazepine receptor agonist,"GABRB2, GABRB3"
+C=C[C@@](C)(/C=C/c1ccc(O)cc1)CCC=C(C)C,700,-1.0,bakuchiol,DNA polymerase inhibitor,HIF1A
+O=C(O)/C=C/c1ccc(O)c(O)c1,701,1.2671148140000001,caffeic-acid,"HIV integrase inhibitor, lipoxygenase inhibitor, nitric oxide production inhibitor, tumor necrosis factor production inhibitor","ALOX5, MIF"
+C[n+]1ccc(C(=O)NCc2ccccc2)cc1,702,-1.0,enisamium-iodide,,
+N[C@@H]1CCCCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2Cl)C1,703,-1.0,besifloxacin,bacterial DNA gyrase inhibitor,
+O=C(O)c1cc(/N=N/c2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O,704,0.9271709309999999,sulfasalazine,cyclooxygenase inhibitor,"ACAT1, ALOX5, CHUK, IKBKB, PLA2G1B, PPARG, PTGS1, PTGS2, SLC46A1, SLC7A11, TBXAS1"
+O=C[C@H](O)[C@@H](O)[C@H](O)CO,705,-1.0,xylose,,
+N[C@@H]1CN(c2c(F)cc3c(=O)c(C(=O)O)cn([C@@H]4C[C@@H]4F)c3c2Cl)CC12CC2,706,-1.0,sitafloxacin,bacterial DNA gyrase inhibitor,
+O=C(Nc1cc2cc[nH]c2cn1)c1ccccc1,707,-1.0,OAC1,Oct activator,
+C[C@H](Cc1cc2c(c(C(N)=O)c1)N(CCCO)CC2)NCCOc1ccccc1OCC(F)(F)F,708,-1.0,silodosin,adrenergic receptor antagonist,"ADRA1A, ADRA1B, ADRA1D"
+CC(C)OC(=O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1CC[C@@H](O)CCc1ccccc1,709,0.966167587,latanoprost,prostanoid receptor agonist,PTGFR
+CN1CCN(c2nc3ccccc3nc2Cl)CC1,710,-1.0,VUF10166,serotonin receptor antagonist,"HTR3A, HTR3B"
+NC(=O)CCCCn1ccc(/N=C(\N)NCC(F)(F)F)n1,711,1.3388075590000001,ICI-162846,histamine receptor antagonist,HRH2
+CC(=O)Nc1ccccc1,712,-1.0,acetanilide,hydrogen peroxide decomposition inhibitor,
+O=C(O)CN1CCN(CC(=O)O)CCN(CC(=O)O)CCN(CC(=O)O)CC1,713,-1.0,gadoterate-meglumine,radiopaque medium,
+Nc1nc(/C(=C/CC(=O)O)C(=O)N[C@@H]2C(=O)N3C(C(=O)O)=CCS[C@H]23)cs1,714,-1.0,ceftibuten,bacterial cell wall synthesis inhibitor,
+N=C(N)N=Nc1ccc(NNC(=N)S)cc1,715,1.205882336,ambazone,DNA damage inducer,
+N[C@@H](CCC(=O)N[C@@H](CSSC[C@H](NC(=O)CC[C@@H](N)C(=O)O)C(=O)NCC(=O)O)C(=O)NCC(=O)O)C(=O)O,716,-1.0,NOV-002,,"GSR, GSTM2"
+CC(=O)CC/C=C(\C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C,717,1.0260609729999999,teprenone,mucus protecting agent,
+C[C@H](N)C(=O)N[C@@H](CCC(N)=O)C(=O)O,718,-1.0,dipeptamin,,
+c1cc2c(cc1[C@H]1OC[C@@H]3[C@@H](c4ccc5c(c4)OCO5)OC[C@H]13)OCO2,719,-1.0,sesamin,NFkB pathway inhibitor,
+C[C@]12CC[C@H](O)C[C@H]1CC[C@@H]1[C@@H]2CC[C@@]2(C)[C@]1(O)CC[C@]2(O)c1ccoc1,720,-1.0,rostafuroxine,ATPase inhibitor,ATP1A1
+Cc1ccc(/C(=C\CN2CCCC2)c2ccccn2)cc1,721,-1.0,triprolidine,histamine receptor antagonist,HRH1
+O=C1OCCN1/N=C/c1ccc([N+](=O)[O-])o1,722,-1.0,furazolidone,bacterial DNA inhibitor,
+Cc1cc(=O)[nH]c(=S)[nH]1,723,-1.0,methylthiouracil,,
+C[N+](C)(C)CC(=O)O,724,-1.0,betaine,nitric oxide donor,
+O=P(O)(NCCCl)NCCCl,725,-1.0,palifosfamide,DNA alkylating agent,
+O=C(Nc1ncc(SCCN2CCCC2)s1)[C@]1(c2ccc(S(=O)(=O)C3CC3)cc2)C[C@H]1C1CCCCC1,726,0.8130550809999999,LY2608204,glucokinase activator,GCK
+N#C/C(=C(/N)Sc1ccc(N)cc1)c1ccccc1C(F)(F)F,727,0.636937641,MEK1-2-inhibitor,MEK inhibitor,MAP2K2
+C/C(=C(/CCOC(=O)C(C)C)SS/C(CCOC(=O)C(C)C)=C(\C)N(C=O)Cc1cnc(C)nc1N)N(C=O)Cc1cnc(C)nc1N,728,-1.0,sulbutiamine,acetylcholine receptor antagonist,
+CCNC(=O)[C@H]1O[C@@H](n2cnc3c(N)nc(NCCc4ccc(CCC(=O)O)cc4)nc32)[C@@H](O)[C@@H]1O,729,-1.0,CGS-21680,adenosine receptor agonist,"ADORA1, ADORA2A, ADORA2B, ADORA3"
+C1CCC(N/C(=N/C23CC4CC(CC(C4)C2)C3)N2CCOCC2)CC1,730,-1.0,PNU-37883,ATP-sensitive potassium channel antagonist,
+CN(CCCl)CCCl,731,0.921448335,mechlorethamine,DNA inhibitor,
+O=c1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)[nH]1,732,1.2834872640000001,uridine,dopamine receptor agonist,"LSM6, TYMP"
+CC(C)[C@H](C(=O)Nc1ccc(C(=O)NO)cc1)c1ccccc1,733,0.864111385,AR-42,HDAC inhibitor,HDAC1
+O=c1[nH]c(=O)c2ccccc2o1,734,-1.0,carsalam,analgesic agent,
+COc1ccc(CCC(=O)Nc2nc3ccc(Cl)cc3s2)cc1OC,735,1.3411208609999998,KY02111,Wnt pathway inhibitor,DKK1
+CC(C)(C)c1ccc(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1,736,1.200388436,ebastine,histamine receptor antagonist,"CYP3A4, HRH1"
+CCCCCCCCCCCCCC(=O)OC(C)C,737,0.8526959940000001,isopropyl-myristate,,
+Nc1nccs1,738,-1.0,aminothiazole,cyclin D inhibitor,NOS2
+NC(=O)NS(=O)(=O)c1ccc(N)cc1,739,-1.0,sulfacarbamide,,
+CN1CC(=O)NC1=N,740,-1.0,creatinine,,
+C[C@@H]1O[C@@H](O[C@@H]2[C@H](Oc3cc(O)c(C(=O)CCc4ccc(O)cc4)c(O)c3)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,741,-1.0,naringin-dihydrochalcone,cytochrome P450 inhibitor,
+CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](OCCO)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C,742,0.9499839784999999,everolimus,mTOR inhibitor,MTOR
+CC(=O)N[C@@H](CCC(N)=O)C(=O)O,743,-1.0,aceglutamide,,
+C[N+](C)(C)CCCCCNCC12CC3CC(CC(C3)C1)C2,744,-1.0,IEM1460,glutamate receptor antagonist,GRIA2
+CC(C)[N+](C)(CCC(C(N)=O)(c1ccccc1)c1ccccc1)C(C)C,745,-1.0,isopropamide-iodide,acetylcholine receptor antagonist,"CHRM3, CHRM4"
+COc1ccc(/C=C2\CCCN=C2c2cccnc2)c(OC)c1,746,-1.0,GTS21,cholinergic receptor agonist,CHRNA7
+Cc1nc(C(=O)NCC(=O)O)c(O)c2ccc(Oc3ccccc3)cc12,747,1.093224892,FG-4592,hypoxia inducible factor prolyl hydroxylase inhibitor,EGLN2
+CCNC(=O)[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1O,748,-1.0,NECA,adenosine receptor agonist,"ADORA1, ADORA2A, ADORA2B, ADORA3, HSP90B1"
+COc1ccc(C(=O)CC(=O)c2ccc(C(C)(C)C)cc2)cc1,749,-1.0,avobenzone,UV blocker,TYR
+CN1C(=O)/C(=C2/C(=O)Nc3ccccc32)c2ccccc21,750,-1.0,meisoindigo,STAT inhibitor,STAT3
+CN1C/C=C/CCOc2cccc(c2)-c2ccnc(n2)Nc2cccc(c2)C1,751,0.7586317290000001,TG-02,"CDK inhibitor, FLT3 inhibitor, JAK inhibitor","CDK1, CDK2, CDK7, CDK9, FLT3, JAK2"
+CCc1cncnc1N1CCN(Cc2nc3cc(C(F)(F)F)ccc3[nH]2)CC1,752,-1.0,PF-4708671,ribosomal protein inhibitor,RPS6KB1
+CCN(CC)CCNC(=O)c1ccc(I)cc1,753,-1.0,I-BZA,,
+FC(F)(F)COCC(F)(F)F,754,-1.0,flurothyl,,
+Cc1ccc(S(=O)(=O)/C=C/C#N)cc1,755,0.989295198,BAY-11-7082,NFkB pathway inhibitor,RELA
+COc1ccc(NS(=O)(=O)c2ccc(N=Nc3ccc(O)c(C(=O)O)c3)cc2)nn1,756,-1.0,salazodine,,
+CN/C(=N\C#N)NCCSCc1csc(N=C(N)N)n1,757,0.9495493620000001,tiotidine,histamine receptor antagonist,HRH2
+CC(C)=CCC[C@](C)(O)[C@H]1CC[C@]2(C)[C@@H]1[C@H](O)C[C@@H]1[C@@]3(C)CC[C@H](O)C(C)(C)[C@@H]3[C@@H](O)C[C@]12C,758,-1.0,hemomex-s,,PPARG
+CCOC(=O)c1c[nH]cn1,759,-1.0,C-751,,
+COC1=CC(c2cc3ccccc3[nH]2)=N/C1=C\c1[nH]c(C)cc1C,760,0.7241540625,obatoclax,BCL inhibitor,BCL2
+C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@@]21C,761,-1.0,ursodiol,"nuclear factor erythroid derived, like (NRF2) activator",NR1H4
+C=CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)/C(=N\O)c3csc(N)n3)[C@H]2SC1,762,1.4760494569999998,cefdinir,bacterial cell wall synthesis inhibitor,MPO
+COc1cc2cc(c1Cl)N(C)C(=O)C[C@H](OC(=O)C(C)C)[C@]1(C)O[C@H]1[C@H](C)[C@@H]1C[C@@](O)(NC(=O)O1)[C@H](OC)/C=C/C=C(\C)C2,763,0.28724768300000003,maytansinol-isobutyrate,,
+c1cc[n+]2c(c1)S[Zn]1(O2)O[n+]2ccccc2S1,764,0.689588042,pyrithione-zinc,ATP synthase inhibitor,"KCNQ1, KCNQ2, KCNQ4, KCNQ5"
+COc1ccc2cc1Oc1cc3c(cc1OC)CC[N+](C)(C)[C@H]3Cc1ccc(cc1)Oc1c(OC)c(OC)cc3c1[C@@H](C2)[N+](C)(C)CC3,765,-1.0,metocurine,acetylcholine receptor antagonist,"CHRM2, CHRNA2"
+Cc1cc(C)c2c(c1)[C@@H](N(Cc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1nnn(C)n1)CCCN2C[C@H]1CC[C@H](C(=O)O)CC1,766,0.975928425,evacetrapib,cholesteryl ester transfer protein inhibitor,CETP
+FC(F)(F)C(F)(F)C(F)(F)N(C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F,767,-1.0,perfluamine,,
+c1ccc2[nH]c(-c3nc4ccccc4[nH]3)nc2c1,768,1.426827681,pibenzimol,DNA inhibitor,
+O=[N+]([O-])c1ccc2c(c1)S(=O)(=O)C=C2,769,0.860667223,stattic,,
+C[C@@H](Oc1ccc2[nH]nc(/C=C/c3cnn(CCO)c3)c2c1)c1c(Cl)cncc1Cl,770,0.700836968,LY2874455,FGFR antagonist,"FGFR1, FGFR2, FGFR3, FGFR4, KDR"
+C[C@H](NC(=O)/C(C#N)=C/c1ccc(O)c(O)c1)c1ccccc1,771,-1.0,tyrphostin-AG-835,protein tyrosine kinase inhibitor,EGFR
+Nc1nc(NC2CC2)c2ncn([C@H]3C=C[C@@H](CO)C3)c2n1,772,-1.0,abacavir,nucleoside reverse transcriptase inhibitor,
+O=C(/C=C/c1ccc(O)c(O)c1)c1ccc(O)cc1O,773,-1.0,butein,"EGFR inhibitor, src inhibitor",ACE
+CC(C)(S)[C@@H](N)C(=O)O,774,0.7510859679999999,penicillamine-(D),chelating agent,
+O=C(/C=C/c1cccc(S(=O)(=O)Nc2ccccc2)c1)NO,775,0.8741308864999999,belinostat,HDAC inhibitor,"HDAC1, HDAC10, HDAC11, HDAC2, HDAC3, HDAC4, HDAC5, HDAC6, HDAC7, HDAC8, HDAC9"
+CN1CCN(C(=O)c2cc3cc(Cl)ccc3[nH]2)CC1,776,-1.0,JNJ-7777120,histamine receptor antagonist,HRH4
+COc1ccc(/C=C/C(=O)Nc2ccccc2C(=O)O)cc1OC,777,0.8803351620000001,tranilast,angiogenesis inhibitor,"HPGDS, HRH1"
+O=C(O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1/C=C/[C@@H](O)COc1cccc(Cl)c1,778,-1.0,cloprostenol-(+/-),prostaglandin receptor agonist,"PTGDR, PTGER1, PTGER3, PTGFR, TBXA2R"
+O=C1Nc2ccccc2/C1=C1/Nc2ccccc2C1=O,779,1.126289982,indirubin,"CDK inhibitor, glycogen synthase kinase inhibitor","CDK1, CDK5, GSK3A"
+CCN(CC)CCOCCOC(=O)C(CC)(CC)c1ccccc1,780,-1.0,oxelaidin,antitussive,
+CCCCC/C=C\C/C=C\C/C=C\CCCCC(=O)O,781,-1.0,gamma-linolenic-acid,"cyclooxygenase inhibitor, prostanoid receptor agonist","PTGS1, PTGS2"
+CCOc1ccc2nc(S(N)(=O)=O)sc2c1,782,-1.0,ethoxzolamide,carbonic anhydrase inhibitor,"CA1, CA12, CA13, CA14, CA2, CA3, CA4, CA5A, CA5B, CA6, CA7, CA9"
+CC(=O)OC[C@H]1O[C@@H](n2ccc(=O)[nH]c2=O)[C@H](OC(C)=O)[C@@H]1OC(C)=O,783,-1.0,uridine-triacetate,,
+NCCCNCCCCNCCCN,784,0.941705639,spermine,,"CA14, CA4, CA6, CA9, CASR, GRIN1, GRIN2A, KCNJ4, ODC1, SMOX, SMS, TRPM4, TRPM5"
+Cc1cc(-c2cc(O)ccc2Cl)cc2nnc(Nc3ccc(OCCN4CCCC4)cc3)nc12,785,0.868410096,TG-100572,"src inhibitor, VEGFR inhibitor","KDR, SRC"
+COc1ccc(C(=O)c2ccc(C)cc2)c(O)c1,786,1.189606567,mexeneone,,
+CC[N+](CC)(CCCNC1=CC(=O)C(NCCC[N+](CC)(CC)Cc2ccccc2)=CC1=O)Cc1ccccc1,787,-1.0,benzoquinonium-dibromide,cholinergic receptor antagonist,CHRNA1
+N#CC(=C(/N)Sc1ccccc1N)/C(C#N)=C(\N)Sc1ccccc1N,788,1.350176133,U-0126,MEK inhibitor,"AKT1, CHEK1, GSK3B, LCK, MAP2K1, MAP2K2, MAP2K7, MAPK1, MAPK11, MAPK12, MAPK14, MAPK8, PRKCA, RAF1, ROCK1, RPS6KB1, SGK1"
+Cc1cn([C@H]2O[C@@H](CO)[C@H](O)[C@@H]2F)c(=O)[nH]c1=O,789,-1.0,clevudine,DNA polymerase inhibitor,
+C1=C/COCc2cc(ccc2OCCN2CCCC2)Nc2nccc(n2)-c2cccc(c2)COC/1,790,0.8754366020000001,pacritinib,"FLT3 inhibitor, JAK inhibitor","FLT3, JAK1, JAK2, JAK3"
+FC(F)(F)c1ccc(/C=C/c2nc(COc3ccc(CCCCn4ccnn4)cc3)co2)cc1,791,0.724315747,mubritinib,protein tyrosine kinase inhibitor,"EGFR, ERBB2"
+O=C1Nc2ccccc2/C1=C1/Nc2ccccc2/C1=N\O,792,-1.0,indirubin-3-monoxime,"CDK inhibitor, glycogen synthase kinase inhibitor","CDK1, CDK2, CDK5, CDK5R1, GSK3B"
+CCCC(C)(COC(N)=O)COC(N)=O,793,-1.0,meprobamate,,"GABRA1, GABRA2, GABRA3, GABRA4, GABRA5, GABRA6, GABRB1, GABRB2, GABRB3, GABRD, GABRE, GABRG1, GABRG2, GABRG3, GABRP, GABRQ"
+CC(C)C[C@H](NC(=O)N1CCCCCC1)C(=O)N[C@H](Cc1cn(C)c2ccccc12)C(=O)N[C@H](Cc1ccccn1)C(=O)O,794,0.897329704,FR-139317,endothelin receptor antagonist,EDNRA
+CN(CC(=O)O)C(=N)N,795,1.028893603,creatine,,"CKB, CKM, CKMT1A, CKMT2, GAMT, SLC6A8"
+O=c1cc(N2CCOCC2)nc2c3ccccc3ccn12,796,-1.0,compound-401,DNA dependent protein kinase inhibitor,"MTOR, PRKDC"
+CCn1cnc(C(=O)NC)c1C(=O)NC,797,-1.0,ethimizol,,
+Cc1ccccc1CN1CC2=C(CCN(Cc3ccccc3)C2=O)N2CCN=C12,798,-1.0,TIC10,"AKT inhibitor, TRAIL modulator","AKT1, MAPK1"
+CCCC[C@@H](CC)COC(=O)/C=C/c1ccc(OC)cc1,799,-1.0,octinoxate,,
+C[C@H](NC(=O)[C@@H](O)c1cc(F)cc(F)c1)C(=O)N[C@@H]1C(=O)N(C)c2ccccc2-c2ccccc21,800,-1.0,LY411575,gamma secretase inhibitor,
+CCCCC/C=C\C/C=C\C/C=C\CCCCCCC(=O)O,801,-1.0,dihomo-gamma-linolenic-acid,prostanoid receptor agonist,"PTGS1, PTGS2"
+CN(C)Cc1cccc(N/C(=C2\C(=O)Nc3cc(C(N)=O)ccc32)c2ccccc2)c1,802,0.8861350640000001,BIX-02188,MEK inhibitor,MAP2K5
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@H](Cc1ccc(O)c(O)c1)C(=O)O,803,-1.0,rosmarinic-acid,GABA transaminase inhibitor,"MCL1, TYR"
+O=C(O)c1ccc[n+]([O-])c1,804,-1.0,oxiniacic-acid,,
+O=C(Nc1ccc(C(=O)O)c(O)c1)c1ccccc1,805,-1.0,benzoylpas,,
+CC1(C)CC[C@]2(C(=O)O)CC[C@]3(C)[C@H](C(=O)C=C4[C@@]3(C)CC[C@H]3C(C)(C)C(=O)C(C#N)=C[C@]43C)[C@@H]2C1,806,0.816773946,bardoxolone,"nuclear factor erythroid derived, like (NRF2) activator","NOS2, PPARG"
+O=C(CN1C(=O)c2ccccc2S1(=O)=O)Nc1ccc(O)cc1,807,-1.0,SCP-1,analgesic agent,
+CC(C)N(CCNC(=O)CN1CCCC1=O)C(C)C,808,-1.0,pramiracetam,acetylcholine receptor agonist,
+C[C@H](N)Cc1ccccc1,809,-1.0,dextroamphetamine,monoamine oxidase inhibitor,"ADRA1A, ADRA1B, SLC18A2, SLC6A2, SLC6A3, TAAR1"
+Oc1ccc2ccccc2c1,810,0.95179482,beta-naphthol,,
+O=C(/C=C\n1cnc(-c2cc(C(F)(F)F)cc(C(F)(F)F)c2)n1)NNc1cnccn1,811,0.5752677165,selinexor,exportin antagonist,XPO1
+CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)OCOC(=O)C(C)(C)C)=C(C)CS[C@H]12)c1csc(N)n1,812,-1.0,cefetamet-pivoxil,bacterial cell wall synthesis inhibitor,
+Nc1ncnc(Nc2ccc(Cl)cc2)n1,813,-1.0,chlorazanil,,
+CC1(C)O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@H]4[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1,814,0.975307115,desonide,glucocorticoid receptor agonist,"NR3C1, PLA2G1B"
+CC(=O)NO,815,-1.0,acetohydroxamic-acid,urease inhibitor,MMP12
+Clc1ccc(CCCOCCCN2CCCCC2)cc1,816,1.241097688,BF2.649,histamine receptor antagonist,HRH3
+O=C(c1ccc(/C=C/c2n[nH]c3ccccc23)cc1)N1CCNCC1,817,0.81385999,KW-2449,"Abl kinase inhibitor, Aurora kinase inhibitor, FLT3 inhibitor","ABL1, AURKA, AURKB, FLT3"
+O=C(O)c1ccccc1-c1c2cc(Br)c(=O)cc-2oc2c([Hg]O)c(O)c(Br)cc12,818,-1.0,merbromin,antiseptic,
+COc1ccc2c(Oc3ccc(NC(=O)c4c(C)n(CC(C)(C)O)n(-c5ccccc5)c4=O)nc3)ccnc2c1,819,0.98691801,AMG458,MET inhibitor,MET
+N[C@@H]1CCCN(c2c(/C=C3\SC(=O)NC3=O)cccc2-c2ccccc2)C1,820,-1.0,AZD1208,Pim kinase inhibitor,"PIM1, PIM2, PIM3"
+O=C1OC2(c3ccc(O)cc3Oc3cc(O)ccc32)c2ccccc21,821,-1.0,fluorescein,,SLC22A6
+CC(C)CCNC(=O)[C@H](CC(C)C)NC(=O)[C@H]1O[C@@H]1C(=O)O,822,1.271966423,loxistatin-acid,cysteine peptidase inhibitor,CTSB
+CCN(CC)CCO[C@H]1CC[C@@]2(C)C(=CC[C@H]3[C@@H]4CCC(=O)[C@@]4(C)CC[C@@H]32)C1,823,0.906507755,U-18666A,oxidosqualene cyclase inhibitor,
+CCOC(=O)c1ccc(OCCC2CCN(c3ccc(C)nn3)CC2)cc1,824,-1.0,pirodavir,,
+Cc1ccccc1/N=N/c1ccc(NC(=O)c2ccnn2C)c(C)c1,825,-1.0,CH223191,aryl hydrocarbon receptor antagonist,AHR
+Nc1nonc1/C(=N\c1ccc(F)c(Cl)c1)NO,826,-1.0,IDO5L,"indoleamine 2,3-dioxygenase inhibitor",IDO1
+CCOC(=O)CNC(=O)[C@@H]1CCCN1C(=O)Cc1ccccc1,827,0.878162608,DVD-111,,
+CCCC[P+](CCCC)(CCCC)Cc1ccc(NC(=O)[C@H](Cc2ccc3ccccc3c2)N/C(=N/C2CCCCC2)NC2CCCCC2)cc1,828,-1.0,WIN-64338,bradykinin receptor antagonist,BDKRB2
+Cc1cc(C)nc(NS(=O)(=O)c2ccc(NC(=S)NC(=O)COc3ccc(Br)cc3Cl)cc2)n1,829,-1.0,ZCL-278,CDC inhibitor,CDC42
+CC(=O)N[C@@H]1[C@@H](NC(=N)N)C=C(C(=O)O)O[C@H]1[C@H](O)[C@H](O)CO,830,-1.0,zanamivir,neuraminidase inhibitor,NEU2
+CCCCCCCCCCCCCCCC[N+](C)(C)Cc1ccccc1,831,0.9671495309999999,benzyldimethylhexadecylammonium,cationic surfactant,
+COc1cccc([C@H](O)C2CCN(CCc3ccc(F)cc3)CC2)c1OC,832,-1.0,volinanserin,serotonin receptor antagonist,"HTR2A, HTR2B, HTR2C, KCNH2"
+C=C1C(=O)[C@]23[C@H](O)[C@H]1CC[C@@H]2[C@@]12CO[C@]3(O)C[C@@H]1C(C)(C)CC[C@@H]2O,833,0.9094241740000001,oridonin,BCL inhibitor,BCL2
+Cc1noc(-c2ccc(-c3ccc(CC(=O)O)cc3)cc2)c1NC(=O)O[C@H](C)c1ccccc1,834,1.4989040480000002,BMS-986020,lysophosphatidic acid receptor antagonist,LPAR1
+CC(C)OC(=O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1/C=C/[C@@H](O)COc1cccc(C(F)(F)F)c1,835,-1.0,travoprost,prostanoid receptor agonist,PTGFR
+Nc1ccc([As](=O)(O)O)cc1,836,-1.0,arsanilic-acid,,LYZ
+CCOc1cncc(/C=C/CCNC)c1,837,-1.0,TC2559,acetylcholine receptor agonist,CHRNA4
+COc1cc(C=O)ccc1O,838,-1.0,vanillin,,"ABAT, ALDH5A1"
+O=C(NN1C(=O)[C@H]2[C@H]3C=C[C@H]([C@@H]4C[C@H]34)[C@H]2C1=O)c1ccc(C(F)(F)F)cc1,839,-1.0,tecovirimat,orthopoxvirus egress inhibitor,
+CCN(CC)S(=O)(=O)c1ccc(C(=O)O)cc1,840,-1.0,etebenecid,uricosuric blocker,
+COc1cc(/C=C/C(N)=O)cc(OC)c1OC,841,-1.0,cintriamide,,
+Cc1cc(-c2ccc(/N=N/c3ccc4c(S(=O)(=O)O)cc(S(=O)(=O)O)c(N)c4c3O)c(C)c2)ccc1/N=N/c1ccc2c(S(=O)(=O)O)cc(S(=O)(=O)O)c(N)c2c1O,842,-1.0,evans-blue,glutamate receptor negative allosteric modulator,"GRIA1, PTPN1"
+CC(C)N(CC[C@H](c1ccccc1)c1cc(CO)ccc1O)C(C)C,843,1.174027481,5-hydroxymethyl-tolterodine,acetylcholine receptor antagonist,CHRM3
+CC(C)(S)C(=O)N[C@@H](CS)C(=O)O,844,-1.0,bucillamine,immunosuppressant,
+CCOc1ccc2nc3cc(N)ccc3c(N)c2c1,845,0.94556248,ethacridine-lactate-monohydrate,DNA intercalating agent,
+CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CCCCCCC,846,-1.0,tricaprylin,,
+Cc1nc(Cn2cnc3c2c(=O)n(C)c(=O)n3C)no1,847,-1.0,CH-170,,
+C=CC(=O)Nc1cccc(Nc2nc(Nc3ccc(NC4CN(CCF)C4)cc3OC)ncc2C(F)(F)F)c1,848,0.925320444,CNX-2006,EGFR inhibitor,EGFR
+CCCC[C@H](C)C[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCC/C=C/C(=O)O,849,-1.0,limaprost-alfadex,prostanoid receptor agonist,PTGER1
+N#CC1(c2ccc(NC(=O)c3cccnc3NCc3ccncc3)cc2)CCCC1,850,1.229406884,apatinib,RET tyrosine kinase inhibitor,"CSK, KDR, KIT, RET"
+O=C(c1cccc(Cl)c1F)N1CCN(Cc2cccc(Nc3nccs3)n2)CC1,851,0.6782296720000001,MK-8745,Aurora kinase inhibitor,AURKA
+Cc1nccnc1N1CCCCC1,852,-1.0,modaline,,
+CC[C@H](CO)Nc1nc(Nc2cccc(-c3ccccn3)c2)c2ncn(C(C)C)c2n1,853,-1.0,DRF053-(R),CDK inhibitor,CSNK1A1
+CO[C@H]1CC[C@@H](C(=O)c2ccc3nc4c(cc3c2)CCCO4)CC1,854,1.4997378209999999,JNJ-16259685,glutamate receptor antagonist,GRM1
+Cc1nc(C)c(C)nc1C,855,-1.0,chuanxiongzine,,
+CC[C@@H](c1cccc(O)c1)[C@@H](C)CN(C)C,856,-1.0,tapentadol,opioid receptor agonist,"HTR3A, OPRD1, OPRK1, OPRM1, SLC6A2, SLC6A4"
+CO[C@@H]1[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(OC(=O)CC(C)C)[C@@H](O)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@@H](CC=O)C[C@@H](C)[C@@H](O)/C=C/C=C/C[C@@H](C)OC(=O)C[C@H]1OC(C)=O,857,1.21277196,josamycin,bacterial 50S ribosomal subunit inhibitor,
+CC1(C)CCC(C)(C)c2cc(C3(c4ccc(C(=O)O)cc4)OCCO3)ccc21,858,-1.0,BMS-649,retinoid receptor agonist,RXRA
+Nc1ncnc2[nH]cnc12,859,-1.0,adenine,protein synthesis stimulant,"ACACB, ACP1, APRT, MTAP, PECR, SRPK2"
+C=CCc1ccc(O)c(-c2cc(CC=C)ccc2O)c1,860,-1.0,magnolol,PPAR receptor agonist,"GABRA1, PPARG"
+CCCCC/C=C\C=C\CCCCCCCCC(=O)O,861,-1.0,"trans-10,cis-12-Conjugated-linoleic-acid",,
+Cc1cc(OCc2nnc(SC3CCCC3)n2-c2cccnc2)ccc1-c1ccc(S(C)(=O)=O)cc1,862,0.697615955,NMS-873,ATPase inhibitor,VCP
+O=C(CCCS)NC1CCN(C(=O)COc2ccc(Cl)cc2Cl)CC1,863,0.973253355,K-Ras(G12C)-inhibitor-6,K-ras inhibitor,
+COc1cc(C(=S)N2CCOCC2)ccc1O,864,-1.0,vanitiolide,,
+CN(C)c1ccc(/C=C2\CCCN=C2c2cccnc2)cc1,865,-1.0,DMAB-anabaseine,adrenergic receptor agonist,CHRNA7
+COC(=O)c1cc(OC)c2c(c1-c1c(C(=O)OC)cc(OC)c3c1OCO3)OCO2,866,-1.0,bifendate,,
+CC[C@@H]1OC(=O)C[C@@H](O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)[C@@H](O)[C@H](N(C)C)[C@H]2O)[C@@H](CCN2C[C@@H](C)C[C@@H](C)C2)C[C@@H](C)C(=O)/C=C/C(C)=C\[C@@H]1CO[C@@H]1O[C@H](C)[C@@H](O)[C@@H](OC)[C@H]1OC,867,1.279352797,tilmicosin,bacterial 50S ribosomal subunit inhibitor,
+O=[N+]([O-])c1ncc[nH]1,868,-1.0,azomycin-(2-nitroimidazole),protein synthesis inhibitor,
+C=C1C(=O)O[C@@H]2/C=C(\C)CC/C=C(\C)CC[C@@H]12,869,1.220026917,costunolide,telomerase inhibitor,
+COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1O,870,-1.0,diosmetin,aryl hydrocarbon receptor agonist,CYP1B1
+O=c1c2ccccc2oc2ccccc12,871,-1.0,xanthone,antimalarial agent,
+N[C@@H](Cc1cc(CP(=O)(O)O)cc(-c2ccccc2Cl)c1)C(=O)O,872,-1.0,SDZ-220-581,glutamate receptor antagonist,GRIN1
+C=C1/C(=C\C=C2/CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)CCCC(C)(C)O)C[C@@H](O)C[C@@H]1O,873,0.8336410740000001,calcitriol,vitamin D receptor agonist,VDR
+Clc1ccc2c(N3CCN(CCCN4CCN(c5ccnc6cc(Cl)ccc56)CC4)CC3)ccnc2c1,874,-1.0,piperaquine-phosphate,antimalarial agent,
+Cc1cccc(C)c1NC(=O)c1cc(S(N)(=O)=O)c(Cl)cc1O,875,-1.0,xipamide,carbonic anhydrase inhibitor,SLC12A3
+O=S(=O)(NCCNC/C=C/c1ccc(Br)cc1)c1cccc2cnccc12,876,-1.0,H-89,PKA inhibitor,"GSG2, PKIA, PRKACA"
+CCC[C@@H]1C[C@@H](C(=O)N[C@H]([C@H](C)Cl)[C@H]2O[C@H](SC)[C@H](OP(=O)(O)O)[C@@H](O)[C@H]2O)N(C)C1,877,0.90745482,clindamycin-phosphate,protein synthesis inhibitor,
+CN[C@@H](C)[C@H]1[C@H](O)C[C@@]2(C)[C@@H]3CC[C@H]4C(C)(C)[C@@H](NC)CC[C@@]45C[C@@]35CC[C@]12C,878,-1.0,cyclovirobuxin-d,calcium channel modulator,
+Cc1onc(-c2c(F)cccc2Cl)c1C(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)O)C(C)(C)S[C@H]12,879,-1.0,flucloxacillin,bacterial cell wall synthesis inhibitor,
+C[C@H](N)Cn1ccc2cc(F)c(Cl)cc21,880,-1.0,Ro-60-0175,,"HTR2A, HTR2B, HTR2C"
+COc1ccc(C2(O)CCC(N3CC[C@@H](NC(=O)CNC(=O)c4cccc(C(F)(F)F)c4)C3)CC2)cn1,881,-1.0,INCB-003284,CC chemokine receptor antagonist,
+C=C1C(=O)O[C@H]2[C@H]1CC/C(C)=C/CC[C@@]1(C)O[C@H]21,882,-1.0,parthenolide-(alternate-stereo),NFkB pathway inhibitor,"IKBKB, RELA"
+CC(=O)NCC(=O)N[C@H](CCC(=O)O)C(=O)O,883,-1.0,N-acetylglycyl-D-glutamic-acid,glutamate receptor agonist,
+CC(C)(O)CC[C@@H](O)[C@](C)(O)[C@@H]1CC[C@@]2(O)C3=CC(=O)[C@@H]4C[C@@H](O)[C@@H](O)C[C@]4(C)[C@@H]3CC[C@]12C,884,-1.0,20-hydroxyecdysone,ecdysone receptor modulator,
+CS(=O)(=O)N1CCc2c(-c3cnc(N)nc3)nc(N3CCOCC3)nc21,885,0.7877900390000001,CH5132799,PI3K inhibitor,"MTOR, PIK3CA, PIK3CB, PIK3CD, PIK3CG"
+CC[C@H](C(=O)N1CCCC[C@H]1C(=O)O[C@H](CCc1ccc(OC)c(OC)c1)c1cccc(OCC(=O)NCCNC(=O)COc2cccc([C@@H](CCc3ccc(OC)c(OC)c3)OC(=O)[C@@H]3CCCCN3C(=O)[C@@H](CC)c3cc(OC)c(OC)c(OC)c3)c2)c1)c1cc(OC)c(OC)c(OC)c1,886,1.223026666,AP1903,,
+CCOC(=O)c1c(C)n(C)c2ccc(O)cc12,887,-1.0,mecarbinate,,
+[N-]=[N+]=N[C@]1(CO)O[C@@H](n2ccc(N)nc2=O)[C@H](O)[C@@H]1O,888,-1.0,R-1479,HCV inhibitor,
+C=C1/C(=C\C=C2/CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)/C=C/C=C/C(O)(CC)CC)C[C@@H](O)C[C@@H]1O,889,-1.0,seocalcitol,vitamin D receptor agonist,VDR
+OCc1ccccn1,890,-1.0,piconol,,
+COc1cc(NC(=O)c2ccc(-c3ccc(Cl)cc3)o2)cc(OC)c1,891,0.939858192,A-803467,sodium channel blocker,SCN10A
+C[C@H]1[C@H]2[C@H](C[C@H]3[C@@H]4CC=C5C[C@@H](O)CC[C@]5(C)[C@H]4CC[C@@]32C)O[C@]12CC[C@@H](C)CO2,892,-1.0,diosgenin,steroid,
+OCCN1CCN(CC/C=C2/c3ccccc3Sc3ccc(Cl)cc32)CC1,893,-1.0,zuclopenthixol,dopamine receptor antagonist,"ADRA1A, ADRA2A, DRD1, DRD2, DRD5, HRH1, HTR2A"
+CN(C)Cc1ccc(S(=O)(=O)n2ccc(/C=C/C(=O)NO)c2)cc1,894,0.9440495000000001,resminostat,HDAC inhibitor,"HDAC1, HDAC3, HDAC6, HDAC8"
+O=C(Nc1ccccc1)Nc1ccc(-c2ccc(C(=O)[C@@H]3CCC[C@@H]3C(=O)O)cc2)cc1,895,-1.0,A922500,diacylglycerol O acyltransferase inhibitor,DGAT1
+CCc1nc(C)ccc1O,896,-1.0,emoxipin,,
+O=C(O)CCC/C=C\C[C@@H]1CO[C@H](C(F)(F)F)O[C@@H]1c1ccccc1O,897,-1.0,"ICI-185,282",thromboxane receptor antagonist,
+Fc1ccc(C(c2ccc(F)cc2)N2CCN(C/C=C/c3ccccc3)CC2)cc1,898,-1.0,flunarizine,calcium channel blocker,"CACNA1G, CACNA1H, CACNA1I, CALM1, HRH1"
+COc1cc2ncnc(Sc3nnc(C)s3)c2cc1OC,899,-1.0,SKLB1002,VEGFR inhibitor,KDR
+CNC(=O)c1ccccc1Sc1ccc2c(/C=C/c3ccccn3)n[nH]c2c1,900,0.8935770865,axitinib,"PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor","CSF1, FLT1, FLT4, KDR, PLK4"
+N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,901,-1.0,glucosamine,glycosylated protein precursor,"IFNG, IL1B, MMP9, NFKB2, TNF"
+CCN(CC)CCOc1ccc(/C(=C(\Cl)c2ccccc2)c2ccccc2)cc1,902,0.824565517,clomifene,estrogen receptor antagonist,ESR1
+N[C@@H](COP(=O)(O)O)C(=O)O,903,-1.0,dexfosfoserine,membrane integrity inhibitor,"CFTR, GRM4, GRM6, GRM7, GRM8, KCNC4, PDPK1, PIM1, PRKACA, PRKCQ, PYGL, PYGM, REG1A, RHO, SERPINB3, SMAD2, TAOK2"
+CC(C)(Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1)C(=O)O,904,-1.0,fenofibric-acid,cytochrome P450 inhibitor,"CLCN1, PPARA"
+CC(=N)NCc1cccc(CN)c1,905,-1.0,1400W,nitric oxide synthase inhibitor,"NOS1, NOS2, NOS3"
+COc1ccc(/C=C/C(=O)CC(=O)/C=C/c2ccc(OC)c(OC)c2)cc1OC,906,-1.0,ASC-J9,androgen receptor enhancer,AR
+C[C@]12CC[C@H]3[C@@H](CC[C@H]4NC(=O)C=C[C@]34C)[C@@H]1CC[C@@H]2C(=O)Nc1cc(C(F)(F)F)ccc1C(F)(F)F,907,-1.0,dutasteride,5 alpha reductase inhibitor,"SRD5A1, SRD5A2"
+CCCCCCCCCCCC[N+](C)(C)CCOc1ccccc1,908,0.9001005679999999,domiphen,,
+CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c5c(c4c3C2=O)=NC2(CCN(CC(C)C)CC2)N=5)NC(=O)/C(C)=C/C=C/[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,909,-1.0,rifabutin,protein synthesis inhibitor,"HSP90AA1, HSP90B1"
+CN1CCC[C@@H]1Cc1c[nH]c2ccc(CCS(=O)(=O)c3ccccc3)cc12,910,-1.0,eletriptan,serotonin receptor agonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2B, HTR7"
+Cc1ccc(/C=N/NC(=O)c2ccccc2Oc2ccccc2)o1,911,-1.0,PNU-74654,beta-catenin inhibitor,"CTNNB1, TCF4"
+CCCCCCCCCCCCCCCC(=O)OC(C)C,912,-1.0,isopropyl-palmitate,cosmetic moisturizer,
+CN(C)CCN1C(=O)c2cccc3cc(NC(N)=O)cc(c23)C1=O,913,0.8773922140000001,UNBS-5162,CC chemokine receptor antagonist,
+Cc1ccccc1-n1c(Cn2ncc3c(N)ncnc32)nc2cccc(C)c2c1=O,914,-1.0,PIK-293,PI3K inhibitor,"PIK3CA, PIK3CB, PIK3CD, PIK3CG"
+COC(=O)/C=C/C(=O)OC,915,-1.0,dimethyl-fumarate,"nuclear factor erythroid derived, like (NRF2) activator",KEAP1
+O=C(O)c1nc(=O)[nH]c(=O)[nH]1,916,1.267391334,oxonic-acid,uricase inhibitor,
+CCCCCCCC/C=C\CCCCCCCC(=O)NCc1ccc(O)c(OC)c1,917,-1.0,olvanil,TRPV agonist,"CNR1, GPR119, TRPV1"
+C#Cc1cccc(Nc2ncnc3cc4c(cc23)OCCOCCOCCO4)c1,918,1.1109536845,icotinib,EGFR inhibitor,EGFR
+N#Cc1c(Oc2ccc(F)c(NC(=O)Cc3cccc(C(F)(F)F)c3)c2)ccc2nc(NC(=O)C3CC3)sc12,919,0.789234453,TAK-632,RAF inhibitor,BRAF
+CCCCCCCCCCCCCCCCCCCCCC(=O)Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)n1,920,0.8998831829999999,enocitabine,DNA synthesis inhibitor,"CMPK1, RRM1, TYMS"
+CCn1c2ccccc2c2cc(Nc3ccnc(NCCCN4CCOCC4)n3)ccc21,921,-1.0,EHop-016,Ras GTPase inhibitor,"RAC1, RAC3"
+CC(=O)N[C@@H](CSSC[C@H](NC(C)=O)C(=O)O)C(=O)O,922,0.822924935,D-7193,,
+O=C(O)c1cc(=O)[nH]c(=O)[nH]1,923,1.135799684,orotic-acid,,DHODH
+Nc1nnc(Sc2ncc([N+](=O)[O-])s2)s1,924,0.889057111,SU3327,JNK inhibitor,MAPK8
+CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1,925,-1.0,vonoprazan,potassium-competitive acid antagonist,ATP4A
+C1CCN2C[C@H]3C[C@@H](CN4CCCC[C@H]34)[C@@H]2C1,926,-1.0,sparteine-sulfate,,
+C=C[C@]1(C)C[C@@H](OC(=O)CS[C@H]2C[C@@H]3CC[C@H](C2)N3C)[C@]2(C)[C@H](C)CC[C@]3(CCC(=O)[C@H]32)[C@@H](C)[C@@H]1O,927,-1.0,retapamulin,protein synthesis inhibitor,
+CNCCc1ccc(O)c(O)c1,928,-1.0,deoxyepinephrine,"adrenergic receptor agonist, dopamine receptor agonist","ADRA1A, DRD1, DRD2"
+N=C(N)SCCc1c[nH]cn1,929,-1.0,imetit,histamine receptor agonist,"HRH3, HRH4"
+C=CCN=C=S,930,-1.0,allylisothiocyanate,TRPV agonist,TRPA1
+CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O,931,-1.0,alpha-linolenic-acid,omega 3 fatty acid stimulant,"ELOVL4, FADS1, FADS2, FFAR1, FFAR4, PTGS2, SLC8A1, TRPV1"
+COc1cc(CCC(C)=O)ccc1O,932,-1.0,vanillylacetone,,
+O=C(/C=C/c1ccc(O)cc1)c1ccc(O)cc1O,933,-1.0,isoliquiritigenin,guanylate cyclase activator,GABBR1
+O/N=C/c1cc[n+](COC[n+]2ccc(/C=N/O)cc2)cc1,934,0.930851207,obidoxime,cholinesterase reactivator,ACHE
+COCCCN1CCC(NC(=O)c2cc(Cl)c(N)c3c2OCC3)CC1,935,-1.0,prucalopride,serotonin receptor agonist,HTR4
+CCCC(=O)O[C@@]1(C(=O)COC(C)=O)CC[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@]3(F)[C@H](O)C[C@@]21C,936,0.803506884,difluprednate,glucocorticoid receptor agonist,NR3C1
+N[C@@H](CSCC(=O)O)C(=O)O,937,-1.0,SCMC-Lys,mucolytic agent,GSTP1
+C=C[C@]1(C)C[C@@H](OC(=O)CSC(C)(C)CNC(=O)[C@H](N)C(C)C)[C@@]2(C)[C@H](C)CC[C@]3(CCC(=O)[C@H]32)[C@@H](C)[C@@H]1O,938,0.7748462970000001,valnemulin,bacterial 50S ribosomal subunit inhibitor,
+CCCCC(F)(F)C(=O)CC[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)O,939,-1.0,lubiprostone,chloride channel activator,CLCN2
+CCCCC(=O)O[C@]1(C(=O)CO)[C@@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,940,-1.0,betamethasone-valerate,glucocorticoid receptor agonist,NR3C1
+O=C(O)C1=C(CSc2nnnn2CS(=O)(=O)O)CS[C@@H]2[C@H](NC(=O)[C@H](O)c3ccccc3)C(=O)N12,941,-1.0,cefonicid,bacterial cell wall synthesis inhibitor,
+Cc1coc2c1C(=O)C(=O)c1c-2ccc2c(C)cccc12,942,0.6953024309999999,tanshinone-i,AP inhibitor,IFNG
+CC[N+](CC)(CC(=O)Nc1c(C)cccc1C)Cc1ccccc1,943,-1.0,denatonium-benzoate,,
+CN/C(=N\C#N)NCCSCc1nc[nH]c1C,944,0.8606477990000001,cimetidine,histamine receptor antagonist,"HRH2, SLC29A4, SLC47A1, SLC47A2"
+Nc1nc(NC[C@H]2CC[C@H](CNS(=O)(=O)c3cccc4ccccc34)CC2)nc2ccccc12,945,-1.0,CGP-71683,neuropeptide receptor antagonist,NPY5R
+COc1cccc(OC)c1C(=O)N[C@@H]1C(=O)N2[C@@H](C(=O)O)C(C)(C)S[C@H]12,946,-1.0,methicillin,bacterial cell wall synthesis inhibitor,
+N#C/C(=C\c1ccc(O)c(O)c1)C(=O)Nc1ccccc1,947,1.319702043,tyrphostin-AG-494,EGFR inhibitor,EGFR
+COC(C)(C)CCC[C@H](C)C/C=C/C(C)=C/C(=O)OC(C)C,948,-1.0,methoprene-(s),,
+CCCCC#Cc1nc(NC)c2ncn([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)c2n1,949,-1.0,HEMADO,,"ADORA1, ADORA2A, ADORA2B, ADORA3"
+C=C1C(=O)O[C@H]2[C@H]1CC/C(C)=C\CC[C@@]1(C)O[C@@H]21,950,0.920052848,parthenolide-(-),NFkB pathway inhibitor,HDAC1
+CCCC(=O)N1CCCN(c2nc(N)c3cc(OC)c(OC)cc3n2)CC1,951,-1.0,bunazosin,adrenergic receptor antagonist,ADRA1A
+CCCCCCCC(=O)O,952,-1.0,caprylic-acid,,
+CN(C)/N=N/c1[nH]cnc1C(N)=O,953,0.9522018945,dacarbazine,DNA alkylating agent,"PGD, POLA2"
+CCCCCCCCCCCCN1CCCCCC1=O,954,-1.0,laurocapram,,
+O=C(O)[C@H](O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,955,0.953257523,sodium-glucoheptonate,,
+C[C@H]1CN(CC(=O)Nc2ccc3c(c2)Cc2cccc(-c4cc(=O)cc(N5CCOCC5)o4)c2S3)C[C@@H](C)O1,956,-1.0,KU-60019,ATM kinase inhibitor,ATM
+CC[C@H](C)[C@H](NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@@H](NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H](N)CC(=O)O)C(C)C)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N1CCC[C@H]1C(=O)O,957,-1.0,TXA127,angiotensin receptor agonist,
+CN(C)CC/C=C1/c2ccccc2Sc2ccc(Cl)cc21,958,-1.0,chlorprothixene,dopamine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, DRD1, DRD2, DRD3, HRH1, HTR2A, HTR2B, HTR2C"
+Cc1ccc2c(Br)cc(Br)c(OC(=O)c3ccccc3)c2n1,959,0.823885147,broxaldine,,
+CC(=O)N[C@@H]1[C@@H](O)C[C@@](O)(C(=O)O)O[C@H]1[C@H](O)[C@H](O)CO,960,-1.0,aceneuramic-acid,,"AZGP1, CES1, MBL2, REG1A, SELE, SELP, SIGLEC1"
+N[C@H](Cc1c[nH]cn1)C(=O)O,961,-1.0,copper-histidine,,"HAL, HARS, HDC, SLC15A3, SLC15A4, SLC38A3, SLC38A5"
+C=C(C)[C@@H]1[C@H]2OC(=O)[C@H]1[C@]1(O)C[C@H]3O[C@]34C(=O)O[C@H]2[C@@]41C,962,-1.0,picrotoxinin,GABA receptor antagonist,"GLRA1, GLRA2, GLRA3, GLRB, HTR3A, HTR3B"
+Nc1nc(N)nc(NC2CC2)n1,963,1.416321398,cyromazine,,
+COc1cccc(/C=N/N=C/c2cccc(OC)c2)c1,964,-1.0,DMeOB,,GRM5
+CN(C)C(=O)c1cc2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n1C1CCCC1,965,0.909062516,ribociclib,CDK inhibitor,"CDK4, CDK6"
+CN(C)C(=S)SC(=S)N(C)C,966,0.848208726,tetramethylthiuram-monosulfide,,
+COc1ccc2c(c1)c(C1=C(c3c[nH]c4ccccc34)C(=O)NC1=O)cn2CCCN(C)C,967,-1.0,go-6983,protein kinase inhibitor,"PRKCA, PRKCB, PRKCD, PRKCG, PRKCZ"
+CSc1ccc(OCc2ncc([N+](=O)[O-])n2C)cc1,968,1.459274045,fexinidazole,,
+CC(C)=CCC/C(C)=C/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C=C(\C)CCC=C(C)C,969,-1.0,lycopene,free radical scavenger,
+CCCCCCCCCCCCCCCCO,970,-1.0,1-hexadecanol,,
+CCC[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]3(O)CCC(=O)O)[C@@H]21,971,-1.0,RU-28318,cytochrome P450 inhibitor,NR3C2
+CN(C)CC/C=C1/c2ccccc2COc2ccccc21,972,-1.0,doxepin,histamine receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, DRD2, HRH1, HRH2, HRH4, HTR1A, HTR2A, HTR2B, HTR2C, HTR6, KCNH2, SLC6A2, SLC6A4"
+CC[C@H]1OC(=O)C[C@@H](O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)[C@@H](O[C@H]3C[C@@](C)(O)[C@@H](O)[C@H](C)O3)[C@H](N(C)C)[C@H]2O)[C@@H](CC=O)C[C@@H](C)C(=O)/C=C/C(C)=C/[C@@H]1CO[C@@H]1O[C@H](C)[C@@H](O)[C@@H](OC)[C@H]1OC,973,-1.0,tylosin,protein synthesis inhibitor,
+CCOc1ccc2[nH]c(SCCN3CCOCC3)nc2c1,974,1.175751722,afobazole,anxiolytic,
+CC(=O)N[C@H](Cc1c[nH]c2ccccc12)C(=O)OCc1cc(C(F)(F)F)cc(C(F)(F)F)c1,975,-1.0,"L-732,138",tachykinin antagonist,"TACR1, TACR2"
+CNC(=O)CN1CCN2CCN(CC(=O)NC)CC(=O)O[Gd](OC(=O)C2)OC(=O)C1,976,-1.0,gadodiamide,radiopaque medium,
+Cn1ncc(Cl)c1-c1cc(C(=O)N[C@H](CN)Cc2ccc(F)c(F)c2)oc1Cl,977,0.863813257,uprosertib,AKT inhibitor,"AKT1, AKT2, AKT3"
+CC(=O)c1ccc(NS(C)(=O)=O)c(Oc2ccc(F)cc2F)c1,978,0.9268683459999999,FK-3311,cyclooxygenase inhibitor,PTGS2
+C=CCN1CCN(c2nc3ccccc3nc2C#N)CC1,979,-1.0,3-AQC,serotonin receptor agonist,HTR3A
+CCNC1=N[C@H]2[C@H](O[C@H](CO)[C@@H](O)[C@@H]2O)S1,980,-1.0,thiamet-g,GLCNAC phosphotransferase inhibitor,MGEA5
+N=[N+]=CC(=O)CC[C@H](N)C(=O)O,981,-1.0,diazooxonorleucine,glutamate receptor antagonist,
+CCNC(=O)c1[nH]nc(-c2cc(Cl)c(O)cc2O)c1-c1ccc(OC)cc1,982,0.838828218,VER-49009,HSP inhibitor,HSP90AA1
+COc1cc(O)c(C(=O)c2ccccc2)cc1S(=O)(=O)O,983,-1.0,sulisobenzone,,
+CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)/C(=N\OCOCCOC)[C@H](C)[C@@H](O)[C@]1(C)O,984,-1.0,roxithromycin,bacterial 50S ribosomal subunit inhibitor,"ABCB1, MLNR"
+CCOc1ccc(Nc2nc(-c3c(C)nc4ccccn34)cs2)cc1,985,0.641949075,JK-184,hedgehog pathway inhibitor,
+CCn1c(N)c(C(=O)NC)c(=O)c2ccc(C#C[C@@](C)(O)COC)nc21,986,0.865915203,SAR131675,VEGFR inhibitor,FLT4
+Nc1cc(Cl)c(NC2=NCCN2)c(Cl)c1,987,-1.0,apraclonidine,adrenergic receptor agonist,"ADRA1A, ADRA2A, ADRA2B, ADRA2C"
+CN1CCN(CCCCN2C(=O)CN(/N=C/c3ccc(-c4ccc(Cl)cc4)o3)C2=O)CC1,988,-1.0,azimilide,potassium channel blocker,"KCNA5, KCNE1, KCNH2, KCNQ1"
+O=C(OCCN1CCOCC1)c1cccnc1Nc1cccc(C(F)(F)F)c1,989,-1.0,morniflumate,anti-inflammatory agent,
+CCCC[C@@H](CC)COC(=O)C(C#N)=C(c1ccccc1)c1ccccc1,990,-1.0,octocrylene,,
+O=P(O)(O)OC(CO)CO,991,-1.0,beta-glycerophosphoric-acid,,
+C=C[C@H]1CN2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccccc12,992,-1.0,cinchonidine,P glycoprotein inhibitor,
+COc1ccc(-n2c(C)c([N+](=O)[O-])c3ccc(O)cc32)cc1,993,-1.0,ID-8,,
+Cc1ccc(S(=O)(=O)Cc2nc(-c3ccc(C(=O)NCc4cccnc4)cc3)oc2C)cc1,994,0.667775068,STF-118804,NAMPT inhibitor,NAMPT
+N#CCC(=O)NN,995,-1.0,cyacetacide,,
+CC(=O)Nc1ncc([N+](=O)[O-])s1,996,1.102490661,nithiamide,bacterial DNA inhibitor,
+CC(C)(O)C(Cl)(Cl)Cl,997,-1.0,chlorobutanol,,
+CO[C@@H]1[C@H](O)[C@@H](CO)O[C@H]1n1cnc2c(NC3CCCCC3)ncnc21,998,1.3706931009999999,SDZ-WAG-994,adenosine receptor agonist,ADORA1
+O=C(Nc1ccc(O)cc1)c1ccccc1O,999,-1.0,N-salicoylaminophenol,ribonucleotide reductase inhibitor,
+O=S(=O)(O)c1ccc(-c2c3nc(c(-c4ccc(S(=O)(=O)O)cc4)c4ccc([nH]4)c(-c4ccc(S(=O)(=O)O)cc4)c4nc(c(-c5ccc(S(=O)(=O)O)cc5)c5ccc2[nH]5)C=C4)C=C3)cc1,1000,-1.0,TPPS4,,
+C[C@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl,1001,0.829882393,crizotinib-(S),MTH1 inhibitor,NUDT1
+O=C1NC(=O)/C(=C\c2ccc(-c3ccc(F)cc3)o2)S1,1002,-1.0,CAY10505,PI3K inhibitor,PIK3CG
+CC1=NN(c2ccc(C)c(C)c2)C(=O)/C1=N/Nc1cccc(-c2cccc(C(=O)O)c2)c1O,1003,0.8650249529999999,eltrombopag,thrombopoietin receptor agonist,MPL
+Cc1nccc2[nH]c(=O)ccc12,1004,-1.0,medorinone,,
+OC[C@H](O)[C@@H](O)[C@H](O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O)[C@H](O)CO,1005,1.322524678,lacitol,osmosis stimulant,
+CN(C)CCCSc1ccccc1NC(=O)/C=C/c1ccccc1,1006,-1.0,cinanserin,serotonin receptor antagonist,HTR2A
+O=S(=O)(O)c1ccc(O)cc1,1007,-1.0,4-phenolsulfonic-acid,,
+Cc1cccc(CC(=O)N2CCc3c2ccc(-c2cn(C)c4ncnc(N)c24)c3F)n1,1008,1.126470719,GSK2656157,PERK inhibitor,
+CCCCC[C@H](O)/C=C/C=C\C/C=C\C/C=C\CCCC(=O)O,1009,-1.0,icomucret,mucin production enhancer,LTB4R2
+C#Cc1cccc(Nc2ncnc3cc(OC)c(OCCCCCCC(=O)NO)cc23)c1,1010,-1.0,CUDC-101,EGFR inhibitor,"EGFR, ERBB2"
+N[C@H]1CCN(O)C1=O,1011,-1.0,HA-966-(S)-(-),glutamate receptor antagonist,GRIA1
+Cn1cc(/C=C2\C(=O)Nc3cccnc32)c2ccccc21,1012,1.015444677,GW-441756,growth factor receptor inhibitor,NTRK1
+CCCCCCCCCCCCC/C=C/[C@@H](O)[C@H](CO)NC(C)=O,1013,-1.0,ceramide,"phosphoenolpyruvate carboxylase activator, serine/threonine protein phosphatase activator",
+CCC(=O)O[C@]1(C(=O)CO)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C,1014,-1.0,CB-03-01,androgen receptor antagonist,AR
+Cc1cccc(/C=N/Nc2cc(N3CCOCC3)nc(OCCc3ccccn3)n2)c1,1015,1.186262921,STA-5326,interleukin synthesis inhibitor,IL12A
+O=C(OCCO)c1ccccc1O,1016,-1.0,2-hydroxyethyl-salicylate,,
+O=c1oc2cc(O)ccc2s1,1017,1.272990963,tioxolone,carbonic anhydrase inhibitor,CA2
+O=C(O)C(Cl)(Cl)Cl,1018,-1.0,trichloroacetic-acid,,
+O=[N+]([O-])/C=C/c1ccc2c(c1)OCO2,1019,0.9481073390000001,"MNS-(3,4-Methylenedioxy-nitrostyrene)","src inhibitor, syk inhibitor","SRC, SYK"
+CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)NCCO,1020,-1.0,anandamide,cannabinoid receptor agonist,"CACNA1G, CACNA1H, CACNA1I, CNR1, CNR2, GLRA1, GPR18, GPR55, KCNA2, KCNK3, KCNK9, TRPM8, TRPV1"
+CC(=O)O[Pt+4](C)(C)(Cl)(Cl)OC(C)=O,1021,1.3560934230000001,satraplatin,DNA alkylating agent,
+Cc1nnsc1C(=O)Nc1ccc(-n2nc(C(F)(F)F)cc2C(F)(F)F)cc1,1022,-1.0,YM-58483,calcium channel blocker,"TRPC3, TRPC5, TRPM4"
+C[C@]12CC[C@@H]3[C@@H](CC[C@H]4C[C@@H](O)CC[C@@]43C)[C@@H]1CCC2=O,1023,1.166526806,epiandrosterone,steroid,G6PD
+CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C,1024,0.9394653770000001,sunitinib,"FLT3 inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor","CSF1R, FGFR1, FLT1, FLT3, FLT4, KDR, KIT, PDGFRA, PDGFRB, RET"
+CO[C@H]1C[C@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@H](OC(=O)C(C)(CO)CO)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C,1025,0.8501782335,temsirolimus,mTOR inhibitor,MTOR
+CC(=O)c1ccc2c(c1)N(CCCN1CCN(CCO)CC1)c1ccccc1S2,1026,0.9507063370000001,acetophenazine,dopamine receptor antagonist,"DRD1, DRD2"
+CCCCCCCC/C=C/C(=O)O,1027,-1.0,trans-2-Undecenoic-acid,,
+Nc1nc(NCCNc2ncc(-n3ccnc3)c(-c3ccc(Cl)cc3Cl)n2)ccc1[N+](=O)[O-],1028,-1.0,CHIR-98014,glycogen synthase kinase inhibitor,"GSK3A, GSK3B"
+CN(CCOP(=O)(O)O)C(=N)N,1029,-1.0,creatinol-phosphate,,
+O=C1N=C(N2CCOCC2)CN1c1ccc(Cl)cc1,1030,-1.0,ADD-233089,benzodiazepine receptor agonist,
+O=C(O)CCCc1c[nH]c2ccccc12,1031,-1.0,3-indolebutyric-acid,,"B2M, HLA-A, TRAC, TRBC1"
+CCN1C[C@]2(COC(=O)c3ccccc3N3C(=O)C[C@H](C)C3=O)CC[C@H](OC)[C@]34[C@H]1[C@](O)([C@@H](OC)[C@H]23)[C@@]1(O)C[C@H](OC)[C@H]2C[C@@H]4[C@@H]1[C@H]2OC,1032,-1.0,methyllycaconitine,acetylcholine receptor antagonist,CHRNA7
+OC[C@H]1O[C@@H](Oc2cc(O)cc(/C=C/c3ccc(O)cc3)c2)[C@H](O)[C@@H](O)[C@@H]1O,1033,0.837736157,polydatin,ICAM1 expression inhibitor,ICAM1
+CN(C)C(=O)Nc1cccc(-c2ccc(N(C)C)cc2)c1,1034,-1.0,atglistatin,adipose triglyceride lipase inhibitor,
+CCC(=O)c1c(O)cc(O)cc1O,1035,-1.0,flopropione,serotonin receptor antagonist,HTR1A
+CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1c1ccccc1/C=C/C(=O)OC(C)(C)C,1036,-1.0,lacidipine,calcium channel blocker,CACNA1C
+CCC[C@H](NC(=O)/C(C#N)=C/c1cccc(Br)n1)c1ccccc1,1037,0.695470038,WP1130,deubiquitinase inhibitor,"JAK2, UCHL5, USP14, USP9X"
+O=C(C=Cc1ccc2c(c1)OCO2)N1CCCCC1,1038,-1.0,ilepcimide,anticonvulsant,
+COc1ccc(Br)cc1S(=O)(=O)NC(=O)/C=C/c1ccccc1Cc1ccc2ccccc2c1,1039,0.86696667,"L-798,106",prostanoid receptor antagonist,PTGER3
+C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3C[C@H](O)[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@@]21C,1040,1.427608653,hyodeoxycholic-acid,atherosclerosis formation inhibitor,
+CCOC(=O)c1ccccc1OC(=O)CCCCCCCC(=O)Oc1ccccc1C(=O)OCC,1041,1.162507928,TU-2100,,
+CC(=O)Nc1ccc(Cc2ccc(NC(C)=O)cc2)cc1,1042,-1.0,FH1,hepatocyte function enhancer,
+O=C(CCCl)NCc1ccccc1,1043,-1.0,beclamide,anticonvulsant,
+N=C(N)S/C=C\C(=O)O,1044,-1.0,ZAPA,,
+CCC(C)(C)C(=O)O,1045,-1.0,HQK-1001,,
+CN[C@@H](C)[C@H](O)c1ccccc1,1046,-1.0,ephedrine,adrenergic receptor agonist,"ACHE, ADRA1A, ADRB2, SLC18A2, SLC6A2"
+CC1(C)S[C@H]2[C@@H](NC(=O)[C@@H](NC(=O)N3CCN(S(C)(=O)=O)C3=O)c3ccccc3)C(=O)N2[C@@H]1C(=O)O,1047,-1.0,mezlocillin,bacterial cell wall synthesis inhibitor,
+O=C(O)[C@H]1CN(C/C=C/P(=O)(O)O)CCN1,1048,-1.0,midafotel,glutamate receptor antagonist,"GRIN2A, GRIN2B, GRIN2C, GRIN2D"
+COc1ccc(O)cc1,1049,-1.0,mequinol,,TYR
+O=C(O)CCC(=O)O,1050,-1.0,succinic-acid,,"ALDH5A1, ASPH, BBOX1, HSD17B6, OXCT1, OXCT2, P3H1, P3H2, P3H3, P4HA1, P4HA2, PLOD1, PLOD3, SDHA, SDHB, SDHC, SDHD, SLC13A1, SLC13A2, SLC13A3, SLC25A10, SUCLA2, SUCLG1, SUCLG2, SUCNR1, TMLHE"
+CC/C(=C(/CC)c1ccc(O)cc1)c1ccc(O)cc1,1051,-1.0,diethylstilbestrol,estrogen receptor agonist,"ESR1, ESR2, ESRRB, ESRRG"
+CN(C)C(=O)C(=O)c1cn(C)c2cc(Cl)c(C(=O)N3CCC(Cc4ccc(F)cc4)CC3)cc12,1052,-1.0,SX-011,MAP kinase inhibitor,MAPK14
+COc1cc(NC(=O)c2ccccn2)ccc1Cl,1053,0.994190792,VU0361737,glutamate receptor positive allosteric modulator,GRM4
+O=[N+]([O-])c1cc(Cl)ccc1S(=O)(=O)N1CCN(Cc2ccccc2)CC1,1054,-1.0,RN-1747,TRPV agonist,TRPV4
+Cc1cc(N2CCOCC2)ccc1Nc1nc(NC2CCCCC2)c2[nH]cnc2n1,1055,0.423188697,MPI-0479605,mitotic kinase inhibitor,TTK
+CCC(=O)Nc1cccc(Oc2nc(Nc3ccc(N4CCN(C)CC4)cc3OC)ncc2Cl)c1,1056,-1.0,WZ4003,AMPK inhibitor,"NUAK1, NUAK2"
+CN1C[C@@H]2C[C@H]1CN2c1cc2c(cc1F)c(=O)c(C(=O)O)cn2C1CC1,1057,-1.0,danofloxacin,bacterial DNA gyrase inhibitor,
+C#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CCCC[C@@H]4[C@H]3C(=C)C[C@@]21CC,1058,-1.0,desogestrel,progesterone receptor agonist,"ESR1, PGR"
+CC(C)(C)/[N+]([O-])=C/c1ccc(S(=O)(=O)O)cc1S(=O)(=O)O,1059,-1.0,NXY-059,free radical scavenger,
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)NCCCC(=O)O,1060,-1.0,GABA-linoleamide,benzodiazepine receptor agonist,
+C#C[C@]1(OC(C)=O)CC[C@H]2[C@@H]3CCC4=C[C@@H](OC(C)=O)CC[C@@H]4[C@H]3CC[C@@]21C,1061,-1.0,ethynodiol-diacetate,,"ESR1, PGR"
+Nc1nc(N)c2nc(-c3cccc(O)c3)cnc2n1,1062,0.864102391,TG-100713,PI3K inhibitor,
+N[C@H](Cc1cc(I)c(Oc2ccc(O)c(I)c2)c(I)c1)C(=O)O,1063,-1.0,liothyronine-(isomer),,
+NC1=NC(=O)N([C@H]2C[C@@H](O)[C@@H](CO)O2)CN1,1064,0.833393942,KP-1212,,
+CC(C)C(=O)Oc1ccc(CO)cc1[C@H](CCN(C(C)C)C(C)C)c1ccccc1,1065,-1.0,fesoterodine,acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5"
+C[C@@]12CCc3occc3[C@H]1CC[C@@]13C[C@@H](CC[C@H]12)[C@@](O)(CO)C3,1066,-1.0,cafestol,pregnane X receptor agonist,
+COc1cc(/C=C/C(=O)N2CCN(CC(=O)N3CCCC3)CC2)cc(OC)c1OC,1067,-1.0,cinepazide,calcium channel activator,
+c1ccc2c(c1)sc1ccccc12,1068,-1.0,dibenzothiophene,,
+CN(C)C/C=C(/c1ccc(Br)cc1)c1cccnc1,1069,-1.0,zimelidine,selective serotonin reuptake inhibitor (SSRI),"MAOA, MAOB, SLC6A4"
+CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(C[n+]3ccn4ncccc43)CS[C@H]12)c1nsc(N)n1,1070,-1.0,cefozopran,bacterial cell wall synthesis inhibitor,
+Oc1ccc(Cl)c2cccnc12,1071,-1.0,cloxyquin,potassium channel activator,KCNK18
+C=C1[C@@H](C)[C@H]2[C@H](Cc3ccccc3)NC(=O)[C@]23OC(=O)/C=C\[C@H](O)CCC[C@@H](C)C/C=C/[C@H]3[C@@H]1O,1072,0.866725655,cytochalasin-b,microtubule inhibitor,ACTB
+COc1ccc(-c2cc(=O)c3c(O)c(OC)c(O)cc3o2)cc1OC,1073,-1.0,eupatilin,mucus protecting agent,
+O=C(NCCCN1CCC2(CC1)OCc1ccccc12)[C@H]1CCCN1Cc1ccccc1,1074,1.568400613,BAN-ORL-24,nociceptin/orphanin FQ receptor antagonist,OPRL1
+CCCCCCCCCCCCCCCC[N+](C)(C)C,1075,0.852282223,cetrimonium,,
+N#C/C(=C\c1ccc(O)c(O)c1)C(=O)NCc1ccccc1,1076,-1.0,AG-490,"EGFR inhibitor, JAK inhibitor","EGFR, JAK2, JAK3"
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@@H]1C[C@](O)(C(=O)O)C[C@@H](O)[C@H]1O,1077,1.3110308720000001,chlorogenic-acid,antioxidant,SLC37A4
+C[C@H](NC(=O)Cc1cc(F)cc(F)c1)C(=O)N[C@H](C(=O)OC(C)(C)C)c1ccccc1,1078,-1.0,DAPT,gamma secretase inhibitor,
+CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O,1079,-1.0,icosapent,platelet aggregation inhibitor,"ACSL3, ACSL4, FADS1, FFAR1, PPARD, PPARG, PTGS1, PTGS2, SLC8A1, TRPV1"
+CC(=O)Nc1ccc(C(=O)O)cc1,1080,-1.0,acedoben,,
+O=c1ccc2cc3ccoc3cc2o1,1081,-1.0,psoralen,,"MAOA, MAOB"
+CNC(=O)c1cccc(NCC(=O)NCCc2ccc(OC)c(OC)c2)c1,1082,-1.0,ecabapide,,
+Nc1nc(CC(=O)Nc2ccc(CCNC[C@H](O)c3ccccc3)cc2)cs1,1083,-1.0,mirabegron,adrenergic receptor agonist,"ADRB1, ADRB2, ADRB3"
+NC(CO)(CO)CO,1084,1.28300766,trometamol,,"AMD1, CANT1, DCN, NEIL1, VEGFA"
+CN1[C@@H]2CC[C@@H]1CC(OC(c1ccccc1)c1ccccc1)C2,1085,-1.0,benztropine-mesylate,acetylcholine receptor antagonist,"CHRM1, HRH1, SLC6A3"
+Cc1cccc(C)c1NC(=O)c1ccc(N)cc1,1086,-1.0,ameltolide,anticonvulsant,
+CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3C=CC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C,1087,-1.0,"6,_7-dehydro-17-acetoxy-progesterone",steroidal progestin,
+CC(C)(C)c1ccc(S(=O)(=O)/C=C/C#N)cc1,1088,0.858429097,BAY-11-7085,NFkB pathway inhibitor,NFKBIA
+CCCCCCCC/C=C\CCCCCCCC(=O)N[C@@H](CO)Cc1ccc(O)cc1,1089,-1.0,OMDM-2,FAAH inhibitor,GPR119
+Cc1c(N)cccc1Cn1ccc(OCCc2cccs2)cc1=O,1090,-1.0,CG-400549,FABI inhibitor,
+Nc1nc(=O)n([C@H]2C[C@@H](O)[C@@H](CO)O2)cc1Cl,1091,1.215277894,cytochlor,,
+CCCCCCCCCCCCCCCCCCCCCCCCC(=O)O,1092,-1.0,pentacosanoic-acid,,
+COC(=O)c1ccc2c(c1)NC(=O)/C2=C(\Nc1ccc(N(C)C(=O)CN2CCN(C)CC2)cc1)c1ccccc1,1093,1.325562394,nintedanib,"FGFR inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor","FGFR1, FGFR2, FGFR3, FGFR4, FLT1, FLT4, KDR, PDGFRA, PDGFRB"
+Nc1nc(Nc2ccccc2)nc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,1094,-1.0,CV-1808,adenosine receptor agonist,ADORA2A
+OC[C@H](O)[C@H](O)[C@H](O)CO,1095,0.9135785129999999,ribitol,,
+CC(C)(Oc1ccc(Cl)cc1)C(=O)OCCOC(=O)c1cccnc1,1096,-1.0,etofibrate,PPAR receptor agonist,PPARA
+Cc1ccc([N+](=O)[O-])cc1S(=O)(=O)N(C)/N=C/c1cnc2ccc(Br)cn12,1097,0.551697059,PIK-75,"DNA protein kinase inhibitor, PI3K inhibitor","PIK3CA, PIK3CB, PIK3CD, PIK3CG, PRKDC"
+CCc1ccc(/C=C2/SC(=S)NC2=O)cc1,1098,-1.0,10058-F4,c-Myc inhibitor,
+C=C1/C(=C\C=C2/CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)CCCC(C)C)C[C@@H](O)C[C@@H]1O,1099,0.814221966,alfacalcidol,vitamin D receptor agonist,"CYP27B1, VDR"
+C1CCC2(CC1)CCNCC2,1100,-1.0,"4,4-pentamethylenepiperidine",M2 channel blocker,
+CC(C)(C(=O)O)c1ccc(C(=O)CCCN2CCC(OC(c3ccccc3)c3ccccc3)CC2)cc1,1101,-1.0,carebastine,histamine receptor antagonist,HRH1
+C/C(=C\c1ccc(C(=O)O)cc1)c1ccc2c(c1)C(C)(C)CCC2(C)C,1102,-1.0,TTNPB,retinoid receptor agonist,"RARA, RARB, RARG"
+Cc1ccc(NC(=O)C(C)C)cc1C1CCN(Cc2ccc(Oc3ccc(F)c(F)c3)cc2)CC1,1103,-1.0,SNAP-94847,,"ADRA1A, DRD2"
+N=C(N)NCCCCN,1104,-1.0,agmatine,nitric oxide synthase inhibitor,"ADRA2C, ASIC3, CACNA1B, CHRNA1, GRIN1, KCNJ1, NISCH"
+CO[C@H]1CC=C2CCN3CCC4=C(CC(=O)OC4)[C@]23C1,1105,-1.0,NSC-9965,acetylcholine receptor antagonist,"CHRNA4, CHRNB2"
+CC(=O)OCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)CSc3ccncc3)[C@H]2SC1,1106,-1.0,cephapirin,bacterial cell wall synthesis inhibitor,
+O=C(O)[C@H]1O[C@@H](Oc2cc3oc(-c4ccccc4)cc(=O)c3c(O)c2O)[C@H](O)[C@@H](O)[C@@H]1O,1107,1.282092562,baicalin,beta glucuronidase inhibitor,PREP
+CCCCCCCCCCCCCCCCCCCCCCO,1108,-1.0,docosanol,lipase clearing factor inhibitor,TLR7
+Cc1ccc(/C(=C\CN2CCCC2)c2cccc(/C=C/C(=O)O)n2)cc1,1109,-1.0,acrivastine,histamine receptor antagonist,HRH1
+COc1cc(/C=C2\CCCN([C@@H](C)c3ccc(F)cc3)C2=O)ccc1-n1cnc(C)c1,1110,-1.0,E-2012,gamma secretase modulator,"APH1A, APH1B, PSENEN"
+COc1cc(CNC(=O)CCCC/C=C/C(C)C)ccc1O,1111,1.313416746,capsaicin,TRPV agonist,"CFTR, TRPV1"
+Cc1ccccc1-n1c(Cn2nc(-c3cccc(O)c3)c3c(N)ncnc32)nc2cccc(C)c2c1=O,1112,-1.0,PIK-294,PI3K inhibitor,"PIK3CB, PIK3CD, PIK3CG"
+NC(=O)CN1C[C@H](O)CC1=O,1113,1.1335122345,oxiracetam,acetylcholine receptor agonist,
+O=S(=O)(O)NC1CCCCC1,1114,-1.0,cyclamic-acid,,
+CC1=CC(=O)NS(=O)(=O)O1,1115,0.8382215270000001,acesulfame-potassium,,
+C[C@]12CCC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@@]2(O)CC#N,1116,1.1990828759999999,dienogest,progesterone receptor agonist,PGR
+C[N+](C)(CF)CCO,1117,1.260118133,fluoromethylcholine,,
+CN(C)CCOc1ccc(/C(=C(/CCCl)c2ccccc2)c2ccccc2)cc1,1118,0.86626233,toremifene,"estrogen receptor antagonist, selective estrogen receptor modulator (SERM)",ESR1
+O=C[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,1119,-1.0,dextrose,,
+NCCS(=O)(=O)O,1120,0.9155466109999999,taurine,antioxidant,
+CN(C)[C@@H](CCOc1cccc2ccccc12)c1ccccc1,1121,-1.0,dapoxetine,selective serotonin reuptake inhibitor (SSRI),"HTR1A, HTR1B, HTR2C, SLC6A4"
+CN1CC[C@@H](c2c(O)cc(O)c3c(=O)cc(-c4ccccc4Cl)oc23)[C@@H]1CO,1122,0.7441828705,P276-00,CDK inhibitor,"CDK1, CDK4, CDK9"
+O=C(O)c1cccnc1C(=O)O,1123,-1.0,quinolinic-acid,glutamate receptor agonist,
+COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N2CCO[C@H](OC)C2)[C@H](O)[C@H](C)O1,1124,0.38758635799999996,nemorubicin,topoisomerase inhibitor,"TOP1, TOP2A"
+CCOCCn1c(C2CCN(CCc3ccc(C(C)(C)C(=O)O)cc3)CC2)nc2ccccc21,1125,-1.0,bilastine,histamine receptor antagonist,HRH1
+C/C=C/C/C=C/CCC(=O)[C@H]1O[C@H]1C(N)=O,1126,-1.0,cerulenin,fatty acid synthase inhibitor,FASN
+O=S(=O)(O)c1cc(I)c(O)c2ncccc12,1127,-1.0,chiniofon,antiprotozoal agent,
+CNC(=O)[C@H]1O[C@@H](n2cnc3c(NCc4cccc(I)c4)nc(Cl)nc32)[C@H](O)[C@@H]1O,1128,-1.0,CF102,adenosine receptor agonist,"ADORA1, ADORA2A, ADORA2B, ADORA3"
+CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21,1129,-1.0,clobazam,GABA benzodiazepine site receptor agonist,"GABRA1, GABRA2, GABRA3, GABRA4, GABRA5, GABRA6, GABRB1, GABRB2, GABRB3, GABRD, GABRE, GABRG1, GABRG2, GABRG3, GABRP, GABRQ"
+C=C(C)[C@H]1CN[C@H](C(=O)O)[C@H]1CC(=O)O,1130,-1.0,kainic-acid,kainate receptor agonist,"GRIA1, GRIK1, GRIK2, GRIK3, GRIK4, GRIK5"
+CCCCC[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)O,1131,-1.0,alprostadil,prostanoid receptor agonist,"CATSPER1, CATSPER2, CATSPER3, CATSPER4, PTGDR, PTGER1, PTGER2, PTGER4, PTGIR"
+O=C(O)COc1ccc(OCCNC[C@H](O)COc2ccccc2)cc1,1132,-1.0,"ICI-215,001",adrenergic receptor agonist,ADRB3
+CC(=O)NCCC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O,1133,-1.0,N-acetylcarnosine,,
+Nc1cccc2c(=O)[nH][nH]c(=O)c12,1134,-1.0,monosodium-alpha-luminol,,
+O=C(O)/C=C/c1c[nH]cn1,1135,-1.0,cis-urocanic-acid,serotonin receptor agonist,HTR2A
+C/C1=C/C[C@@H](/C(C)=C/c2csc(C)n2)OC(=O)C[C@H](O)C(C)(C)C(=O)[C@H](C)[C@@H](O)[C@@H](C)CCC1,1136,0.079527574,epothilone-d,"microtubule stabilizing agent, tubulin polymerization inhibitor","TUBA1A, TUBA1B, TUBA1C, TUBA3C, TUBA4A, TUBA8, TUBB, TUBB1, TUBB3, TUBB4A, TUBB4B"
+O=C(O)/C=C/c1ccc(Cn2ccnc2)cc1,1137,-1.0,ozagrel,thromboxane synthase inhibitor,TBXAS1
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@@H]1C[C@](OC(=O)/C=C/c2ccc(O)c(O)c2)(C(=O)O)C[C@@H](O)[C@H]1O,1138,-1.0,"1,5-dicaffeoylquinic-acid",,
+CCCCC/C=C\C[C@@H](O)/C=C/C=C/C=C\[C@@H](O)CCCC(=O)O,1139,-1.0,LTB4,leukocyte activator,"LTB4R, LTB4R2"
+CC(=O)N[C@@H](Cc1ccccc1)C(=O)O,1140,-1.0,afalanine,dopamine receptor agonist,DRD2
+Clc1ccc(-c2nc3sccn3c2/C=N/OCc2ccc(Cl)c(Cl)c2)cc1,1141,-1.0,CITCO,constitutive androstane receptor (CAR) agonist,NR1I3
+NC(=O)c1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c1N,1142,-1.0,acadesine,AMPK activator,
+COCCCC/C(=N\OCCN)c1ccc(C(F)(F)F)cc1,1143,-1.0,fluvoxamine,selective serotonin reuptake inhibitor (SSRI),SLC6A4
+CCC(CC)(CC(=O)Nc1cccc(/C=C/c2nc(C3CCC3)cs2)c1)C(=O)O,1144,0.939681344,cinalukast,leukotriene receptor antagonist,CYSLTR1
+COc1ccc(C(=O)CCC(=O)O)c2ccccc12,1145,-1.0,menbutone,,
+CC(C)C(N)=O,1146,-1.0,isobutyramide,gene expression stimulant,"HBE1, HBG1"
+CC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(Cl)[C@@H](Cl)C[C@@]21C,1147,-1.0,dichlorisone-acetate,,
+O=C(C[C@H]1NCCC[C@@H]1O)Cn1cnc2cc(Br)c(Cl)cc2c1=O,1148,0.5982162870000001,halofuginone,collagenase inhibitor,"COL1A1, MMP2"
+N#CSc1cc(SC#N)c(N)nc1N,1149,0.8518722209999999,PR-619,DUB inhibitor,
+CCN(CC)CC(=O)Oc1ccc(NC(C)=O)cc1,1150,-1.0,propacetamol,cyclooxygenase inhibitor,PTGS2
+OCCSCCO,1151,-1.0,thiodiglycol,,
+CN(C)CC/C=C1\c2ccccc2CSc2ccccc21,1152,-1.0,dosulepin,"norepinephrine reuptake inhibitor, serotonin-norepinephrine reuptake inhibitor (SNRI), tricyclic antidepressant","CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, HRH1, SLC6A2, SLC6A4"
+O=C(O)CCc1nc2ccccc2[nH]1,1153,-1.0,procodazole,immunostimulant,
+N[C@@H](CSCCCO)C(=O)O,1154,0.980888903,fudosteine,mucolytic agent,
+CCOC(=O)COc1ccc2c(=O)cc(-c3ccccc3)oc2c1,1155,-1.0,efloxate,vasodilator,
+COc1cc(OC)c(/C=C/S(=O)(=O)Cc2ccc(OC)c(NCC(=O)O)c2)c(OC)c1,1156,0.823338211,rigosertib,"cell cycle inhibitor, PLK inhibitor",PLK1
+CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)Nc1ccc(O)cc1,1157,-1.0,AM-404,"cyclooxygenase inhibitor, FAAH inhibitor, TRPV antagonist","CNR1, CNR2, FAAH, TRPV1"
+CCOC(=O)N1c2ccc(C(F)(F)F)cc2[C@@H](N(Cc2cc(C(F)(F)F)cc(C(F)(F)F)c2)C(=O)OC)C[C@H]1CC,1158,-1.0,torcetrapib,cholesteryl ester transfer protein inhibitor,CETP
+CC(C)(C)NC[C@H](O)COc1ccccc1C1CCCC1,1159,-1.0,penbutolol,adrenergic receptor antagonist,"ADRB1, ADRB2, HTR1A, HTR1B"
+COc1cc[nH]c2ncc(C(=O)C(=O)N3CCN(C(=O)c4ccccc4)C[C@H]3C)c1-2,1160,-1.0,BMS-806,HIV attachment inhibitor,
+Cc1[nH]c(/C=C2\C(=O)Nc3ccccc32)c(C)c1CCC(=O)O,1161,1.5167155319999999,orantinib,"FGFR inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor","AURKA, AURKB, EGFR, FGFR1, FGFR2, KDR, PDGFRA, PDGFRB"
+Clc1ccc(CO/N=C(\Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,1162,-1.0,oxiconazole,bacterial cell wall synthesis inhibitor,
+O=C(Cn1ccnc1[N+](=O)[O-])NCc1ccccc1,1163,-1.0,benznidazole,DNA synthesis inhibitor,
+COc1cc(-c2ccc(/N=N/c3ccc4c(S(=O)(=O)O)cc(S(=O)(=O)O)c(N)c4c3O)c(OC)c2)ccc1/N=N/c1ccc2c(S(=O)(=O)O)cc(S(=O)(=O)O)c(N)c2c1O,1164,-1.0,chicago-sky-blue-6b,"glutamate inhibitor, macrophage migration inhibiting factor inhibitor",MIF
+CO/N=C(/C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(C[n+]3cccc4c3CCC4)CS[C@H]12)c1csc(N)n1,1165,-1.0,cefpirome,bacterial cell wall synthesis inhibitor,
+O=C(c1ccc(F)cc1)N1CCC[C@H](c2nc(-c3ccc(F)cc3)no2)C1,1166,-1.0,ADX-47273,glutamate receptor modulator,GRM5
+CC(C)/N=c1\cc2n(-c3ccc(Cl)cc3)c3ccccc3nc-2cc1Nc1ccc(Cl)cc1,1167,1.141270245,clofazimine,GK0582 inhibitor,
+O=C(O)CCCNC(=O)c1cccnc1,1168,-1.0,pikamilone,,
+O=[N+]([O-])c1ccc([As](=O)(O)O)cc1,1169,1.222990712,nitarsone,,
+COC(=O)N/N=C/c1c[n+]([O-])c2ccccc2[n+]1[O-],1170,-1.0,carbadox,other antibiotic,
+C=COCC(F)(F)F,1171,1.292014237,fluroxene,local anesthetic,
+O=C(/C=C/c1ccc(CN(CCO)CCc2c[nH]c3ccccc23)cc1)NO,1172,0.833663753,dacinostat,HDAC inhibitor,"HDAC1, HDAC2, HDAC3, HDAC4, HDAC5, HDAC6, HDAC7, HDAC8, HDAC9"
+CCCCCCOC(=O)/N=C(/N)c1ccc(NCc2nc3cc(C(=O)N(CCC(=O)OCC)c4ccccn4)ccc3n2C)cc1,1173,-1.0,dabigatran-etexilate,thrombin inhibitor,F2
+CN(C)c1ccc(-c2nc3c(N4CCN(CC(=O)Nc5nccs5)CC4)c(Cl)cnc3[nH]2)cc1,1174,0.844403564,CCT129202,Aurora kinase inhibitor,"AURKA, AURKB, AURKC"
+COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN1CCCCC1,1175,0.6586489855,dacomitinib,EGFR inhibitor,"EGFR, ERBB2, ERBB4"
+C/C=C/C(=O)N(CC)c1ccccc1C,1176,-1.0,crotamiton,antipruritic,
+COC(=O)C1=CO[C@@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H]2C(CO)=CC[C@H]12,1177,-1.0,geniposide,GLP receptor agonist,GLP1R
+[N-]=[N+]=N[C@]1(CO)O[C@@H](n2ccc(N)nc2=O)[C@@H](O)[C@@H]1O,1178,0.9138233459999999,Ro-9187,HCV inhibitor,
+O=C1CC[C@@H](C(=O)O)N1,1179,-1.0,pidolic-acid,,"ADAM28, AMY1A, AMY2A, AMY2B, ANG, CCL8, HCRT, IGLC1, KRTAP5-2, TFF2, VEGFA"
+CCc1c(Cl)c(O)c(Cl)c(O)c1C(=O)O[C@H]1[C@H](O)[C@H](OC)[C@H](OC/C2=C\C=C\C[C@H](O)/C(C)=C\[C@H](CC)[C@H](O[C@@H]3OC(C)(C)[C@@H](OC(=O)C(C)C)[C@H](O)[C@H]3O)C(C)=C/C(C)=C/C[C@H]([C@@H](C)O)OC2=O)O[C@@H]1C,1180,-1.0,fidaxomicin,RNA polymerase inhibitor,
+CCc1c(C(=O)NCCc2ccc(N3CCCCC3)cc2)[nH]c2ccc(Cl)cc12,1181,-1.0,org-27569,cannabinoid receptor modulator,CNR1
+O=C(O)c1cc(/N=N/c2ccc(O)c(C(=O)O)c2)ccc1O,1182,-1.0,olsalazine,cyclooxygenase inhibitor,"IFNG, TPMT"
+N[C@@H]1CCN(O)C1=O,1183,-1.0,HA-966-(R)-(+),glutamate receptor agonist,GRIA1
+C=C(NC(=O)C(=C)NC(=O)c1csc(C2=N[C@@H]3c4csc(n4)[C@H]4NC(=O)c5csc(n5)[C@H]([C@](C)(O)[C@@H](C)O)NC(=O)[C@H]5CSC(=N5)/C(=C/C)NC(=O)[C@H]([C@@H](C)O)NC(=O)c5csc(n5)[C@]3(CC2)NC(=O)[C@H](C)NC(=O)C(=C)NC(=O)[C@H](C)NC(=O)[C@H]([C@@H](C)CC)N[C@@H]2C=Cc3c([C@H](C)O)cc(nc3[C@H]2O)C(=O)O[C@@H]4C)n1)C(N)=O,1184,-1.0,thiostrepton,"FOXM1 inhibitor, protein synthesis inhibitor",FOXM1
+CCS(=O)(=O)Nc1ccc2c(c1)/C(=C(/Nc1ccc(CN3CCCCC3)cc1)c1ccccc1)C(=O)N2,1185,-1.0,hesperadin,Aurora kinase inhibitor,AURKB
+CCOc1ccc(Cc2cc([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)ccc2Cl)cc1,1186,-1.0,dapagliflozin,sodium/glucose cotransporter inhibitor,"SLC5A1, SLC5A2"
+CCN(CC)c1ccc(/C=N/NC(=O)c2ccc(O)cc2)cc1,1187,-1.0,DY131,estrogen-related receptor agonist,"ESRRB, ESRRG"
+Nc1ccc(C(=O)O)cc1,1188,-1.0,potassium-p-aminobenzoate,,
+O=C(/C=C/c1cccnc1)NCCCCC1CCN(C(=O)c2ccccc2)CC1,1189,0.5603504435,FK-866,niacinamide phosphoribosyltransferase inhibitor,NAMPT
+CC(=O)Oc1c(C)cccc1C(=O)O,1190,-1.0,cresopirine,,
+CN1CCC(NC(=O)c2cc(-c3c(O)cc(O)cc3Oc3ccc([N+](=O)[O-])cc3)on2)CC1,1191,0.599506651,NMS-E973,HSP inhibitor,
+O=C(O)c1ccc(NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)c2ccccc2)cc1,1192,-1.0,bentiromide,,HPN
+Oc1ccnc(S)n1,1193,-1.0,2-thiouracil,,
+CC(C)OC(=O)CNC(=O)[C@H](CS)NC(=O)CC[C@H](N)C(=O)O,1194,-1.0,glutathione-monoisopropyl-ester,lipid peroxidase inhibitor,
+OC[C@H]1O[C@H](O[C@]2(CCl)O[C@H](CCl)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1Cl,1195,-1.0,sucralose,,
+Cc1oc(=O)oc1COC(=O)C1=C([C@H]2CCCO2)S[C@@H]2[C@@H]([C@@H](C)O)C(=O)N12,1196,-1.0,faropenem-medoxomil,lactamase inhibitor,
+O=C(O[C@H]1CN2CCC1CC2)N(Cc1cc(F)c(F)c(F)c1)c1cccc(F)c1,1197,-1.0,tarafenacin,acetylcholine receptor antagonist,CHRM3
+CC(C)[C@@H](N)C(=O)O,1198,-1.0,val,,"BCAT1, PCCB, VARS"
+O=C(O)CC/C=C\C[C@@H]1CO[C@H](c2ccccc2Cl)O[C@@H]1c1ccccc1O,1199,-1.0,ICI-192605,thromboxane receptor antagonist,TBXA2R
+CC(C)(C)c1cc(/C=C(\C#N)C(N)=S)cc(C(C)(C)C)c1O,1200,-1.0,tyrphostin-AG-879,tyrosine kinase inhibitor,"ERBB2, KDR, NTRK1"
+O=C(/C=C/C=C/c1ccc2c(c1)OCO2)N1CCCCC1,1201,0.8975069179999999,piperine,monoamine oxidase inhibitor,"MAOA, MAOB, TRPV1"
+N[C@@H](CSS(=O)(=O)O)C(=O)O,1202,-1.0,S-Sulfo-L-cysteine-sodium-salt,glutamate receptor agonist,
+C[N+](C)(C)C[C@H](O)CC(=O)O,1203,1.263617989,levocarnitine,,
+CCCCCCCCCCCCc1ccc(S(=O)(=O)Nc2nncs2)cc1,1204,-1.0,PHT-427,"AKT inhibitor, pyruvate dehydrogenase inhibitor","AKT2, PDPK1"
+CN(C)/N=N/c1ccc(C(=O)O)cc1,1205,1.2261452609999999,CB-10-277,DNA synthesis inhibitor,
+NCC(=O)CCC(=O)OCc1ccccc1,1206,-1.0,aminolevulinic-acid-benzyl-ester,,
+CN(C)c1ccc(C(=C2C=CC(=[N+](C)C)C=C2)c2ccc(N(C)C)cc2)cc1,1207,0.321177799,crystal-violet,other antibiotic,
+CC(=N)NCCCC[C@H](N)C(=O)O,1208,-1.0,L-NIL,nitric oxide synthase inhibitor,"NOS1, NOS2, NOS3"
+C=CCc1cc(OC)c(O)c(C(=O)NCCO)c1,1209,-1.0,alibendol,antispasmodic,
+OC[C@H]1O[C@@H](n2cnc3c(NC4CCCC4)ncnc32)[C@H](O)[C@@H]1O,1210,-1.0,N6-cyclopentyladenosine,adenosine receptor agonist,"ADORA1, ADORA2A, ADORA2B, ADORA3, SLC29A1"
+N#C/C(=C\c1ccc(O)c(O)c1)C(N)=O,1211,0.87080186,tyrphostin-AG-99,tyrosine kinase inhibitor,EGFR
+NCCCCCC(O)(P(=O)(O)O)P(=O)(O)O,1212,-1.0,neridronic-acid,bone resorption inhibitor,FDPS
+CCN(CC)c1ccc(C(=C2C=CC(=[N+](CC)CC)C=C2)c2ccccc2)cc1,1213,0.536985485,brilliant-green,,
+NCc1cc(O)no1,1214,-1.0,muscimol,benzodiazepine receptor agonist,"GABRA1, GABRA2, GABRA3, GABRA4, GABRA5, GABRA6, GABRR1, GABRR2, GABRR3"
+Cc1nc2ccccc2n1Cc1ccc(Cl)cc1,1215,0.849021318,chlormidazole,fungal lanosterol demethylase inhibitor,
+C[C@@H](/C=C/[C@@H](C)[C@H]1CC[C@H]2/C(=C/C=C3C[C@@H](O)C[C@H](O)C3)CCC[C@@]21C)C(C)(C)O,1216,0.7404163229999999,paricalcitol,vitamin D receptor agonist,VDR
+CCOCCOc1ccccc1C(N)=O,1217,-1.0,etosalamide,anti-inflammatory agent,
+CCN(C(=O)c1c(O)c2c(Cl)cccc2n(C)c1=O)c1ccccc1,1218,-1.0,laquinimod,immunosuppressant,CXCL2
+COc1ccc(CCC(=O)c2c(O)cc(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O[C@@H]3O[C@@H](C)[C@H](O)[C@@H](O)[C@H]3O)cc2O)cc1O,1219,-1.0,neohesperidin-dihydrochalcone,,
+COc1ccc(/C=C\c2cc(OC)c(OC)c(OC)c2)cc1O,1220,0.61390168,combretastatin-A-4,tubulin polymerization inhibitor,
+CC(=O)O[C@H]1Cc2ccccc2N(C(N)=O)c2ccccc21,1221,-1.0,eslicarbazepine-acetate,sodium channel blocker,"SCN10A, SCN11A, SCN1A, SCN2A, SCN3A, SCN4A, SCN5A, SCN7A, SCN8A, SCN9A"
+Cc1ccc(Cl)cc1N(CC(=O)Nc1c(F)cccc1F)S(C)(=O)=O,1222,-1.0,FPH1-(BRD-6125),hepatocyte function enhancer,
+O=C(O)CC(=O)C(=O)O,1223,-1.0,oxaloacetate,glutamate release inhibitor,"CS, SPR"
+Cc1ccc2c(c1)C(=O)[C@]1(O)CCN(c3ccccc3)C1=N2,1224,1.266823903,blebbistatin-(-),ATPase inhibitor,
+CNS(=O)(=O)CCc1ccc2[nH]cc(C3CCN(C)CC3)c2c1,1225,-1.0,naratriptan,serotonin receptor agonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F"
+C/C=C1\NC(=O)[C@H]2CSSCC/C=C/[C@H](CC(=O)N[C@H](C(C)C)C(=O)N2)OC(=O)[C@H](C(C)C)NC1=O,1226,0.426271134,romidepsin,HDAC inhibitor,"HDAC1, HDAC2, HDAC3, HDAC4, HDAC5, HDAC6, HDAC7, HDAC8, HDAC9"
+COc1ccc2[nH]c([S@@](=O)Cc3ncc(C)c(OC)c3C)nc2c1,1227,-1.0,esomeprazole,ATPase inhibitor,ATP4A
+COc1cccc(NC(=O)/C=C/c2ccc(Cl)cc2)c1,1228,1.1714148340000001,SB-366791,TRPV antagonist,TRPV1
+N[C@H](C(=O)O)c1ccc(O)c(C(=O)O)c1,1229,-1.0,3-carboxy-4-hydroxyphenylglycine-(S),glutamate receptor antagonist,"GRM1, GRM5"
+O/N=C/c1ccc(-c2ccc(O)c(F)c2)c(Cl)c1O,1230,-1.0,FERb-033,EGFR inhibitor,ERBB2
+Cn1cccc1/C=C1\C(=O)NC(=O)c2ccccc21,1231,-1.0,BYK-204165,PARP inhibitor,PARP1
+Nc1cc(F)ccc1NC(=O)/C=C/c1cnn(C/C=C/c2ccccc2)c1,1232,1.308453187,RGFP966,HDAC inhibitor,HDAC3
+O=C1c2ccccc2C(=O)C1c1ccc(Cl)cc1,1233,-1.0,chlorindione,,
+CC(C)OC(=O)OCOP(=O)(CO[C@H](C)Cn1cnc2c(N)ncnc21)OCOC(=O)OC(C)C,1234,-1.0,tenofovir-disoproxil,nucleoside reverse transcriptase inhibitor,CYP1A2
+CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCC(=O)OCC,1235,-1.0,doconexent-ethyl-ester,omega 3 fatty acid stimulant,
+CO/N=C1/C[C@]2(C[C@@H]3C[C@@H](C/C=C(\C)C[C@@H](C)/C=C/C=C4\CO[C@@H]5[C@H](O)C(C)=C[C@@H](C(=O)O3)[C@]45O)O2)O[C@H](/C(C)=C/C(C)C)[C@H]1C,1236,-1.0,moxidectin,chloride channel antagonist,
+COc1cc(C)c(/C=C/C(C)=C/C=C/C(C)=C/C(=O)O)c(C)c1C,1237,-1.0,acitretin,retinoid receptor agonist,"RARA, RARB, RARG, RBP1, RXRA, RXRB, RXRG, STAT3"
+N=C(N)c1ccc(/C=C/c2ccc(C(=N)N)cc2O)cc1,1238,-1.0,hydroxystilbamidine,,
+C[C@@H]1CC[C@H]2[C@@H](C)[C@@H](O)O[C@@H]3O[C@@]4(C)CC[C@@H]1[C@@]23OO4,1239,-1.0,dihydroartemisinin,antimalarial agent,
+CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](OP(C)(C)=O)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C,1240,0.7490724759999999,deforolimus,mTOR inhibitor,MTOR
+Cc1ccc(S(N)(=O)=O)cc1,1241,-1.0,para-toluenesulfonamide,,"CA12, CA2, CA6, CA9"
+CN[C@H](CC(=O)O)C(=O)O,1242,-1.0,NMDA,glutamate receptor agonist,"GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D"
+COc1[nH]c2ccc(F)cc2c1C(=O)OCC1CCN(CCNS(C)(=O)=O)CC1,1243,-1.0,GR125487,serotonin receptor antagonist,HTR4
+C[C@H]1[C@H](NC(=O)/C(=N\OC(C)(C)C(=O)O)c2csc(N)n2)C(=O)N1S(=O)(=O)O,1244,1.077671459,aztreonam,bacterial cell wall synthesis inhibitor,
+CC(=O)c1ccc2c(c1)[C@@H]1C=CC[C@@H]1[C@H](c1cc3c(cc1Br)OCO3)N2,1245,-1.0,G-1,G protein-coupled receptor agonist,GPER1
+N=C(N)N/N=C/c1c(Cl)cccc1Cl,1246,-1.0,guanaben-acetate,adrenergic receptor agonist,"ADRA2A, ADRA2B, ADRA2C"
+C=C1CC[C@H](O)C/C1=C/C=C1\CCC[C@@]2(C)[C@H]1CC[C@@H]2[C@H](C)CCCC(C)C,1247,0.8511531059999999,cholecalciferol,,VDR
+C[C@H]1CN(c2c(F)c(F)c3c(=O)c(C(=O)O)cn(C4CC4)c3c2F)C[C@@H](C)N1,1248,-1.0,orbifloxacin,bacterial DNA gyrase inhibitor,
+CSC[C@H](N)C(=O)O,1249,1.098136194,S-methylcysteine,,"CTSD, MGMT"
+CS/C(N)=C(C#N)/C(C#N)=C(\N)SC,1250,-1.0,U-0124,MEK inhibitor,
+CCCCCCCCCCC[C@@H](C[C@H]1OC(=O)[C@H]1CCCCCC)OC(=O)[C@@H](CC(C)C)NC=O,1251,-1.0,orlistat,lipase inhibitor,"CNR1, DAGLA, DAGLB, FASN, LIPF, PNLIP"
+Cc1cc(C)c(/C=C2\C(=O)Nc3ccccc32)[nH]1,1252,0.9345322855,semaxanib,VEGFR inhibitor,"FGFR1, FLT1, KDR, KIT, PDGFRA, PDGFRB, RET"
+COc1c(C)c2c(c(O)c1C/C=C(\C)CCC(=O)O)C(=O)OC2,1253,0.7959038940000001,mycophenolic-acid,"dehydrogenase inhibitor, inositol monophosphatase inhibitor","IMPDH1, IMPDH2"
+O=C1NC(=O)/C(=C/c2ccc3c(c2)OC(F)(F)O3)S1,1254,-1.0,AS-604850,PI3K inhibitor,"PIK3CA, PIK3CG"
+C[C@@]1(O)[C@H](O)[C@@H](CO)O[C@H]1n1cnc2c(NC3CCCC3)nc(Cl)nc21,1255,1.417460969,2'-MeCCPA,adenosine receptor agonist,ADORA1
+CCCCC[C@H](O)/C=C/[C@H]1[C@H](O)C[C@@H]2O/C(=C\CCCC(=O)O)C[C@@H]21,1256,-1.0,epoprostenol,prostacyclin analog,"P2RY12, PTGER1, PTGER4, PTGIR, PTGIS"
+Cc1[nH]c2ccc(O)cc2c1CCN,1257,-1.0,2-methyl-5-hydroxytryptamine,serotonin receptor agonist,"HTR1B, HTR1D, HTR1E, HTR1F, HTR3A, HTR3B, HTR6"
+c1ccc2sc(SNC3CCCCC3)nc2c1,1258,-1.0,"CBS,-N-Cyclohexyl-2-benzothiazolesulfenamide",,
+CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3[C@@H](c3ccc(N(C)C)cc3)C[C@@]21C,1259,1.212427402,ulipristal,progesterone receptor antagonist,PGR
+CNCCc1cnc[nH]1,1260,-1.0,N-alpha-Methylhistamine-dihydrochloride,histamine receptor agonist,HRH4
+CN(C)CCOC1=Cc2ccccc2Sc2ccc(Cl)cc21,1261,-1.0,zotepine,"dopamine receptor antagonist, serotonin receptor antagonist","ADRA2B, DRD2, DRD3, DRD4, HRH1, HTR1A, HTR1B, HTR1D, HTR1E, HTR2A, HTR2C, HTR6, HTR7, SLC6A2, SLC6A4"
+Cc1c(C)c2c(c(C)c1OC(=O)CCC(=O)O)CC[C@@](C)(CCC[C@H](C)CCC[C@H](C)CCCC(C)C)O2,1262,-1.0,D-alpha-tocopheryl-succinate,,
+CCCc1c2oc(C(=O)O)cc(=O)c2cc2c(=O)cc(C(=O)O)n(CC)c12,1263,-1.0,nedocromil,histamine receptor antagonist,"CYSLTR1, CYSLTR2, FPR1, HSP90AA1, PTGDR"
+Cc1nc(N)sc1-c1ccnc(Nc2ccc(N3CCOCC3)cc2)n1,1264,1.018423712,CYC116,Aurora kinase inhibitor,"AURKA, AURKB, KDR"
+CN1[C@H]2C[C@@H](OC(=O)[C@H](CO)c3ccccc3)C[C@@H]1[C@@H]1O[C@@H]12,1265,-1.0,scopolamine,acetylcholine receptor antagonist,
+CC(C)C[C@@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O,1266,-1.0,NPC-15199,ICAM1 antagonist,PPARG
+CCC(=O)O[C@@]1(C(=O)CCl)[C@@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@]3(F)[C@H](O)C[C@@]21C,1267,1.194197959,halobetasol-propionate,glucocorticoid receptor agonist,"NR3C1, PLA2G1B"
+COc1c(C)c(C(=O)c2ccc(N)c(C(=O)O)c2)n2ccccc12,1268,-1.0,SSR128129E,,
+O=C1[C@H]2[C@@H]3CC[C@@H](C3)[C@H]2C(=O)N1CCCCN1CCN(c2ncccn2)CC1,1269,-1.0,tandospirone,serotonin receptor agonist,HTR1A
+O=C(O)[C@H]1CN(CCCP(=O)(O)O)CCN1,1270,0.840157358,CPP,glutamate receptor antagonist,"GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D"
+Cc1ccc(CCCO)c(NCc2ccc3nc(NCCCN4CCOCC4)n(Cc4nc(C)ccc4O)c3c2)c1,1271,0.803636847,TMC-353121,RSV fusion inhibitor,
+CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1,1272,0.64453323,afatinib,EGFR inhibitor,"EGFR, ERBB2, ERBB4"
+CCNC(=O)/C=C/c1cccc(Br)c1,1273,-1.0,cinromide,,
+CC(C)n1c(/C=C/[C@@H](O)C[C@@H](O)CC(=O)O)c(-c2ccc(F)cc2)c2ccccc21,1274,0.79788857,fluvastatin,HMGCR inhibitor,HMGCR
+NC1(C(=O)O)CC1,1275,-1.0,ACPC,glutamate receptor antagonist,
+O=C(Nc1cccc(Cl)c1)c1ccccn1,1276,0.86771023,VU0364770,glutamate receptor positive allosteric modulator,GRM4
+N[C@H](Cc1ccc(I)cc1)C(=O)O,1277,-1.0,4-iodo-L-phenylalanine,,DPP4
+OCC(CO)N[C@H]1C[C@](O)(CO)[C@@H](O)[C@H](O)[C@H]1O,1278,-1.0,voglibose,glucosidase inhibitor,MGAM
+CCCCCCCC/C=C\CCCCCCCC(=O)NCCO,1279,1.150969594,oleoylethanolamide,"cannabinoid receptor agonist, glucose dependent insulinotropic receptor agonist, potassium channel blocker, PPAR receptor agonist","CNR1, GPR119, GPR55, PPARA"
+CC(C)(C)C(=O)OCOC(=O)[C@@H]1N2C(=O)[C@@H](/N=C/N3CCCCCC3)[C@H]2SC1(C)C,1280,-1.0,pivmecillinam,bacterial cell wall synthesis inhibitor,
+O=C(O)c1ccc(N2C(=O)/C(=C/c3ccc(-c4ccc([N+](=O)[O-])cc4)o3)C=C2c2ccccc2)cc1,1281,1.36639713,4E1RCat,protein synthesis inhibitor,"EIF4E, EIF4G1"
+Nc1nc2c(ccc3ccccc32)s1,1282,-1.0,SKA-31,potassium channel activator,KCNN4
+OCCn1cc(-c2ccc3c(c2)CC/C3=N\O)c(-c2ccncc2)n1,1283,1.437526881,GDC-0879,RAF inhibitor,BRAF
+COc1cc(O)c2c(c1)C(=O)c1cc(C)cc(O)c1C2=O,1284,0.9071577690000001,rheochrysidin,protein tyrosine kinase inhibitor,PTPN1
+CCN(CC)C(=O)N[C@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1,1285,-1.0,lisuride,dopamine receptor agonist,"ADRA1A, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD2, DRD3, DRD4, DRD5, HTR1A, HTR1B, HTR1D, HTR2A, HTR2B, HTR2C, HTR6"
+CCCCc1ncc(/C=C(\Cc2cccs2)C(=O)O)n1Cc1ccc(C(=O)O)cc1,1286,1.189648813,eprosartan,angiotensin receptor antagonist,AGTR1
+CN(C/C=C/C#CC(C)(C)C)Cc1cccc2ccccc12,1287,-1.0,terbinafine,fungal squalene epoxidase inhibitor,SQLE
+C/C(=C\c1csc(C)n1)[C@H]1C[C@@H]2O[C@]2(C)CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@H](O)CC(=O)O1,1288,0.362240534,epothilone-b,"microtubule stabilizing agent, tubulin polymerization inhibitor","TUBA1A, TUBA1B, TUBA1C, TUBA3C, TUBA4A, TUBA8, TUBB, TUBB1, TUBB3, TUBB4A, TUBB4B"
+O=C(N/N=C/c1ccc([N+](=O)[O-])o1)c1ccc(O)cc1,1289,-1.0,nifuroxazide,bacterial DNA inhibitor,
+CC(/C=C/C(=O)NO)=C\[C@@H](C)C(=O)c1ccc(N(C)C)cc1,1290,0.573978054,trichostatin-a,HDAC inhibitor,"HDAC1, HDAC10, HDAC2, HDAC3, HDAC4, HDAC5, HDAC6, HDAC7, HDAC8, HDAC9"
+Nc1ccc2ncnc(NCCc3ccc(Oc4ccccc4)cc3)c2c1,1291,0.614787389,EVP4593,NFkB pathway inhibitor,
+CC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)O,1292,-1.0,spaglumic-acid,glutamate receptor antagonist,GRM3
+Nc1ccc2cc3ccc(N)cc3nc2c1,1293,0.835823161,proflavine-hemisulfate,topical anesthetic,F2
+CCC(CC)(NC(=O)C(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)NC1(C(=O)NC(c2ccc(F)cc2)c2ccc(F)cc2)CCCC1,1294,-1.0,MM-102,WDR5/MLL interaction inhibitor,
+Cc1cc(Nc2cc(N3CCN(C)CC3)nc(/C=C/c3ccccc3)n2)n[nH]1,1295,-1.0,ENMD-2076,"Aurora kinase inhibitor, FLT3 inhibitor, VEGFR inhibitor","AURKA, FLT3, KDR, PDGFRA, PTK2, SRC"
+O[C@H]([C@@H]1CO1)[C@@H](O)[C@H]1CO1,1296,0.7987028429999999,dianhydrogalactitol,DNA alkylating agent,
+NCc1cccnc1,1297,-1.0,picolamine,,
+NS(=O)(=O)c1cc(-c2nnn[nH]2)c(NCc2cccs2)cc1Cl,1298,-1.0,azosemide,electrolyte reabsorption inhibitor,"SLC12A1, SLC12A2"
+CONC(=N)c1ccc(-c2ccc(-c3ccc(C(=N)NOC)cc3)o2)cc1,1299,-1.0,pafuramidine,DNA synthesis inhibitor,
+O=C(COc1ccc(C(=O)c2ccccc2)cc1)NC1CCN(Cc2ccccc2)CC1,1300,-1.0,adiporon,adiponectin receptor agonist,"ADIPOR1, ADIPOR2"
+C/C=C(\C)C(=O)N[C@@H](c1ccccc1)[C@@H](O)C(=O)O[C@H]1C[C@@]2(O)[C@@H](OC(=O)c3ccccc3)[C@H]3[C@](C)(C(=O)[C@H](OC(C)=O)C(=C1C)C2(C)C)[C@@H](O)C[C@H]1OC[C@]13OC(C)=O,1301,0.47896826200000003,cephalomannine,DNA polymerase inhibitor,
+COc1ccc2nc(SCc3ncc(C)c(OC)c3C)[nH]c2c1,1302,-1.0,omeprazole-sulfide,ATPase inhibitor,
+N[Pt](N)(Cl)Cl,1303,0.9186849359999999,cisplatin,"DNA alkylating agent, DNA synthesis inhibitor",XIAP
+Cc1c(I)c(=O)n(-c2ccccc2)n1C,1304,-1.0,iodoantipyrine,,
+C[n+]1cccc(C(=O)O)c1,1305,-1.0,trigonelline,,
+N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O,1306,-1.0,glutathione,antioxidant,"ESD, GGT1, GLO1, GLRX, GLRX2, GPX1, GPX2, GPX3, GPX4, GPX5, GPX6, GPX7, GPX8, GSR, GSS, GSTA1, GSTA2, GSTA3, GSTA4, GSTA5, GSTK1, GSTM1, GSTM2, GSTM3, GSTM4, GSTM5, GSTO1, GSTO2, GSTP1, GSTT1, GSTZ1, HAGH, HPGDS, LTC4S, MGST1, MGST2, MGST3, TXNDC12"
+O=C(O[C@@H]1C[C@@H]2CC[C@H](C1)[N+]21CCCC1)C(O)(c1ccccc1)c1ccccc1,1307,-1.0,trospium,acetylcholine receptor antagonist,CHRM1
+CC(C)(O)c1ccccc1CC[C@@H](SCC1(CC(=O)O)CC1)c1cccc(/C=C/c2ccc3ccc(Cl)cc3n2)c1,1308,-1.0,montelukast,leukotriene receptor antagonist,"ALOX5, CYSLTR1"
+C=CC[C@@H]1/C=C(\C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/[C@@H]3CC[C@@H](O)[C@H](OC)C3)[C@H](C)[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC,1309,1.333816015,tacrolimus,calcineurin inhibitor,FKBP1A
+COC(=O)[C@]12CCC(C)(C)C[C@H]1[C@H]1C(=O)C=C3[C@@](C)(CC[C@H]4C(C)(C)C(=O)C(C#N)=C[C@]34C)[C@]1(C)CC2,1310,0.8076704055,bardoxolone-methyl,"nuclear factor erythroid derived, like (NRF2) activator","PPARG, STAT3"
+C[C@H](C(=O)O)c1ccc(-c2ccccc2)c(F)c1,1311,-1.0,flurbiprofen-(S)-(+),cyclooxygenase inhibitor,"PTGS1, PTGS2"
+NC(=O)c1[nH]cnc1O,1312,-1.0,SM-108,,
+OC[C@H]1O[C@@H](n2cnc3c(NC4CCCC4)nc(Cl)nc32)[C@H](O)[C@@H]1O,1313,-1.0,2-chloro-N6-cyclopentyladenosine,adenosine receptor agonist,"ADORA1, ADORA2A, ADORA2B, ADORA3"
+O=C1NC(=O)/C(=C\c2cccc(C(F)(F)F)c2)S1,1314,1.031230151,SMI-4a,Pim kinase inhibitor,PIM1
+Cc1ccc(-c2csc(NC(=O)c3ccccc3)n2)c(C)c1,1315,0.955971922,INH1,Hec1 inhibitor,NDC80
+CCCCN(Cc1ccc(C(=O)NO)cc1)C(=O)Nc1ccccc1,1316,1.347853345,nexturastat-a,HDAC inhibitor,"HDAC1, HDAC6"
+OCCN1CCN(CC/C=C2/c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,1317,-1.0,flupentixol,dopamine receptor antagonist,"ADRA1A, CHRM1, DRD1, DRD2, DRD3, DRD5, HTR2A"
+CN/C(=C\[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,1318,0.903105235,ranitidine,histamine receptor antagonist,HRH2
+COc1ccc(S(=O)(=O)N(C(C)=O)c2ccccc2/C=C/c2cc[n+]([O-])cc2)cc1,1319,0.733882115,HMN-214,PLK inhibitor,PLK1
+C=CCN1CC[C@]23c4c5ccc(O)c4O[C@H]2/C(=N/NC(=O)c2ccccc2)CC[C@@]3(O)[C@H]1C5,1320,-1.0,naloxone-benzoylhydrazone,opioid receptor antagonist,"OPRK1, OPRM1"
+NC(=O)N/N=C/c1ccc(Oc2ccc(F)cc2)cc1,1321,-1.0,co-102862,,"SCN4A, SCN9A"
+N#C/C(=C1/SC[C@@H](c2ccc(Cl)cc2Cl)S1)n1ccnc1,1322,-1.0,luliconazole,sterol demethylase inhibitor,
+C=CC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)/C(=N\OCC(=O)O)c3csc(N)n3)[C@H]2SC1,1323,-1.0,cefixime,bacterial cell wall synthesis inhibitor,
+COc1cc(-c2ncn(/C=C\C(=O)OC(C)C)n2)cc(C(F)(F)F)c1,1324,0.600423746,KPT-185,exportin antagonist,XPO1
+CCN(CC)CCNC(=O)c1ccccc1I,1325,-1.0,I-BZA2,,
+C/C(=C\c1csc(C)n1)[C@@H]1C[C@@H]2O[C@@H]2CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)O1,1326,0.478858645,epothilone-a,microtubule stabilizing agent,
+O=C(O)c1ccc(/C=C2/SC(=S)N(c3cccc(C(F)(F)F)c3)C2=O)cc1,1327,-1.0,CFTRinh-172,chloride channel blocker,CFTR
+Oc1cc(O)c2c(c1)O[C@H](c1ccc(O)c(O)c1)[C@H](O)[C@H]2c1c(O)cc(O)c2c1O[C@H](c1ccc(O)c(O)c1)[C@@H](O)C2,1328,-1.0,procyanidin-b-2,,
+CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)OCOC(=O)C(C)(C)C)=C(/C=C\c3scnc3C)CS[C@H]12)c1csc(N)n1,1329,1.167268235,cefditoren-pivoxil,bacterial cell wall synthesis inhibitor,
+COC(=O)[C@H](CCCNC(=N)N)NS(=O)(=O)c1ccc(C)cc1,1330,0.990375727,TAME,,
+O=c1cc(-c2ccccc2)oc2cc(O)c(O)c(O)c12,1331,1.228127331,baicalein,lipoxygenase inhibitor,"ALOX5, GLO1, PREP, SELL, SELP, TNF, XDH"
+CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(Cn3ccc(=N)n3CCO)CS[C@H]12)c1csc(N)n1,1332,-1.0,cefoselis,bacterial cell wall synthesis inhibitor,
+NCC(=O)O,1333,-1.0,AZD4282,glutamate receptor antagonist,"AGXT, AGXT2, ALAS1, ALAS2, BAAT, GARS, GATM, GCAT, GCSH, GLDC, GLRA1, GLRA2, GLRA3, GLRB, GLYAT, GLYATL1, GLYATL2, GNMT, GPR18, GPRC6A, GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D, GRIN3B, GSS, PIPOX, SHMT1, SHMT2, SLC32A1, SLC36A1, SLC6A5, SLC6A9"
+S=C1SCN(Cc2ccccc2)CN1Cc1ccccc1,1334,-1.0,sulbentine,other antifungal,
+O=C(Nc1ccc(S(=O)(=O)Nc2ccccc2Cl)c(Cl)c1)c1ccccn1,1335,-1.0,VU0364439,glutamate receptor positive allosteric modulator,GRM4
+CCCCCCOc1nsnc1C1=CCCN(C)C1,1336,0.884829564,xanomeline,acetylcholine receptor agonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR6, HTR7"
+CCC[C@H](NC(=O)[C@@H]1[C@H]2CCC[C@H]2CN1C(=O)[C@@H](NC(=O)[C@@H](NC(=O)c1cnccn1)C1CCCCC1)C(C)(C)C)C(=O)C(=O)NC1CC1,1337,-1.0,telaprevir,HCV inhibitor,"CTSA, PGR"
+CC1(C)CCC[C@@]2(C)[C@H]1CC[C@@]1(C)OC(=O)C[C@H]21,1338,-1.0,sclareolide,other antifungal,
+CC(C)(C)c1ccc(-c2nc3ccccc3[nH]2)cc1,1339,0.9158418970000001,ZLN005,,
+CC1(C)CC(=O)c2c(C(F)(F)F)nn(-c3ccc(C(N)=O)c(N[C@H]4CC[C@H](OC(=O)CN)CC4)c3)c2C1,1340,0.633211282,SNX-5422,HSP inhibitor,HSP90AA1
+CC(=O)CC(=O)O,1341,-1.0,lithium-acetoacetate,,
+C=C1/C(=C\C=C2/CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)CC[C@@H](O)C(C)C)C[C@@H](O)C[C@@H]1O,1342,0.76878488,tacalcitol,vitamin D receptor agonist,VDR
+COc1ccc(-c2coc3cc(O)cc(O)c3c2=O)cc1,1343,-1.0,4-methylgenistein,protein tyrosine kinase inhibitor,"CYP19A1, ESRRA, ESRRB, ESRRG, FASN"
+C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCO)cc23)c1,1344,0.8478356309999999,OSI-420,EGFR inhibitor,EGFR
+CN(C)Cc1cccc(N/C(=C2\C(=O)Nc3cc(C(=O)N(C)C)ccc32)c2ccccc2)c1,1345,-1.0,BIX-02189,MEK inhibitor,"MAP2K5, MAPK7"
+OCc1cncc(F)c1,1346,-1.0,5-fluoro-3-pyridyl-methanol,,
+NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](N)[C@@H](O)[C@@H]1O,1347,-1.0,bekanamycin,bacterial 30S ribosomal subunit inhibitor,
+N[Pt]1(N)OCC(=O)O1,1348,-1.0,nedaplatin,DNA inhibitor,
+CCCCOC(=O)c1ccccc1C(=O)OCCCC,1349,-1.0,dibutyl-phthalate,,TRPA1
+C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](Oc3c(-c4ccc(OCCO)c(OCCO)c4)oc4cc(OCCO)cc(O)c4c3=O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,1350,-1.0,troxerutin,antioxidant,
+CN/C(=C\[N+](=O)[O-])NCCSCc1csc(CN(C)C)n1,1351,1.225040165,nizatidine,histamine receptor antagonist,HRH2
+O=C(O)C1=CO[C@@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H]2C(CO)=CC[C@H]12,1352,-1.0,geniposidic-acid,cyclooxygenase inhibitor,
+CN1CCN(c2cc3c(cc2F)c(=O)c(C(=O)O)cn3-c2ccc(F)cc2)CC1,1353,-1.0,difloxacin,bacterial DNA gyrase inhibitor,
+CN(C/C=C/c1ccccc1)Cc1cccc2ccccc12,1354,0.984668083,naftifine,fungal squalene epoxidase inhibitor,SQLE
+CC(=O)O[Hg]c1ccccc1,1355,0.9310427370000001,phenylmercuric-acetate,other antifungal,
+C[Se]C[C@H](N)C(=O)O,1356,1.2805240009999999,se-methylselenocysteine,,
+O=C(O)C(=O)Nc1cccc(-c2nnn[nH]2)c1,1357,-1.0,acitazanolast,mediator release inhibitor,
+Cc1ccc(OC[C@@H](O)[C@H](C)NC(C)C)c2c1CCC2,1358,-1.0,"ICI-118,551",adrenergic receptor antagonist,"ADRB2, ADRB3"
+C[Se]CC[C@H](N)C(=O)O,1359,-1.0,selenomethionine,,
+O=C(O)C1CCC(c2cc3cccnc3c(-c3cccc(F)c3)n2)CC1,1360,-1.0,"trans-4-[8-(3-Fluorophenyl)-1,7-naphthyridin-6-yl]cyclohexanecarboxylic-acid",,
+CCOC(=O)Nc1ccc2c(c1)N(C(=O)CN(C)C)c1ccccc1CC2,1361,-1.0,tiracizine,sodium channel blocker,SCN5A
+O=C(O)c1cc2ccccc2s1,1362,-1.0,BL-5583,hypercalcaemic agent,
+O=C(/C=C\n1cnc(-c2cc(C(F)(F)F)cc(C(F)(F)F)c2)n1)N1CC(F)(F)C1,1363,0.701768622,KPT-276,exportin antagonist,XPO1
+CC(C)(Cc1ccc2ccccc2c1)NC[C@@H](O)COc1cccc(Cl)c1C#N,1364,-1.0,NPS-2143,calcium receptor antagonist,CASR
+Cc1[nH]c(/C=C2/C(=O)Nc3ccc(F)cc32)c(C)c1C(=O)NC[C@H](O)CN1CCOCC1,1365,1.1378022140000001,SU014813,"PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",KDR
+CN1[C@H]2C[C@H](O)C[C@@H]1[C@H]1O[C@@H]21,1366,-1.0,scopine,,
+CO[C@H]1CC[C@H](N(c2cc(C3=CCCCC3)sc2C(=O)O)C(=O)[C@H]2CC[C@H](C)CC2)CC1,1367,-1.0,VCH-916,HCV inhibitor,
+O=C(O)C[C@H](O)C[C@H](O)/C=C/c1c(C2CC2)nc2ccccc2c1-c1ccc(F)cc1,1368,0.892101798,pitavastatin,HMGCR inhibitor,HMGCR
+N=C(N)N,1369,1.228075205,guanidine,HSP inhibitor,"ALDH2, DLG4, GAMT, RNASE1"
+Clc1ccc(N/N=C(\c2ccccc2)c2ccccn2)nc1,1370,0.8530596359999999,JIB04,histone lysine demethylase inhibitor,KDM4E
+COc1cccc(Nc2ncnn3ccc(CN4CC[C@@H](N)[C@H](O)C4)c23)c1,1371,0.7370697239999999,BMS-690514,"EGFR inhibitor, VEGFR inhibitor","EGFR, ERBB2, FLT3, KDR"
+Nc1ccc(/N=N/c2ccccc2)c(N)n1,1372,-1.0,phenazopyridine,local anesthetic,SCN1A
+NC(=O)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1,1373,-1.0,nitromide,,
+NC1(Cc2ccc(Cl)cc2)CCN(c2ncnc3[nH]ccc23)CC1,1374,0.999996799,CCT128930,AKT inhibitor,"PKIA, PRKACA"
+N[C@@H](C(=O)O)c1ccc(O)c(C(=O)O)c1,1375,-1.0,3-carboxy-4-hydroxyphenylglycine-(R),glutamate receptor antagonist,"GRIN1, GRIN2A, GRIN2B, GRIN2C"
+CN1C(=O)N(C)C2C1N(C)C(=O)N2C,1376,-1.0,mebicar,anxiolytic,
+O=[N+]([O-])NC1=NCCN1Cc1ccc(Cl)nc1,1377,-1.0,imidacloprid,acetylcholine receptor antagonist,CHRFAM7A
+N=C(N)NCCC[C@@H](N)C(=O)O,1378,-1.0,L-Arginine,nitric oxide precursor,"ARG2, ASL, ASS1, AZIN2, GPRC6A, NOS2, NOS3, SLC7A1, SLC7A3, SLC7A4"
+Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,1379,-1.0,triazolam,GABA benzodiazepine site receptor agonist,"GABRA1, GABRA2, GABRA3, GABRA4, GABRA5, GABRA6, GABRB1, GABRB2, GABRB3, GABRD, GABRE, GABRG1, GABRG2, GABRG3, GABRP, GABRQ, GABRR1, GABRR2, GABRR3, TSPO"
+COCC(=O)NC/C=C/c1ccc2ncnc(Nc3ccc(Oc4ccc(C)nc4)c(C)c3)c2c1,1380,0.914790033,CP-724714,"EGFR inhibitor, protein tyrosine kinase inhibitor",ERBB2
+O=C1c2ccccc2-n2c1nc1ccccc1c2=O,1381,0.798767263,tryptanthrin,cyclooxygenase inhibitor,IDO1
+Clc1ccccc1CNC[C@H]1CC[C@H](CNCc2ccccc2Cl)CC1,1382,-1.0,AY-9944,hedgehog pathway modulator,
+CC(=O)NS(=O)(=O)c1ccc(NC(=O)c2ccccc2C(=O)O)cc1,1383,-1.0,phthalylsulfacetamide,,
+O=S(=O)(O)Oc1ccc(C(c2ccc(OS(=O)(=O)O)cc2)c2ccccn2)cc1,1384,-1.0,sodium-picosulfate,,
+OC[C@H]1O[C@](O)(CO)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O,1385,-1.0,lactulose,laxative,
+Nc1ncnc2c1ncn2CCOCP(=O)(O)O,1386,-1.0,adefovir,DNA polymerase inhibitor,
+C[N@+]12CCCC[C@@H]1CCC(=C(c1cccs1)c1cccs1)C2,1387,-1.0,tiquizium,acetylcholine receptor antagonist,
+Cc1cccc(Cc2c[nH]cn2)c1C,1388,-1.0,detomidine,adrenergic receptor agonist,ADRA2A
+COc1ccc(-c2nc(N3CCOCC3)c3sc(CN(C)c4ncc(C(=O)NO)cn4)cc3n2)cn1,1389,0.49706654899999997,CUDC-907,PI3K inhibitor,"HDAC2, PIK3R1"
+Nc1nccc2c1ncn2[C@@H]1C=C(CO)[C@@H](O)[C@H]1O,1390,0.746836809,3-deazaneplanocin-A,histone lysine methyltransferase inhibitor,EZH2
+CN1CCC(=C2c3ccccc3CCc3cccnc32)CC1,1391,-1.0,azatadine,histamine receptor antagonist,HRH1
+C[C@H]1CCC/C=C/[C@@H]2C[C@H](O)C[C@H]2[C@H](O)/C=C/C(=O)O1,1392,0.6354141729999999,brefeldin-a,protein synthesis inhibitor,"ARF1, CYTH2"
+NS(=O)(=O)c1ccc(NC(=O)Nc2ccc(F)cc2)cc1,1393,-1.0,U-104,carbonic anhydrase inhibitor,"CA1, CA12, CA2, CA9"
+Cn1cc(-c2ccc3ncc(Cc4ccc5ncccc5c4)n3n2)cn1,1394,1.108623474,NVP-BVU972,MET inhibitor,MET
+Cc1n[nH]c2ccc(-c3cncc(OC[C@@H](N)Cc4ccccc4)c3)cc12,1395,0.8193958370000001,A-674563,AKT inhibitor,"AKT1, PKIA, PRKACA"
+[O-][n+]1cccc(CO)c1,1396,-1.0,mepiroxol,,
+Cc1ccc(-c2c(-c3nn(C)c4ncnc(N5CC[C@H](N6CCCCC6)C5)c34)cnn2C)cc1,1397,0.8775367690000001,PF-4981517,cytochrome P450 inhibitor,CYP3A4
+Oc1cc2c(cc1O)[C@@H]1c3ccc(O)c(O)c3OC[C@]1(O)C2,1398,-1.0,hematoxylin,,
+O=C(N/N=C/c1ccccc1O)c1ccccc1O,1399,1.930998885,SCS,,
+COC(=O)[C@H](Cc1ccc([N+](=O)[O-])cc1)NC(=O)c1cccc2ccccc12,1400,-1.0,SB-328437,CCR antagonist,
+COC(=O)C1=C(C)NC(C)=C(C(=O)O[C@H]2CCN(Cc3ccccc3)C2)[C@H]1c1cccc([N+](=O)[O-])c1,1401,-1.0,barnidipine,calcium channel blocker,
+CSCC[C@H](NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)CCNC(=O)OC(C)(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc1ccccc1)C(N)=O,1402,0.534094868,pentagastrin,CCK receptor agonist,CCKBR
+CN(C)CCOc1ccc(-c2nc(-c3ccncc3)c(-c3ccc4c(c3)CC/C4=N\O)[nH]2)cc1,1403,-1.0,SB-590885,RAF inhibitor,BRAF
+O=S(=O)(c1ccccc1)c1cnc2c(N3CCNCC3)cccc2c1,1404,-1.0,SB-742457,serotonin receptor antagonist,HTR6
+O=[N+]([O-])c1cncn1CCN1CCOCC1,1405,1.109956224,nimorazole,bacterial DNA inhibitor,
+CON,1406,-1.0,methoxyamine,DNA repair enzyme inhibitor,APEX1
+OC[C@H](O)[C@H](O)CO,1407,1.240287039,erythritol,,
+CC(=O)N[C@@H](CSC/C=C(\C)CC/C=C(\C)CCC=C(C)C)C(=O)O,1408,-1.0,acetyl-farnesyl-cysteine,methyltransferase inhibitor,PPARG
+O=C1C(Cl)=C(N2CCOCC2)C(=O)N1c1ccc(Cl)c(Cl)c1,1409,1.1774630659999998,RI-1,,RAD51
+OC[C@H]1O[C@@H](n2cnc3c(O)ncnc32)[C@H](O)[C@@H]1O,1410,1.175520082,inosine,neurotrophic agent,"PARP1, PNP"
+Cc1cccc(C)c1NC(=O)/N=C1/CCCN1C,1411,1.193461297,xilobam,,
+N[C@@H](Cn1ccc(=O)n(Cc2ccccc2C(=O)O)c1=O)C(=O)O,1412,-1.0,UBP-302,glutamate receptor antagonist,GRIK1
+CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C=O)C(C)(C)CCC1,1413,-1.0,retinaldehyde,,
+O=S1(=O)OC(c2ccc(O)cc2)(c2ccc(O)cc2)c2ccccc21,1414,-1.0,phenolsulfonphthalein,,
+CNCC/C=C/c1cccnc1,1415,-1.0,rivanicline,acetylcholine receptor agonist,"CHRNA4, CHRNB2, CXCL8"
+CCCCCC/C=C/C=C\CCCCCCCC(=O)O,1416,-1.0,"cis-9,trans-11-Conjugated-linoleic-acid",,
+C[C@@H](N)Cc1c[nH]cn1,1417,-1.0,alpha-methylhistamine-dihydrobromide-(R)-(-),histamine receptor agonist,HRH3
+NCCCCCNCC12CC3CC(CC(C3)C1)C2,1418,-1.0,IEM1754,glutamate receptor antagonist,GRIA1
+Oc1ccnc(O)n1,1419,1.0324397570000001,uracil,,"DPYD, UCKL1"
+Nc1ccncc1N,1420,-1.0,amifampridine,potassium channel blocker,
+CC(=O)N[C@@H](C=O)[C@@H](O)[C@H](O)[C@H](O)CO,1421,-1.0,N-acetyl-D-glucosamine,,"B4GALT1, B4GALT2, B4GALT3, B4GALT4, NAGK, NAGLU, NAGPA, RENBP"
+COc1cc(N2CCN(C)CC2)ccc1Nc1nccc(-c2cn(C)c3cnccc23)n1,1422,-1.0,AZ191,DYRK inhibitor,DYRK1B
+CNC(=O)c1ccc(-c2cnc3ncc(Cc4ccc5ncccc5c4)n3n2)cc1F,1423,1.1997962229999999,INC-280,c-Met inhibitor,MET
+CCOc1ccc(N=C(C)Nc2ccc(OCC)cc2)cc1,1424,-1.0,phenacaine,local anesthetic,
+NC(=O)c1ccccc1O,1425,-1.0,salicylamide,analgesic agent,
+COC(=O)[C@H](CC(C)C)NC(=O)[C@@H](N)CC(C)C,1426,-1.0,leucylleucine-methyl-ester,,
+Cc1ccc(/C=C2\CNC/C(=C\c3ccc(C)cc3)C2=O)cc1,1427,0.9090999340000001,NSC-632839,ubiquitin specific protease inhibitor,"SENP2, USP1, USP2, USP7"
+O=C1CN(/N=C/c2ccc(-c3ccc([N+](=O)[O-])cc3)o2)C(=O)N1,1428,-1.0,dantrolene,calcium channel blocker,"RYR1, RYR3"
+Cc1cc(CC(=O)O)n(C)c1C(=O)c1ccc(Cl)cc1,1429,-1.0,zomepirac,prostaglandin synthesis inhibitor,PTGDR2
+O=c1sn(-c2cccc3ccccc23)c(=O)n1Cc1ccccc1,1430,0.97023991,tideglusib,glycogen synthase kinase inhibitor,GSK3B
+[2H]C([2H])([2H])C(O)(CCO[C@@H](C)[C@H]1CC[C@H]2/C(=C/C=C3/C[C@@H](O)C[C@H](O)C3=C)CCC[C@]12C)C([2H])([2H])[2H],1431,0.7749971240000001,maxacalcitol,vitamin D receptor agonist,VDR
+C=CCNC1=C2C[C@@H](C)C[C@H](OC)[C@H](O)[C@@H](C)/C=C(\C)[C@H](OC(N)=O)[C@@H](OC)/C=C\C=C(/C)C(=O)NC(=CC1=O)C2=O,1432,0.714658101,tanespimycin,HSP inhibitor,HSP90AA1
+C/C(=N\NC(=O)[C@@H]1C(=O)NC[C@H]1c1ccccc1)c1cccc(Br)c1,1433,0.8582788029999999,AC-264613,PAR agonist,F2RL1
+Cc1[nH]c2ccccc2c1CCNC(=O)c1cccs1,1434,-1.0,CK-636,actin related protein inhibitor,"ACTR2, ACTR3, ARPC1B, ARPC2, ARPC3, ARPC4, ARPC5"
+OCc1ccc(O[C@@H]2O[C@@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,1435,1.4039802469999998,gastrodin,,
+CCSC(=N)N,1436,-1.0,EIT-hydrobromide,nitric oxide synthase inhibitor,"NOS2, NOS3"
+Cl[Ru](Cl)(Cl)(Cl)([n+]1cc2ccccc2[nH]1)[n+]1cc2ccccc2[nH]1,1437,-1.0,NKP-1339,HSP inhibitor,
+CN(C)CCS,1438,0.909256101,captamine,,
+CCCCC[C@H](O)/C=C/[C@H]1[C@H](O)C[C@H](O)[C@@H]1C/C=C\CCCC(=O)O,1439,-1.0,dinoprost,prostacyclin analog,"PTGDR, PTGDR2, PTGER1, PTGER2, PTGER3, PTGER4, PTGFR, PTGIR, TBXA2R"
+C=CC(=O)Nc1cccc(Sc2nc(Nc3ccc(N4CCN(C)CC4)cc3)ncc2Cl)c1,1440,0.6889180090000001,WZ8040,EGFR inhibitor,EGFR
+Nc1ncnc2c1c(-c1cnc3[nH]ccc3c1)nn2C1CCCC1,1441,0.571630874,PP-121,protein tyrosine kinase inhibitor,"ABL1, EGFR, HCK, KDR, MTOR, PDGFRA, PIK3CA, PIK3CB, PIK3CD, PIK3CG, PRKDC, SRC"
+Fc1cccc(/C=N/N=C/c2cccc(F)c2)c1,1442,-1.0,DFB,glutamate receptor agonist,GRM5
+CC(C)(O)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1,1443,-1.0,2-hydroxyflutamide,androgen receptor antagonist,AR
+CCOc1cc(C=O)ccc1O,1444,-1.0,ethyl-vanillin,,
+Nc1c(CC(=O)O)cccc1C(=O)c1ccccc1,1445,0.953553676,amfenac,cyclooxygenase inhibitor,"PTGS1, PTGS2"
+O=C(O)CCNC(=O)c1ccccc1,1446,-1.0,betamipron,panipenem uptake inhibitor,
+O=C(O)CCCO,1447,-1.0,sodium-oxybate,benzodiazepine receptor agonist,"GABRB1, HCAR1, SLC52A2"
+Cc1ncc(CSSCc2cnc(C)c(O)c2CO)c(CO)c1O,1448,1.242763912,pyritinol,,
+C[C@@H]([C@H](O)c1ccccc1)N(C)C,1449,-1.0,"N-methyl-(-)ephedrine-[1r,2s]",,
+CNCC(=O)c1ccc(O)c(O)c1,1450,-1.0,adrenalone,adrenergic receptor agonist,ADRA1A
+N=C(Nc1ccc(I)cc1)NC1C2CC3CC(C2)CC1C3,1451,-1.0,IPAG,,
+O=C(O[C@H]1[C@H](OC(=O)c2cccnc2)[C@@H](OC(=O)c2cccnc2)[C@H](OC(=O)c2cccnc2)[C@@H](OC(=O)c2cccnc2)[C@H]1OC(=O)c1cccnc1)c1cccnc1,1452,-1.0,inositol-hexanicotinate,,
+COC(=O)N[C@H](C(=O)N1CCC[C@H]1c1ncc(-c2ccc(-c3ccc(-c4cnc([C@@H]5CCCN5C(=O)[C@@H](NC(=O)OC)C(C)C)[nH]4)cc3)cc2)[nH]1)C(C)C,1453,0.923940237,daclatasvir,HCV inhibitor,
+Clc1cccc(/C=N/N=C/c2cccc(Cl)c2)c1,1454,-1.0,"3,3'-dichlorobenzaldazine",glutamate receptor allosteric ligand,GRM5
+C=C1/C(=C/C=C2\CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)/C=C/[C@@H](C)C(C)C)C[C@@H](O)C[C@@H]1O,1455,0.829063769,doxercalciferol,vitamin D receptor agonist,VDR
+CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1/C=C/[C@@H](O)C[C@@H](O)CC(=O)O,1456,-1.0,rosuvastatin,HMGCR inhibitor,HMGCR
+CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(CSC(=O)c3ccco3)CS[C@H]12)c1csc(N)n1,1457,-1.0,ceftiofur,bacterial cell wall synthesis inhibitor,
+c1ccc(Oc2cccnc2)cc1,1458,1.285458095,CI-844,,
+O=C(Nc1ccccc1)c1ccccc1O,1459,-1.0,salicylanilide,other antibiotic,
+C[C@@H](C1=C(CCN(C)C)Cc2ccccc21)c1ccccn1,1460,-1.0,dimethindene-(S)-(+),acetylcholine receptor antagonist,HRH1
+Cc1cccc(C)c1NC(=O)CC12CCCN1CCC2,1461,-1.0,pilsicainide,sodium channel blocker,SCN5A
+Oc1ccnc2cc(Cl)ccc12,1462,-1.0,chloroxoquinoline,,
+CCC1(CC)C(=O)NC(=O)NC1=O,1463,-1.0,barbital,sedative,"CHRNA4, CHRNA7, GABRA1, GABRA2, GABRA3, GABRA4, GABRA5, GABRA6, GRIA2, GRIK2"
+COC1=C[C@@H]2[C@@H]3Cc4ccc(OC)c(O)c4[C@]2(CCN3C)CC1=O,1464,-1.0,sinomenine,angiogenesis inhibitor,
+OC[C@@H](O)CN1CCN(c2ccccc2)CC1,1465,-1.0,levodropropizine,antitussive,
+CCN(CC)C(=O)/C(C#N)=C/c1cc(O)c(O)c([N+](=O)[O-])c1,1466,-1.0,entacapone,catechol O methyltransferase inhibitor,COMT
+C[C@](N)(Cc1ccc(O)cc1)C(=O)O,1467,-1.0,metirosine,tyrosine hydroxylase inhibitor,TH
+CC1(C)CCC(C)(C)c2cc(Cn3cccn3)c(/C=C/c3ccc(C(=O)O)cc3)cc21,1468,-1.0,palovarotene,retinoid receptor agonist,RARG
+COc1cc(Br)c(Nc2nc(-c3c(C)nc4ncccn34)cs2)c(Br)c1,1469,0.83751995,PTC-209,BMI-1 inhibitor,
+CO[C@H]1/C=C\C=C(/C)C(=O)NC2=CC(=O)C(NCCN(C)C)=C(C[C@@H](C)C[C@H](OC)[C@H](O)[C@@H](C)/C=C(\C)[C@@H]1OC(N)=O)C2=O,1470,0.5462853729999999,alvespimycin,HSP inhibitor,HSP90AA1
+Clc1cnccn1,1471,-1.0,2-Chloropyrazine,,
+C=C1/C(=C\C=C2/CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)/C=C/[C@H](C)C(C)(C)O)C[C@@H](O)C[C@@H]1O,1472,0.770811061,ercalcitriol,vitamin D receptor agonist,VDR
+COc1cc2c(cc1OC)-c1c/c(=N\c3c(C)cc(C)cc3C)n(C)c(=O)n1CC2,1473,1.0459361679999999,trequinsin,phosphodiesterase inhibitor,PDE5A
+Cn1cc(C(=O)[C@@H]2CCc3nc[nH]c3C2)c2ccccc21,1474,-1.0,ramosetron,serotonin receptor antagonist,HTR3A
+NCC(=O)N[C@@H](CCC(N)=O)C(=O)O,1475,-1.0,gly-gln,,
+O=C(O)P(=O)(O)O,1476,0.938422415,foscarnet,DNA polymerase inhibitor,
+COc1cc(Nc2ncc(F)c(Nc3ccc4c(n3)N(COP(=O)(O)O)C(=O)C(C)(C)O4)n2)cc(OC)c1OC,1477,-1.0,fostamatinib,SYK inhibitor,SYK
+CC[C@H](C)[C@H]1O[C@]2(CC[C@@H]1C)C[C@@H]1C[C@@H](C/C=C(\C)[C@@H](O[C@H]3C[C@H](OC)[C@@H](O[C@H]4C[C@H](OC)[C@@H](O)[C@H](C)O4)[C@H](C)O3)[C@@H](C)/C=C/C=C3\CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2,1478,0.929808803,ivermectin,benzodiazepine receptor agonist,"CHRNA7, GABRB3, GLRA3, P2RX7"
+CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C)C,1479,0.7543359035,neratinib,EGFR inhibitor,"EGFR, ERBB2, KDR"
+O=C(N/N=C/c1ccc([N+](=O)[O-])o1)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,1480,-1.0,nifursol,bacterial DNA inhibitor,
+CN1CCN(S(=O)(=O)c2ccc(-c3cnc(N)c(C(=O)Nc4cccnc4)n3)cc2)CC1,1481,1.3548739680000002,AZD2858,glycogen synthase kinase inhibitor,GSK3B
+c1cncc(CN2CCC(n3ncc4c(N5CCOCC5)nc(-c5ccc6[nH]ccc6c5)nc43)CC2)c1,1482,0.872294146,WAY-600,mTOR inhibitor,MTOR
+CCCCOc1ccc(C(=O)Nc2ccc(F)cc2F)cc1,1483,-1.0,VU0357121,glutamate receptor positive allosteric modulator,GRM5
+COc1cc2c(c(OC)c1OC)-c1c(cc3c(c1OC)OCO3)C[C@H](C)[C@@H](C)C2,1484,-1.0,schisandrin-b,antioxidant,ATR
+Nc1c[n+](N2CCOCC2)no1,1485,-1.0,linsidomine,nitric oxide donor,
+NC(=S)NN=Cc1ccncc1,1486,-1.0,perchlozone,,
+CC1(C)OC[C@@H](COC(=O)CCc2ccc(OC[C@@H](O)CNCCNC(=O)N3CCOCC3)cc2)O1,1487,-1.0,landiolol,adrenergic receptor antagonist,ADRB1
+O=C(NO)c1cnc(N2CCN(S(=O)(=O)c3ccc4ccccc4c3)CC2)nc1,1488,0.79966905,R306465,HDAC inhibitor,
+CCCCc1nc2cc(/C=C/C(=O)NO)ccc2n1CCN(CC)CC,1489,0.6604270489999999,SB-939,HDAC inhibitor,"HDAC1, HDAC10, HDAC3, HDAC4, HDAC5, HDAC9"
+O=Cc1ccc(CO)o1,1490,-1.0,5-HMF,,
+C=C[C@@H]1C[C@]1(NC(=O)[C@@H]1C[C@@H](Oc2ncc(OC)c3ccc(Cl)cc23)CN1C(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C)C(=O)NS(=O)(=O)C1CC1,1491,-1.0,asunaprevir,HCV inhibitor,
+NC(=O)/N=N/C(N)=O,1492,1.252523412,azodicarbonamide,DNA synthesis inhibitor,
+CCCCOC(=O)c1cc2c(cn1)[nH]c1ccccc12,1493,-1.0,beta-CCB,benzodiazepine receptor ligand,"GABRA1, GABRG2"
+COc1cnc(NS(=O)(=O)c2ccc(N)cc2)nc1,1494,-1.0,sulfameter,dihydrofolate reductase inhibitor,DHFR
+CN[C@H](C(=O)N[C@H](C(=O)N(C)[C@H](/C=C(\C)C(=O)O)C(C)C)C(C)(C)C)C(C)(C)c1ccccc1,1495,0.501165017,taltobulin,tubulin polymerization inhibitor,
+Nc1nc2c(sc(=O)n2[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)[nH]1,1496,-1.0,"5-Amino-3-D-ribofuranosylthiazolo[4,5-d]pyrimidin-2,7(3H,6H)-dione",,
+CCCCCCCCCCCCCCCC[n+]1ccccc1,1497,0.7543667409999999,cetylpyridinium,,
+CCn1c(=O)c2c(nc(/C=C/c3ccc(OC)c(OC)c3)n2C)n(CC)c1=O,1498,0.912747023,istradefylline,adenosine receptor antagonist,"ADORA1, ADORA2A, ADORA2B, ADORA3"
+NC(=O)c1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c1O,1499,-1.0,mizoribine,"immunosuppressant, inosine monophosphate dehydrogenase inhibitor",IMPDH1
+CC(C)c1onc(-c2c(Cl)cccc2Cl)c1COc1ccc(/C=C/c2cccc(C(=O)O)c2)c(Cl)c1,1500,-1.0,GW-4064,FXR agonist,NR1H4
+CCOc1ccccc1C(N)=O,1501,-1.0,ethenzamide,analgesic agent,
+COc1ccc(CN(CCN(C)C)c2ncccn2)cc1,1502,-1.0,thonzylamine,antihistamine,
+O=C(CNC(=O)c1ccc(Cl)cc1)NO,1503,-1.0,benurestat,urease inhibitor,
+COC(=O)C1=CCCN(C)C1,1504,-1.0,arecoline,acetylcholine receptor agonist,"CHRM1, CHRM2, CHRM3, CHRM4"
+Cl/C=C\C[N+]12CN3CN(CN(C3)C1)C2,1505,-1.0,"1-((Z)-3-Chloroallyl)-1,3,5,7-tetraazaadamantan-1-ium",,
+O=c1c(-c2ccc(O)cc2)coc2c([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(O)ccc12,1506,-1.0,puerarin,serotonin receptor antagonist,
+C/C(=N/Nc1nnc2c(n1)[nH]c1c(C)cccc12)c1ccccn1,1507,0.7175034579999999,VLX600,ubiquitin C-terminal hydrolase inhibitor,USP14
+Cc1cc(O)ccc1Cl,1508,-1.0,chlorocresol,ryanodine receptor activator,
+CC(C)C[C@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](NC(=O)[C@@H](N)CCC(=O)O)C(C)C)[C@@H](O)C[C@@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1ccccc1)C(=O)O,1509,-1.0,CTS21166,beta-secretase inhibitor,BACE1
+N#C/C(=C\c1ccc(O)c(O)c1)C(=O)OCCc1cccs1,1510,-1.0,2-TEDC,lipoxygenase inhibitor,ALOX12
+CCn1c(O)nc2cc(Cl)c(Cl)cc21,1511,0.8688184590000001,DCEBIO,potassium channel activator,"KCNN2, KCNN3, KCNN4"
+C=CCN=C(N)S,1512,-1.0,allylthiourea,nitrification inhibitor,
+OC[C@H]1NC[C@@H](O)[C@@H](O)[C@@H]1O,1513,-1.0,1-deoxymannojirimycin,alpha mannosidase inhibitor,MAN2A1
+O=C(O)CCC(=O)C(=O)O,1514,-1.0,2-oxoglutaric-acid,,OXGR1
+COc1ccc(-n2nc(CCC(=O)N(C)O)cc2-c2ccc(Cl)cc2)cc1,1515,1.0163336945,tepoxalin,"cyclooxygenase inhibitor, lipoxygenase inhibitor",ALOX5
+CCCc1ncc(C[n+]2ccccc2C)c(N)n1,1516,1.139709646,amprolium,thiamine uptake blocker,
+Ic1cncc(OC[C@@H]2CCN2)c1,1517,-1.0,5-iodo-A-85380,acetylcholine receptor agonist,
+COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,1518,-1.0,thiophanate,,
+Cc1ccc2c(Cl)cc(Cl)c(O)c2n1,1519,0.9485875429999999,chlorquinaldol,other antibiotic,
+NCC(=O)Nc1ccc(-n2nc(C(F)(F)F)cc2-c2ccc3c(ccc4ccccc43)c2)cc1,1520,0.771333376,AR-12,phosphoinositide dependent kinase inhibitor,PDPK1
+CC1(C)CC[C@]2(C(=O)O)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]2C1,1521,-1.0,oleanolic-acid,G protein-coupled receptor agonist,GPBAR1
+COc1nc2ccc(Br)cc2cc1[C@@H](c1ccccc1)[C@@](O)(CCN(C)C)c1cccc2ccccc12,1522,-1.0,bedaquiline,ATPase inhibitor,
+CCCNC(=O)Nc1ccc(Oc2ncnc3cc(OC)c(OC)cc23)cc1Cl,1523,-1.0,KRN-633,VEGFR inhibitor,"FLT1, FLT4, KDR"
+CN[C@H](CC(C)C)C(=O)N[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H]2C(=O)N[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)[C@H](O)c3ccc(c(Cl)c3)Oc3cc2cc(c3O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@H]2C[C@](C)(N)[C@H](O)[C@H](C)O2)Oc2ccc(cc2Cl)[C@H]1O,1524,-1.0,vancomycin,bacterial cell wall synthesis inhibitor,
+Oc1cccc(-c2c3nc(c(-c4cccc(O)c4)c4ccc([nH]4)c(-c4cccc(O)c4)c4nc(c(-c5cccc(O)c5)c5ccc2[nH]5)C=C4)C=C3)c1,1525,-1.0,m-THP,,
+Oc1cc(O)cc(/C=C/c2ccc(O)c(O)c2)c1,1526,-1.0,piceatannol,SYK inhibitor,"ATP5A1, ATP5B, ATP5C1, IRF3"
+O=C(O)/C=C/CO,1527,1.261219038,trans-4-Hydroxycrotonic-acid,gamma hydroxybutyric acid ligand,
+c1ccc2sc(N3CCN(Cc4ccc5c(c4)OCO5)CC3)nc2c1,1528,-1.0,2-[1-(4-piperonyl)piperazinyl]benzothiazole,serotonin receptor agonist,HTR4
+C(=C/c1ccccc1)\CN1CCN(CCOC(c2ccccc2)c2ccccc2)CC1,1529,-1.0,GBR-12783,dopamine uptake inhibitor,
+CC[C@@H]1/C=C(\C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/[C@@H]3CC[C@H](Cl)[C@H](OC)C3)[C@H](C)[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC,1530,-1.0,pimecrolimus,calcineurin inhibitor,"FKBP1A, MTOR"
+O=C(O)Cc1ccc2c(c1)C(=O)c1ccccc1CO2,1531,-1.0,isoxepac,anti-inflammatory agent,
+CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2c-1nc1cc(F)c(C)c3c1c2[C@@H](N)CC3,1532,0.062235895,exatecan-mesylate,topoisomerase inhibitor,TOP1
+CCCCC(C)(C)[C@H](O)/C=C/[C@H]1[C@H](O)CC(=O)[C@@H]1C/C=C\CCCC(=O)O,1533,-1.0,"16,16-dimethylprostaglandin-e2",prostanoid receptor agonist,HPGD
+NCCc1c[nH]c2ccc(C(N)=O)cc12,1534,-1.0,5-carboxamidotryptamine,serotonin receptor agonist,"HTR1A, HTR1B, HTR1D, HTR1E, HTR1F, HTR2A, HTR2B, HTR2C, HTR5A, HTR6, HTR7"
+COc1c(C)c2c(c(O)c1C/C=C(\C)CCC(=O)OCCN1CCOCC1)C(=O)OC2,1535,0.787269278,mycophenolate-mofetil,"dehydrogenase inhibitor, inositol monophosphatase inhibitor","IMPDH1, IMPDH2"
+Cc1onc(O)c1C[C@H](N)C(=O)O,1536,-1.0,AMPA-(S),glutamate receptor agonist,GRIN1
+Fc1ccc(C(OCCN2CCN(C/C=C/c3ccccc3)CC2)c2ccc(F)cc2)cc1,1537,-1.0,GBR-13069,dopamine uptake inhibitor,SLC6A3
+CN1CCN(C2=Cc3ccccc3Oc3ccc(Cl)cc32)CC1,1538,-1.0,2-CMDO,dopamine receptor antagonist,"DRD2, DRD4"
+CO[C@H]1C=CO[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c5c(nc6cc(C)ccn65)c4c3C2=O)NC(=O)/C(C)=C\C=C/[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C,1539,-1.0,rifaximin,RNA synthesis inhibitor,NR1I2
+CC(=O)OCC(COC(C)=O)OC(C)=O,1540,-1.0,triacetin,,
+N=C(N)c1ccc(/N=N/Nc2ccc(C(=N)N)cc2)cc1,1541,-1.0,diminazene-aceturate,angiotensin converting enzyme activator,"AOC1, PRDX5, PRSS1"
+Cc1cc(O)c(C(=O)N[C@@H](C(=O)N[C@@H]2C(=O)N3C(C(=O)O)=C(CSc4nnnn4C)CS[C@H]23)c2ccc(O)cc2)cn1,1542,1.355499449,cefpiramide,bacterial cell wall synthesis inhibitor,
+Nc1nc2c(ncn2[C@@H]2O[C@@H](CO)[C@@H](O)[C@H]2O)c(=O)[nH]1,1543,-1.0,guanosine,,PNP
+FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Br,1544,-1.0,perflubron,contrast agent,
+C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccccc3)CC2)c1O,1545,1.3737828980000002,PAC-1,caspase activator,CASP3
+COc1ccc(O)c(C(C)(C)C)c1,1546,-1.0,butylated-hydroxyanisole,antioxidant,
+CC[C@@H](CO)NCCN[C@@H](CC)CO,1547,-1.0,ethambutol,bacterial cell wall synthesis inhibitor,
+Cc1c(C(N)=O)cc([N+](=O)[O-])cc1[N+](=O)[O-],1548,-1.0,dinitolmide,,
+CCC(C)(C)O,1549,-1.0,amylene-hydrate,local anesthetic,
+CC(=O)Nc1ccc(OC(C)=O)cc1,1550,-1.0,diacetamate,,
+CN(C)CCc1ccc(O)cc1,1551,-1.0,hordenine,,
+CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,1552,1.237187937,tamoxifen,"estrogen receptor antagonist, selective estrogen receptor modulator (SERM)","EBP, ESR1, ESR2, GPER1, PRKCA, PRKCB, PRKCD, PRKCE, PRKCG, PRKCI, PRKCQ, PRKCZ"
+C/C=C(/C)C(=O)O[C@H]1C(C)=C[C@]23C(=O)[C@@H](C=C(CO)[C@@H](O)[C@]12O)[C@H]1[C@@H](C[C@H]3C)C1(C)C,1553,1.191292478,ingenol-mebutate,PKC activator,"PRKCA, PRKCB, PRKCD, PRKCE, PRKCG"
+COc1ccc(C(C)=O)c(O)c1,1554,-1.0,paeonol,anti-inflammatory agent,
+CCCCCCCCCC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N[C@H](CC(N)=O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H]1C(=O)NCC(=O)N[C@@H](CCCN)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H](C)C(=O)N[C@@H](CC(=O)O)C(=O)NCC(=O)N[C@H](CO)C(=O)N[C@@H]([C@@H](C)CC(=O)O)C(=O)N[C@@H](CC(=O)c2ccccc2N)C(=O)O[C@@H]1C,1555,-1.0,daptomycin,bacterial cell wall synthesis inhibitor,
+CC(=O)O/N=C1/C(=O)N(Cc2cc(Cl)ccc2Cl)c2ccc(Cl)cc21,1556,0.921605703,LDN-57444,ubiquitin C-terminal hydrolase inhibitor,
+CCOC(=O)[C@@H](N)Cc1ccc(-c2cc(O[C@H](c3ccc(Cl)cc3-n3ccc(C)n3)C(F)(F)F)nc(N)n2)cc1,1557,1.164712542,telotristat-ethyl,tryptophan hydroxylase inhibitor,TPH1
+O=C(O)c1cc(=O)c2ccccc2o1,1558,0.9418186820000001,chromocarb,antispasmodic,
+CC1(C)CC(O)CC(C)(C)N1O,1559,-1.0,tempol,free radical scavenger,
+COC(=O)/C=C/C(=O)N[C@@H]1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)[C@H]1O5,1560,-1.0,beta-funaltrexamine,opioid receptor antagonist,"OPRD1, OPRK1, OPRM1"
+CCCC[C@@H](CC)COC(=O)c1ccccc1O,1561,-1.0,octisalate,,
+C/C=C(C(=C/C)/c1ccc(O)cc1)\c1ccc(O)cc1,1562,-1.0,dienestrol,estrogen receptor agonist,ESR1
+C[C@]12CC[C@H]3[C@@H](CC(=O)[C@H]4C/C(=N/OCCN)CC[C@@]43C)[C@@H]1CCC2=O,1563,-1.0,istaroxime,ATPase inhibitor,ATP1A1
+Cc1[nH]c(/C=C2\C(=O)Nc3ccc(S(=O)(=O)Cc4c(Cl)cccc4Cl)cc32)c(C)c1C(=O)N1CCC[C@@H]1CN1CCCC1,1564,0.8414360879999999,PHA-665752,c-Met inhibitor,MET
+CCCCCCCC/C=C\CCCCCCCC(=O)NCCc1ccc(O)c(O)c1,1565,1.284469507,OLDA,TRPV agonist,GPR119
+O=C(/C=C/c1ccc2ccccc2n1)c1ccncc1,1566,0.948458703,PFK-015,phosphofructokinase inhibitor,PFKFB3
+Cc1c(NC(=O)N2CCOCC2)ccc2c1c1ccccc1n2C(C)C,1567,-1.0,NPY-5RA972,neuropeptide receptor antagonist,NPY5R
+COc1ccc(CNC(=O)c2cc(-c3cncc(C)c3)ncc2-c2nccs2)nc1OC,1568,-1.0,MK-3697,orexin receptor antagonist,HCRTR2
+O=C(Nc1ccccc1-c1cn2c(CN3CCNCC3)csc2n1)c1cnc2ccccc2n1,1569,0.9721640340000001,SRT1720,SIRT activator,SIRT1
+CC(C)Nc1ncccn1,1570,-1.0,isaxonine,nerve growth factor agonist,
+CC(=O)N1CCN(C)CC1,1571,-1.0,1-acetyl-4-methylpiperazine,acetylcholine receptor agonist,
+CC[C@@H]1[C@@H](C)O[C@@](O)([C@@H](C)[C@H](O)[C@H](C)[C@H]2OC(=O)/C=C/C=C/[C@H](C)[C@H]([C@@H](C)[C@@H](O)[C@H](C)[C@@]3(O)C[C@@H](O[C@H]4C[C@H](O)[C@H](O)[C@H](C)O4)[C@H](CC)[C@@H](C)O3)OC(=O)/C=C/C=C/[C@H]2C)C[C@H]1O[C@H]1C[C@H](O)[C@H](O)[C@H](C)O1,1572,0.790581621,azalomycin-b,bacterial 50S ribosomal subunit inhibitor,
+CC1(C)[C@@H](O)CC[C@@]2(C)[C@H]1CC[C@]1(C)[C@@H]2C(=O)C=C2[C@@H]3C[C@@](C)(C(=O)O)CC[C@]3(C)CC[C@]21C,1573,-1.0,enoxolone,gap junction modulator,HSD11B1
+Nc1ccn(C[C@@H](CO)OCP(=O)(O)O)c(=O)n1,1574,1.239603928,cidofovir,DNA polymerase inhibitor,
+CC(C)(C)C(=O)OCOP(=O)(COCCn1cnc2c(N)ncnc21)OCOC(=O)C(C)(C)C,1575,0.77679156,adefovir-dipivoxil,DNA polymerase inhibitor,
+O=C(/C=C/c1ccc(O)c(O)c1)OCCc1ccccc1,1576,1.33525669,caffeic-acid-phenethyl-ester,HIV integrase inhibitor,RELA
+COc1cc(/C=C/c2ccc(OC)cc2OC)cc(OC)c1,1577,1.004577215,TMS,,
+Cc1c(C(=O)Nc2ccc(N3CCC(N4CCOCC4)CC3)c(C#N)c2)cnn1-c1ccc(Cl)cc1,1578,1.217047408,Y-320,interleukin inhibitor,IL17A
+COc1cc(O)cc([C@@H]2CC(=O)c3c(O)cc(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)cc3O2)c1,1579,-1.0,neohesperidin,,
+COC(=O)C[C@@](O)(CCC(C)(C)O)C(=O)O[C@@H]1C(OC)=C[C@]23CCCN2CCc2cc4c(cc2[C@@H]13)OCO4,1580,0.8460251409999999,harringtonine,protein synthesis inhibitor,
+C1=C2CCCN[C@H]2[C@@H]2C[C@H]1[C@H]1CCCCN1C2,1581,-1.0,aloperine,,
+CCCCCCCCCCCCCCCC(=O)OC[C@H](NC(=O)C(Cl)Cl)[C@H](O)c1ccc([N+](=O)[O-])cc1,1582,-1.0,chloramphenicol-palmitate,protein synthesis inhibitor,
+O=c1[nH]c2ccccc2c(=O)n1CCCN1CCN(c2ccccc2)CC1,1583,-1.0,pelanserin,serotonin receptor antagonist,HTR2A
+CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@@]1(C)C(=O)[C@H](O)C3=C(C)[C@@H](O)C[C@@](O)([C@@H](OC(=O)c4ccccc4)[C@@H]12)C3(C)C,1584,0.8622687640000001,10-deacetylbaccatin,antitumor agent,
+CC(C)COC(=O)c1ccc(N)cc1,1585,-1.0,isobutamben,local anesthetic,
+Nc1nc(=O)c2c([nH]1)NC[C@H](CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)N2C=O,1586,-1.0,calcium-levofolinate,,
+N#Cc1c(N)nc(SCc2csc(-c3ccc(Cl)cc3)n2)c(C#N)c1-c1ccc(OCCO)cc1,1587,-1.0,capadenoson,adenosine receptor agonist,ADORA1
+C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@@H](OC(=O)OCC)c1ccnc2ccc(OC)cc12,1588,-1.0,quinine-ethyl-carbonate,,
+CCN1/C(=C/C(C)=O)Sc2ccc(OC)cc21,1589,-1.0,TG-003,CLK inhibitor,"CLK1, CLK4, DYRK1A, DYRK1B"
+N[C@@H](CC(=O)O)C(=O)O,1590,-1.0,L-Aspartic-Acid,metallic radical formation stimulant,"ACY1, ACY3, ADSS, ADSSL1, ASNS, ASPA, ASPH, ASRGL1, ASS1, CAD, DARS, DARS2, GOT1, GOT2, GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D, LYZ, PAICS, RNASE1, SLC1A1, SLC25A12, SLC25A13"
+COC(=O)C1=C(C)NC(C)=C(C(=O)O[C@@H]2CCCN(Cc3ccccc3)C2)[C@@H]1c1cccc([N+](=O)[O-])c1,1591,-1.0,benidipine,calcium channel blocker,"CACNA1C, CACNA1G"
+C#C[C@]1(O)C=C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@@]21CC,1592,-1.0,gestodene,contraceptive agent,
+CN1CCN(CC/C=C2\c3ccccc3Sc3ccc(S(=O)(=O)N(C)C)cc32)CC1,1593,-1.0,thiothixene,dopamine receptor antagonist,"DRD1, DRD2, HRH1, HTR2A"
+COc1ccc(Cc2cnc(N)nc2N)cc1OC,1594,1.183801472,diaveridine,dihydrofolate reductase inhibitor,
+COc1cnc(-n2cnc(C)n2)c2[nH]cc(C(=O)C(=O)N3CCN(C(=O)c4ccccc4)CC3)c12,1595,1.0,BMS-626529,HIV attachment inhibitor,
+COc1ccc(CNC(=O)/C=C/c2ccc3[nH]cc(CCN(C)C)c3c2)cc1,1596,-1.0,GR46611,serotonin receptor agonist,HTR1D
+Cc1cc(C)cc(C(=O)N(C)[C@H](Cc2ccc(-c3ccccc3)cc2)C(=O)N[C@@H](Cc2c[nH]c3ccccc23)C(=O)O)c1,1597,-1.0,IRL-2500,endothelin receptor antagonist,EDNRB
+N#Cc1c(N2C[C@@H]3NCCO[C@H]3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,1598,1.4774921559999998,finafloxacin,bacterial DNA gyrase inhibitor,
+CC(C)=CCC/C(C)=C/CC/C(C)=C/CSc1ccccc1C(=O)O,1599,-1.0,salirasib,mTOR inhibitor,TRPA1
+C=C1C(=O)O[C@H]2[C@H]1CC/C(C)=C/CC[C@@]1(C)O[C@@H]21,1600,0.862643266,parthenolide,NFkB pathway inhibitor,
+CCOC(=O)[C@@H](N)CCC(=O)N[C@@H](CSCc1ccccc1)C(=O)N[C@@H](C(=O)OCC)c1ccccc1,1601,-1.0,ezatiostat,glutathione transferase inhibitor,GSTP1
+CC(=O)Nc1cc([As](=O)(O)O)ccc1O,1602,-1.0,acetarsol,,
+O=C(NNc1ccccc1)c1ccncc1,1603,-1.0,plurisin-#1,stearoyl-CoA desaturase inhibitor,SCD
+C/C(=N\NC(=S)N1CCC1)c1ccccn1,1604,0.44342189299999996,NSC-319726,p53 activator,
+CC(=O)Nc1c(I)c(C(=O)O)c(I)c(N(C)C(C)=O)c1I,1605,-1.0,metrizoic-acid,radiopaque medium,
+O=P(O)(O)F,1606,-1.0,sodium-monofluorophosphate,,PYGM
+CC(C)(C)c1[nH]cnc1/C=c1\[nH]c(=O)/c(=C/c2ccccc2)[nH]c1=O,1607,0.559857927,plinabulin,tubulin polymerization inhibitor,
+Cc1nn(-c2ccccc2)c(C)c1/C=N/N1CCN(Cc2ccccc2)CC1,1608,-1.0,SANT-1,smoothened receptor antagonist,"SHH, SMO"
+CCS(=O)(=O)N(C)[C@@H]1c2cc(C#N)ccc2OC(C)(C)[C@H]1O,1609,-1.0,chromanol-(+/-),potassium channel blocker,
+O=C(O)C(=O)O,1610,-1.0,bismuth-oxalate,,
+CC(C)O,1611,-1.0,indium(iii)-isopropoxide,,
+NC(=S)N/N=C/c1coc2ccccc2c1=O,1612,-1.0,FPA-124,AKT inhibitor,
+CC(O)C(=O)O,1613,1.28853109,ammonium-lactate,,HCAR1
+N[C@@]1(C(=O)O)CC[C@H](C(=O)O)C1,1614,-1.0,cis-ACPD,glutamate receptor agonist,"GRM2, GRM3, GRM6, GRM7, GRM8"
+Brc1cc2c(cc1[C@@H]1Nc3ccccc3[C@@H]3C=CC[C@@H]31)OCO2,1615,-1.0,G-15,estrogen receptor antagonist,GPER1
+O=C(O)CC(O)(CC(=O)O)C(=O)O,1616,-1.0,lithium-citrate,,
+O=C(O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,1617,-1.0,sodium-gluconate,,
+O=S(=O)(O)C(F)(F)F,1618,-1.0,bismuth(iii)-trifluoromethanesulfonate,direct substitution catalyst,
+N[C@@H](C(=O)O)[C@@H](OCc1ccccc1)C(=O)O,1619,-1.0,TBOA-(DL),excitatory amino acid transporter inhibitor,"SLC1A1, SLC1A2, SLC1A3, SLC1A6, SLC1A7"
+O=[Si]=O,1620,-1.0,talc,,
+CC1=C(C(=O)OCCN(Cc2ccccc2)c2ccccc2)C(c2cccc([N+](=O)[O-])c2)C(P2(=O)OCC(C)(C)CO2)=C(C)N1,1621,0.941036733,efonidipine-monoethanolate,"L-type calcium channel blocker, T-type calcium channel blocker","CACNA1C, CACNA1G"
+CC(C)(C)CC(C)(C)c1ccc(O)cc1,1622,-1.0,tyloxapol,NFkB pathway inhibitor,"LPL, NFKB2"
+C=CCN,1623,1.097298552,sevelamer,phosphate antagonist,
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)O[C@H](COC(=O)CCCCCCCCCCCCCCC)COP(=O)(O)OCC[N+](C)(C)C,1624,-1.0,phosphatidylcholine,,PCTP

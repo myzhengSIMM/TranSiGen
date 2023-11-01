@@ -3,7 +3,7 @@ code for "TranSiGen: Deep representation learning of chemical-induced transcript
 
 
 ### Train model
-'
+```
 python train_TranSiGen_full_data.py --data_path ../dataLINCS2020/processed_data_id.h5
                                     --molecule_path ../data/LINCS2020/idx2smi.pickle
                                     --molecule_feature KPGT
@@ -19,10 +19,10 @@ python train_TranSiGen_full_data.py --data_path ../dataLINCS2020/processed_data_
                                     --weight_decay 1e-5
                                     --train_flag True
                                     --eval_metric True
-'
+```
 
 ### Infer profile
-'
+```
 python train_TranSiGen_full_data.py --data_path ../dataLINCS2020/processed_data_id.h5
                                     --molecule_path ../data/LINCS2020/idx2smi.pickle
                                     --molecule_feature KPGT
@@ -38,4 +38,4 @@ python train_TranSiGen_full_data.py --data_path ../dataLINCS2020/processed_data_
                                     --weight_decay 1e-5
                                     --train_flag True
                                     --eval_metric True
-'
+```

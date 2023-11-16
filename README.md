@@ -39,3 +39,14 @@ python train_TranSiGen_full_data.py --data_path ../dataLINCS2020/processed_data_
                                     --train_flag True
                                     --eval_metric True
 ```
+
+### Setup and dependencies
+requirements.txt contains environment of this project.
+
+### Requirements
+python = 3.6.13  
+pytorch = 1.5.1  
+cmappy = 4.0.1  
+scikit-learn = 0.24.2  
+numpy = 1.19.5  
+rdkit = 2020.09.1  

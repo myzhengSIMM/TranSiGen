@@ -1,7 +1,7 @@
 # TranSiGen
 code for "TranSiGen: Deep representation learning of chemical-induced transcriptional profile"
 
-![Image text](https://github.com/myzheng-SIMM/TranSiGen/blob/main/data/Fig1.tif)
+![Image text](https://github.com/myzheng-SIMM/TranSiGen/blob/main/data/TranSiGen.jpg)  
 Fig. 1 TranSiGen’s architecture and application. a The data processing flow for TranSiGen. b The architecture and inference process of TranSiGen. c The applications of TranSiGen-derived representation.
 
 ### Train model

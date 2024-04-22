@@ -11,14 +11,17 @@ class TranSiGenDataset(Dataset):
         self.mol_feature_type = mol_feature_type
         self.mol_id = mol_id
         self.cid = cid
-        self.LINCS_data = load_from_HDF('../data/LINCS2020/processed_data.h5')
+        # self.LINCS_data = load_from_HDF('../data/LINCS2020/processed_data.h5')
+        self.LINCS_data = load_from_HDF('../data/LINCS2020/data_example/processed_data.h5')
         with open('../data/LINCS2020/idx2smi.pickle', 'rb') as f:
             self.idx2smi = pickle.load(f)
         if self.mol_feature_type == 'ECFP4':
-            with open('../data/LINCS2020/ECFP4_emb2048.pickle', 'rb') as f:
+            # with open('../data/LINCS2020/ECFP4_emb2048.pickle', 'rb') as f:
+            with open('../data/LINCS2020/data_example/ECFP4_emb2048.pickle', 'rb') as f:
                 self.smi2emb = pickle.load(f)
         elif self.mol_feature_type == 'KPGT':
-            with open('../data/LINCS2020/KPGT_emb2304.pickle', 'rb') as f:
+            # with open('../data/LINCS2020/KPGT_emb2304.pickle', 'rb') as f:
+            with open('../data/LINCS2020/data_example/KPGT_emb2304.pickle', 'rb') as f:
                 self.smi2emb = pickle.load(f)
 
     def __getitem__(self, index):

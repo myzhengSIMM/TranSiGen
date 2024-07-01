@@ -31,6 +31,7 @@ python prediction.py --model_path   ../results/trained_models_164_cell_smiles_sp
                      --cell YAPC
                      --seed 100
 ```
+(infer_weight.gctx for inference has been uploaded in Release)
 
 ### Setup and dependencies
 requirements.txt contains environment of this project.

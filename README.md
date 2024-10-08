@@ -45,7 +45,7 @@ numpy = 1.19.5
 rdkit = 2020.09.1  
 
 ### Update
-The following required files can be downloaded from the Release:
+The following required files can be downloaded from the Release:  
 processed_data.h5  
 infer_weight.gctx  
 ligand_based_virtual_screening.rar

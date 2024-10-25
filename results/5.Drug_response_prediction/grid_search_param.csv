@@ -1,0 +1,8 @@
+criterion,max_depth,n_estimators,oob_score,data
+mae,20,250,True,$\mathit{\Delta}X$
+mse,10,50,True,TranSiGen
+mae,30,50,True,DeepCE
+mae,30,300,True,CIGER
+mse,10,50,True,DLEPS
+mse,40,250,True,ECFP4+$\mathit{X}_1$
+mae,10,300,True,KPGT+$\mathit{X}_1$

@@ -31,10 +31,16 @@ python prediction.py --model_path   ../results/trained_models_164_cell_smiles_sp
                      --cell YAPC
                      --seed 100
 ```
-(infer_weight.gctx for inference has been uploaded in Release)
+
 
 ### Setup and dependencies
 requirements.txt contains environment of this project.
+
+The following required files can be downloaded from the Release:
+  processed_data.h5
+  infer_weight.gctx
+  ligand_based_virtual_screening.rar
+  
 
 ### Requirements
 python = 3.6.13  

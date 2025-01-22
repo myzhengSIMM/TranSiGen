@@ -10,8 +10,8 @@ warnings.filterwarnings('ignore')
 def parse_args():
     parser = argparse.ArgumentParser(description="Arguments for prediction")
     parser.add_argument("--model_path", type=str, default='../results/trained_models_164_cell_smiles_split/364039/feature_KPGT_init_pretrain_shRNA/best_model.pt')
-    parser.add_argument("--data_path", type=str, default='../data/PRISM/screening_compound.csv')
-    parser.add_argument("--molecule_feature_embed_path", type=str, default='../data/PRISM/KPGT_emb2304.pickle')
+    parser.add_argument("--data_path", type=str, default="/home/jovyan/project/platform-publication/benchmarking/transigen/data/concatenated_smiles.parquet")
+    parser.add_argument("--molecule_feature_embed_path", type=str, default="/home/jovyan/project/platform-publication/benchmarking/transigen/data/smi2kpgt.pkl")
     parser.add_argument("--cell", type=str, default='YAPC')
     parser.add_argument("--seed", type=int, default=364039)
     parser.add_argument("--dev", type=str, default='cuda:0')
@@ -45,15 +45,15 @@ def prediction_profiles(args):
     random_seed = args.seed
     with open(args.molecule_feature_embed_path, 'rb') as f:
         smi2emb = pickle.load(f)
-    df_screening = pd.read_csv(args.data_path)
+    df_screening = pd.read_parquet(args.data_path)
 
     emb_array = []
     smi_idx_array = []
     for idx, row in df_screening.iterrows():
-        smi = row['canonical_smiles']
+        smi = row['smiles']
         emb_array.append(smi2emb[smi])
-        smi_idx_array.append(row['cp_id'])
-    emb_array = np.array(emb_array)
+        smi_idx_array.append(idx)
+    emb_array = np.array(emb_array).astype(np.float32)
     smi_idx_array = np.array(smi_idx_array)
     cid_array = np.array([selected_cid] * emb_array.shape[0])
     x1_array = dict_modz_x1_all_cid[selected_cid]
@@ -85,7 +85,7 @@ def prediction_profiles(args):
 
     for k in ddict_data.keys():
         print(k, ddict_data[k].shape)
-    save_to_HDF('../results/6.Phenotype_based_drug_repurposing/prediction_profile_{}_{}.h5'.format(selected_cid, random_seed), ddict_data)
+    save_to_HDF('../results/prediction_profile_{}_{}.h5'.format(selected_cid, random_seed), ddict_data)
 
 
 

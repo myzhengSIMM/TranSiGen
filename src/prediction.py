@@ -15,6 +15,7 @@ def parse_args():
     parser.add_argument("--cell", type=str, default='YAPC')
     parser.add_argument("--seed", type=int, default=364039)
     parser.add_argument("--dev", type=str, default='cuda:0')
+    parser.add_argument("--modz_path", type=str, default='../data/LINCS2020/modz_x1.pickle')
 
     args = parser.parse_args()
     return args
@@ -31,7 +32,7 @@ def prediction_profiles(args):
     infer_weight_df = infer_weight_df_tmp[['OFFSET'] + landmark_ids]
     infer_weight_df = infer_weight_df.loc[best_infer_ids]
 
-    with open('../data/LINCS2020/modz_x1.pickle', 'rb') as f:
+    with open(args.modz_path, 'rb') as f:
         dict_modz_x1_all_cid = pickle.load(f)
 
 

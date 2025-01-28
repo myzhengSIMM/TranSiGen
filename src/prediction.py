@@ -10,7 +10,7 @@ warnings.filterwarnings('ignore')
 def parse_args():
     parser = argparse.ArgumentParser(description="Arguments for prediction")
     parser.add_argument("--model_path", type=str, default='../results/trained_models_164_cell_smiles_split/364039/feature_KPGT_init_pretrain_shRNA/best_model.pt')
-    parser.add_argument("--data_path", type=str, default="/home/jovyan/project/platform-publication/benchmarking/transigen/data/concatenated_smiles.parquet")
+    parser.add_argument("--data_path", type=str, default="/home/jovyan/project/platform-publication/benchmarking/transigen/KPGT/datasets/ours/ours.csv")
     parser.add_argument("--molecule_feature_embed_path", type=str, default="/home/jovyan/project/platform-publication/benchmarking/transigen/data/smi2kpgt.pkl")
     parser.add_argument("--cell", type=str, default='YAPC')
     parser.add_argument("--seed", type=int, default=364039)
@@ -46,7 +46,7 @@ def prediction_profiles(args):
     random_seed = args.seed
     with open(args.molecule_feature_embed_path, 'rb') as f:
         smi2emb = pickle.load(f)
-    df_screening = pd.read_parquet(args.data_path)
+    df_screening = pd.read_csv(args.data_path, index_col=0)
 
     emb_array = []
     smi_idx_array = []

@@ -11,7 +11,8 @@ Create the Conda environment from env.yml
 Activate the newly created environment
 `conda activate transigen`
 
-Install additional requirements using pip
+Install additional requirements using pip:
+`pip install torch==1.5.1+cu92 torchvision==0.6.1+cu92 -f https://download.pytorch.org/whl/torch_stable.html`
 `pip install -r pip-requirements.txt`
 
 
